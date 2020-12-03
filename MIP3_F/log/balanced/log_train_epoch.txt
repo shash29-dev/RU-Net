@@ -1,0 +1,185 @@
+Train Epoch 0 : Mean Loss: 1.292
+
+Train Epoch 1 : Mean Loss: 1.178
+
+Train Epoch 2 : Mean Loss: 1.082
+
+Train Epoch 3 : Mean Loss: 1.007
+
+Train Epoch 4 : Mean Loss: 0.944
+
+Train Epoch 5 : Mean Loss: 0.897
+
+Train Epoch 6 : Mean Loss: 0.863
+
+Train Epoch 7 : Mean Loss: 0.831
+
+Train Epoch 8 : Mean Loss: 0.806
+
+Train Epoch 9 : Mean Loss: 0.788
+
+Train Epoch 10 : Mean Loss: 0.771
+
+Train Epoch 11 : Mean Loss: 0.754
+
+Train Epoch 12 : Mean Loss: 0.743
+
+Train Epoch 13 : Mean Loss: 0.736
+
+Train Epoch 14 : Mean Loss: 0.728
+
+Train Epoch 15 : Mean Loss: 0.719
+
+Train Epoch 16 : Mean Loss: 0.710
+
+Train Epoch 17 : Mean Loss: 0.698
+
+Train Epoch 18 : Mean Loss: 0.693
+
+Train Epoch 19 : Mean Loss: 0.688
+
+Train Epoch 20 : Mean Loss: 0.686
+
+Train Epoch 21 : Mean Loss: 0.680
+
+Train Epoch 22 : Mean Loss: 0.677
+
+Train Epoch 23 : Mean Loss: 0.677
+
+Train Epoch 24 : Mean Loss: 0.673
+
+Train Epoch 25 : Mean Loss: 0.673
+
+Train Epoch 26 : Mean Loss: 0.672
+
+Train Epoch 27 : Mean Loss: 0.671
+
+Train Epoch 28 : Mean Loss: 0.670
+
+Train Epoch 29 : Mean Loss: 0.671
+
+Train Epoch 30 : Mean Loss: 0.668
+
+Train Epoch 31 : Mean Loss: 0.667
+
+Train Epoch 32 : Mean Loss: 0.668
+
+Train Epoch 33 : Mean Loss: 0.669
+
+Train Epoch 34 : Mean Loss: 0.669
+
+Train Epoch 35 : Mean Loss: 0.667
+
+Train Epoch 36 : Mean Loss: 0.664
+
+Train Epoch 37 : Mean Loss: 0.668
+
+Train Epoch 38 : Mean Loss: 0.667
+
+Train Epoch 39 : Mean Loss: 0.665
+
+Train Epoch 40 : Mean Loss: 0.666
+
+Train Epoch 41 : Mean Loss: 0.667
+
+Train Epoch 42 : Mean Loss: 0.666
+
+Train Epoch 43 : Mean Loss: 0.665
+
+Train Epoch 44 : Mean Loss: 0.663
+
+Train Epoch 45 : Mean Loss: 0.665
+
+Train Epoch 46 : Mean Loss: 0.666
+
+Train Epoch 47 : Mean Loss: 0.664
+
+Train Epoch 48 : Mean Loss: 0.665
+
+Train Epoch 49 : Mean Loss: 0.663
+
+Train Epoch 50 : Mean Loss: 0.664
+
+Train Epoch 51 : Mean Loss: 0.666
+
+Train Epoch 52 : Mean Loss: 0.662
+
+Train Epoch 53 : Mean Loss: 0.666
+
+Train Epoch 54 : Mean Loss: 0.666
+
+Train Epoch 55 : Mean Loss: 0.663
+
+Train Epoch 56 : Mean Loss: 0.662
+
+Train Epoch 57 : Mean Loss: 0.663
+
+Train Epoch 58 : Mean Loss: 0.662
+
+Train Epoch 59 : Mean Loss: 0.664
+
+Train Epoch 60 : Mean Loss: 0.664
+
+Train Epoch 61 : Mean Loss: 0.662
+
+Train Epoch 62 : Mean Loss: 0.663
+
+Train Epoch 63 : Mean Loss: 0.664
+
+Train Epoch 64 : Mean Loss: 0.662
+
+Train Epoch 65 : Mean Loss: 0.663
+
+Train Epoch 66 : Mean Loss: 0.660
+
+Train Epoch 67 : Mean Loss: 0.660
+
+Train Epoch 68 : Mean Loss: 0.662
+
+Train Epoch 69 : Mean Loss: 0.663
+
+Train Epoch 70 : Mean Loss: 0.640
+
+Train Epoch 71 : Mean Loss: 0.636
+
+Train Epoch 72 : Mean Loss: 0.635
+
+Train Epoch 73 : Mean Loss: 0.633
+
+Train Epoch 74 : Mean Loss: 0.633
+
+Train Epoch 75 : Mean Loss: 0.633
+
+Train Epoch 76 : Mean Loss: 0.632
+
+Train Epoch 77 : Mean Loss: 0.631
+
+Train Epoch 78 : Mean Loss: 0.631
+
+Train Epoch 79 : Mean Loss: 0.631
+
+Train Epoch 80 : Mean Loss: 0.630
+
+Train Epoch 81 : Mean Loss: 0.629
+
+Train Epoch 82 : Mean Loss: 0.629
+
+Train Epoch 83 : Mean Loss: 0.630
+
+Train Epoch 84 : Mean Loss: 0.631
+
+Train Epoch 85 : Mean Loss: 0.630
+
+Train Epoch 86 : Mean Loss: 0.630
+
+Train Epoch 87 : Mean Loss: 0.632
+
+Train Epoch 88 : Mean Loss: 0.631
+
+Train Epoch 89 : Mean Loss: 0.631
+
+Train Epoch 90 : Mean Loss: 0.629
+
+Train Epoch 91 : Mean Loss: 0.632
+
+Train Epoch 92 : Mean Loss: 0.629

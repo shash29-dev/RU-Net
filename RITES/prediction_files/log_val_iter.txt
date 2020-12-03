@@ -1,0 +1,60 @@
+Validation: epoch:300, step:0/20, loss: 0.3676, time:0.02 min
+	Gland Acc:95.1, mIoU: 81.4, Acc: 96.9, 82.9
+
+Validation: epoch:300, step:1/20, loss: 0.2754, time:0.13 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.6, 85.7
+
+Validation: epoch:300, step:2/20, loss: 0.3085, time:0.24 min
+	Gland Acc:95.0, mIoU: 81.2, Acc: 96.2, 86.5
+
+Validation: epoch:300, step:3/20, loss: 0.2644, time:0.35 min
+	Gland Acc:95.0, mIoU: 80.8, Acc: 96.1, 86.8
+
+Validation: epoch:300, step:4/20, loss: 0.3068, time:0.46 min
+	Gland Acc:94.9, mIoU: 80.9, Acc: 96.0, 87.2
+
+Validation: epoch:300, step:5/20, loss: 0.2414, time:0.58 min
+	Gland Acc:94.9, mIoU: 80.7, Acc: 96.0, 87.2
+
+Validation: epoch:300, step:6/20, loss: 0.2891, time:0.69 min
+	Gland Acc:95.0, mIoU: 81.0, Acc: 96.1, 86.6
+
+Validation: epoch:300, step:7/20, loss: 0.3251, time:0.80 min
+	Gland Acc:95.0, mIoU: 80.9, Acc: 96.3, 85.4
+
+Validation: epoch:300, step:8/20, loss: 0.3350, time:0.91 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.4, 85.5
+
+Validation: epoch:300, step:9/20, loss: 0.2956, time:1.03 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.5, 85.2
+
+Validation: epoch:300, step:10/20, loss: 0.3178, time:1.14 min
+	Gland Acc:95.0, mIoU: 80.8, Acc: 96.3, 85.5
+
+Validation: epoch:300, step:11/20, loss: 0.2492, time:1.25 min
+	Gland Acc:95.0, mIoU: 81.0, Acc: 96.3, 85.6
+
+Validation: epoch:300, step:12/20, loss: 0.3106, time:1.36 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.4, 85.2
+
+Validation: epoch:300, step:13/20, loss: 0.2775, time:1.47 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.4, 85.4
+
+Validation: epoch:300, step:14/20, loss: 0.3450, time:1.58 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.5, 84.9
+
+Validation: epoch:300, step:15/20, loss: 0.2379, time:1.69 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.6, 84.8
+
+Validation: epoch:300, step:16/20, loss: 0.2799, time:1.80 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.5, 85.0
+
+Validation: epoch:300, step:17/20, loss: 0.3813, time:1.91 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.6, 84.6
+
+Validation: epoch:300, step:18/20, loss: 0.2960, time:2.02 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.6, 84.5
+
+Validation: epoch:300, step:19/20, loss: 0.2238, time:2.13 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.7, 84.6
+

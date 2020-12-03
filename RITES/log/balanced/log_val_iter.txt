@@ -1,0 +1,1290 @@
+Validation: epoch:0, step:0/5, loss: 0.7175,time:0.08 min
+	Gland Acc:13.1, mIoU: 6.6, Acc: nan, 13.1
+
+Validation: epoch:0, step:1/5, loss: 0.7172,time:0.13 min
+	Gland Acc:13.0, mIoU: 6.5, Acc: nan, 13.0
+
+Validation: epoch:0, step:2/5, loss: 0.7164,time:0.19 min
+	Gland Acc:13.4, mIoU: 6.7, Acc: nan, 13.4
+
+Validation: epoch:0, step:3/5, loss: 0.7173,time:0.24 min
+	Gland Acc:13.3, mIoU: 6.7, Acc: nan, 13.3
+
+Validation: epoch:0, step:4/5, loss: 0.7175,time:0.29 min
+	Gland Acc:13.1, mIoU: 6.5, Acc: nan, 13.1
+
+Validation: epoch:100, step:0/5, loss: 0.3142,time:2.51 min
+	Gland Acc:94.4, mIoU: 78.9, Acc: 95.2, 88.2
+
+Validation: epoch:100, step:1/5, loss: 0.3881,time:2.56 min
+	Gland Acc:94.9, mIoU: 80.0, Acc: 96.0, 86.4
+
+Validation: epoch:100, step:2/5, loss: 0.3897,time:2.62 min
+	Gland Acc:95.0, mIoU: 80.0, Acc: 96.2, 85.5
+
+Validation: epoch:100, step:3/5, loss: 0.3191,time:2.67 min
+	Gland Acc:94.9, mIoU: 79.8, Acc: 96.1, 85.4
+
+Validation: epoch:100, step:4/5, loss: 0.3053,time:2.72 min
+	Gland Acc:95.0, mIoU: 80.3, Acc: 96.2, 85.4
+
+Validation: epoch:200, step:0/5, loss: 0.3064,time:4.95 min
+	Gland Acc:95.0, mIoU: 81.6, Acc: 96.4, 85.9
+
+Validation: epoch:200, step:1/5, loss: 0.2491,time:5.00 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.6, 84.3
+
+Validation: epoch:200, step:2/5, loss: 0.2606,time:5.05 min
+	Gland Acc:95.0, mIoU: 80.8, Acc: 96.6, 84.0
+
+Validation: epoch:200, step:3/5, loss: 0.2200,time:5.11 min
+	Gland Acc:95.1, mIoU: 80.9, Acc: 96.6, 83.9
+
+Validation: epoch:200, step:4/5, loss: 0.2805,time:5.16 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.6, 84.3
+
+Validation: epoch:300, step:0/5, loss: 0.2408,time:7.39 min
+	Gland Acc:95.0, mIoU: 80.3, Acc: 96.3, 85.1
+
+Validation: epoch:300, step:1/5, loss: 0.2588,time:7.44 min
+	Gland Acc:94.9, mIoU: 80.4, Acc: 96.1, 85.7
+
+Validation: epoch:300, step:2/5, loss: 0.2080,time:7.50 min
+	Gland Acc:95.1, mIoU: 80.8, Acc: 96.3, 85.7
+
+Validation: epoch:300, step:3/5, loss: 0.2323,time:7.55 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.6, 84.7
+
+Validation: epoch:300, step:4/5, loss: 0.2356,time:7.60 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.5, 84.8
+
+Validation: epoch:400, step:0/5, loss: 0.3150,time:9.83 min
+	Gland Acc:95.3, mIoU: 82.6, Acc: 96.8, 85.6
+
+Validation: epoch:400, step:1/5, loss: 0.2722,time:9.88 min
+	Gland Acc:95.1, mIoU: 81.4, Acc: 96.3, 86.1
+
+Validation: epoch:400, step:2/5, loss: 0.3076,time:9.94 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.6, 84.6
+
+Validation: epoch:400, step:3/5, loss: 0.2420,time:9.99 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 85.0
+
+Validation: epoch:400, step:4/5, loss: 0.2896,time:10.04 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.2
+
+Validation: epoch:500, step:0/5, loss: 0.2805,time:12.28 min
+	Gland Acc:95.3, mIoU: 82.0, Acc: 97.3, 81.5
+
+Validation: epoch:500, step:1/5, loss: 0.2582,time:12.33 min
+	Gland Acc:95.2, mIoU: 81.8, Acc: 97.2, 82.0
+
+Validation: epoch:500, step:2/5, loss: 0.2435,time:12.38 min
+	Gland Acc:95.1, mIoU: 81.6, Acc: 96.9, 83.1
+
+Validation: epoch:500, step:3/5, loss: 0.3293,time:12.43 min
+	Gland Acc:95.2, mIoU: 81.8, Acc: 97.0, 83.2
+
+Validation: epoch:500, step:4/5, loss: 0.2819,time:12.49 min
+	Gland Acc:95.2, mIoU: 81.7, Acc: 97.1, 82.4
+
+Validation: epoch:600, step:0/5, loss: 0.2620,time:14.72 min
+	Gland Acc:95.0, mIoU: 81.2, Acc: 96.0, 87.7
+
+Validation: epoch:600, step:1/5, loss: 0.3030,time:14.77 min
+	Gland Acc:95.0, mIoU: 80.9, Acc: 96.2, 86.3
+
+Validation: epoch:600, step:2/5, loss: 0.2459,time:14.82 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.5, 85.6
+
+Validation: epoch:600, step:3/5, loss: 0.2658,time:14.87 min
+	Gland Acc:95.1, mIoU: 80.9, Acc: 96.3, 86.4
+
+Validation: epoch:600, step:4/5, loss: 0.2831,time:14.93 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.5, 85.8
+
+Validation: epoch:700, step:0/5, loss: 0.2979,time:17.15 min
+	Gland Acc:95.1, mIoU: 81.6, Acc: 96.1, 88.0
+
+Validation: epoch:700, step:1/5, loss: 0.2579,time:17.20 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.2, 87.6
+
+Validation: epoch:700, step:2/5, loss: 0.2920,time:17.25 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.4, 86.6
+
+Validation: epoch:700, step:3/5, loss: 0.2566,time:17.31 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.9
+
+Validation: epoch:700, step:4/5, loss: 0.2594,time:17.36 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.5, 86.2
+
+Validation: epoch:800, step:0/5, loss: 0.2894,time:19.58 min
+	Gland Acc:95.7, mIoU: 82.3, Acc: 97.1, 85.0
+
+Validation: epoch:800, step:1/5, loss: 0.2600,time:19.63 min
+	Gland Acc:95.7, mIoU: 82.3, Acc: 97.1, 85.1
+
+Validation: epoch:800, step:2/5, loss: 0.2954,time:19.68 min
+	Gland Acc:95.5, mIoU: 81.8, Acc: 96.8, 85.8
+
+Validation: epoch:800, step:3/5, loss: 0.2841,time:19.73 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 86.5
+
+Validation: epoch:800, step:4/5, loss: 0.2735,time:19.79 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.3, 86.9
+
+Validation: epoch:900, step:0/5, loss: 0.2791,time:22.01 min
+	Gland Acc:95.5, mIoU: 82.1, Acc: 97.1, 83.7
+
+Validation: epoch:900, step:1/5, loss: 0.3266,time:22.06 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.9, 83.8
+
+Validation: epoch:900, step:2/5, loss: 0.3407,time:22.11 min
+	Gland Acc:95.4, mIoU: 81.9, Acc: 96.9, 84.3
+
+Validation: epoch:900, step:3/5, loss: 0.2674,time:22.17 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 85.0
+
+Validation: epoch:900, step:4/5, loss: 0.2740,time:22.22 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.4
+
+Validation: epoch:1000, step:0/5, loss: 0.3208,time:24.44 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.5, 85.6
+
+Validation: epoch:1000, step:1/5, loss: 0.2940,time:24.49 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.7, 84.6
+
+Validation: epoch:1000, step:2/5, loss: 0.3442,time:24.54 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.5, 85.5
+
+Validation: epoch:1000, step:3/5, loss: 0.2832,time:24.59 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.6, 85.7
+
+Validation: epoch:1000, step:4/5, loss: 0.2956,time:24.65 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.4, 86.1
+
+Validation: epoch:1001, step:0/5, loss: 0.2738,time:24.73 min
+	Gland Acc:95.7, mIoU: 82.4, Acc: 97.2, 84.2
+
+Validation: epoch:1001, step:1/5, loss: 0.3437,time:24.78 min
+	Gland Acc:95.6, mIoU: 82.4, Acc: 97.1, 84.3
+
+Validation: epoch:1001, step:2/5, loss: 0.2707,time:24.83 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.6, 85.6
+
+Validation: epoch:1001, step:3/5, loss: 0.3072,time:24.88 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.7, 85.0
+
+Validation: epoch:1001, step:4/5, loss: 0.2903,time:24.94 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.2
+
+Validation: epoch:1002, step:0/5, loss: 0.3014,time:25.02 min
+	Gland Acc:94.7, mIoU: 79.9, Acc: 95.7, 86.9
+
+Validation: epoch:1002, step:1/5, loss: 0.3345,time:25.07 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.2, 86.8
+
+Validation: epoch:1002, step:2/5, loss: 0.3003,time:25.12 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 86.1
+
+Validation: epoch:1002, step:3/5, loss: 0.2743,time:25.17 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.6, 85.6
+
+Validation: epoch:1002, step:4/5, loss: 0.3048,time:25.23 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 86.0
+
+Validation: epoch:1003, step:0/5, loss: 0.2747,time:25.31 min
+	Gland Acc:95.0, mIoU: 80.7, Acc: 96.0, 87.4
+
+Validation: epoch:1003, step:1/5, loss: 0.3003,time:25.36 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.7, 83.9
+
+Validation: epoch:1003, step:2/5, loss: 0.3246,time:25.41 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.7, 83.8
+
+Validation: epoch:1003, step:3/5, loss: 0.3539,time:25.46 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.8, 83.6
+
+Validation: epoch:1003, step:4/5, loss: 0.3012,time:25.52 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.8, 83.6
+
+Validation: epoch:1004, step:0/5, loss: 0.3014,time:25.60 min
+	Gland Acc:95.3, mIoU: 81.1, Acc: 96.4, 86.0
+
+Validation: epoch:1004, step:1/5, loss: 0.3127,time:25.65 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.8, 84.4
+
+Validation: epoch:1004, step:2/5, loss: 0.3524,time:25.70 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.7, 83.9
+
+Validation: epoch:1004, step:3/5, loss: 0.3295,time:25.75 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.7, 84.5
+
+Validation: epoch:1004, step:4/5, loss: 0.2841,time:25.81 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.8, 83.9
+
+Validation: epoch:1005, step:0/5, loss: 0.3500,time:25.89 min
+	Gland Acc:95.1, mIoU: 80.7, Acc: 96.4, 84.8
+
+Validation: epoch:1005, step:1/5, loss: 0.3483,time:25.94 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.5, 85.1
+
+Validation: epoch:1005, step:2/5, loss: 0.3011,time:25.99 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.3, 86.1
+
+Validation: epoch:1005, step:3/5, loss: 0.2713,time:26.04 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 86.0
+
+Validation: epoch:1005, step:4/5, loss: 0.2972,time:26.10 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 86.2
+
+Validation: epoch:1006, step:0/5, loss: 0.2958,time:26.18 min
+	Gland Acc:95.1, mIoU: 80.3, Acc: 96.8, 81.7
+
+Validation: epoch:1006, step:1/5, loss: 0.2900,time:26.23 min
+	Gland Acc:95.2, mIoU: 80.9, Acc: 96.9, 82.4
+
+Validation: epoch:1006, step:2/5, loss: 0.2856,time:26.28 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.7, 83.9
+
+Validation: epoch:1006, step:3/5, loss: 0.2976,time:26.34 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.7, 84.3
+
+Validation: epoch:1006, step:4/5, loss: 0.3315,time:26.39 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.8, 83.7
+
+Validation: epoch:1007, step:0/5, loss: 0.2906,time:26.47 min
+	Gland Acc:94.9, mIoU: 80.1, Acc: 96.0, 86.1
+
+Validation: epoch:1007, step:1/5, loss: 0.3194,time:26.52 min
+	Gland Acc:94.9, mIoU: 80.5, Acc: 96.1, 86.1
+
+Validation: epoch:1007, step:2/5, loss: 0.2670,time:26.57 min
+	Gland Acc:95.0, mIoU: 80.8, Acc: 96.1, 86.5
+
+Validation: epoch:1007, step:3/5, loss: 0.2972,time:26.63 min
+	Gland Acc:95.1, mIoU: 80.9, Acc: 96.3, 86.1
+
+Validation: epoch:1007, step:4/5, loss: 0.2750,time:26.68 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.5, 85.5
+
+Validation: epoch:1008, step:0/5, loss: 0.2718,time:26.76 min
+	Gland Acc:95.4, mIoU: 81.6, Acc: 96.8, 84.6
+
+Validation: epoch:1008, step:1/5, loss: 0.2634,time:26.81 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.5, 86.1
+
+Validation: epoch:1008, step:2/5, loss: 0.3345,time:26.87 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.8
+
+Validation: epoch:1008, step:3/5, loss: 0.3376,time:26.92 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 85.9
+
+Validation: epoch:1008, step:4/5, loss: 0.3095,time:26.97 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 85.7
+
+Validation: epoch:1009, step:0/5, loss: 0.2541,time:27.05 min
+	Gland Acc:95.2, mIoU: 82.1, Acc: 96.5, 86.4
+
+Validation: epoch:1009, step:1/5, loss: 0.3002,time:27.11 min
+	Gland Acc:95.2, mIoU: 81.8, Acc: 96.7, 84.6
+
+Validation: epoch:1009, step:2/5, loss: 0.2592,time:27.16 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.8, 84.0
+
+Validation: epoch:1009, step:3/5, loss: 0.3058,time:27.21 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.9, 83.9
+
+Validation: epoch:1009, step:4/5, loss: 0.2941,time:27.26 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.8, 84.0
+
+Validation: epoch:1010, step:0/5, loss: 0.3392,time:27.34 min
+	Gland Acc:95.3, mIoU: 81.0, Acc: 96.7, 84.2
+
+Validation: epoch:1010, step:1/5, loss: 0.2943,time:27.39 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.7, 85.0
+
+Validation: epoch:1010, step:2/5, loss: 0.2785,time:27.45 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.7, 85.2
+
+Validation: epoch:1010, step:3/5, loss: 0.2708,time:27.50 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.7
+
+Validation: epoch:1010, step:4/5, loss: 0.2581,time:27.55 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 86.3
+
+Validation: epoch:1011, step:0/5, loss: 0.3780,time:27.63 min
+	Gland Acc:94.9, mIoU: 81.4, Acc: 96.4, 85.3
+
+Validation: epoch:1011, step:1/5, loss: 0.2709,time:27.68 min
+	Gland Acc:95.0, mIoU: 81.1, Acc: 96.3, 85.8
+
+Validation: epoch:1011, step:2/5, loss: 0.3085,time:27.73 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.5, 85.4
+
+Validation: epoch:1011, step:3/5, loss: 0.3059,time:27.79 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.5, 85.3
+
+Validation: epoch:1011, step:4/5, loss: 0.3624,time:27.84 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.8, 84.1
+
+Validation: epoch:1012, step:0/5, loss: 0.2589,time:27.92 min
+	Gland Acc:95.6, mIoU: 82.1, Acc: 96.8, 86.7
+
+Validation: epoch:1012, step:1/5, loss: 0.2971,time:27.97 min
+	Gland Acc:95.4, mIoU: 81.4, Acc: 96.5, 86.4
+
+Validation: epoch:1012, step:2/5, loss: 0.3082,time:28.02 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 86.2
+
+Validation: epoch:1012, step:3/5, loss: 0.2712,time:28.08 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.4, 86.0
+
+Validation: epoch:1012, step:4/5, loss: 0.3066,time:28.13 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.4, 86.1
+
+Validation: epoch:1013, step:0/5, loss: 0.3206,time:28.21 min
+	Gland Acc:94.8, mIoU: 80.6, Acc: 96.2, 84.7
+
+Validation: epoch:1013, step:1/5, loss: 0.3194,time:28.26 min
+	Gland Acc:95.0, mIoU: 80.7, Acc: 96.5, 84.3
+
+Validation: epoch:1013, step:2/5, loss: 0.3043,time:28.31 min
+	Gland Acc:95.1, mIoU: 80.7, Acc: 96.5, 84.2
+
+Validation: epoch:1013, step:3/5, loss: 0.2924,time:28.37 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.6, 84.4
+
+Validation: epoch:1013, step:4/5, loss: 0.2653,time:28.42 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.6, 84.8
+
+Validation: epoch:1014, step:0/5, loss: 0.3541,time:28.50 min
+	Gland Acc:95.5, mIoU: 81.4, Acc: 96.9, 84.0
+
+Validation: epoch:1014, step:1/5, loss: 0.2893,time:28.55 min
+	Gland Acc:95.3, mIoU: 81.1, Acc: 96.7, 84.8
+
+Validation: epoch:1014, step:2/5, loss: 0.3350,time:28.60 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.6
+
+Validation: epoch:1014, step:3/5, loss: 0.3048,time:28.65 min
+	Gland Acc:95.4, mIoU: 81.6, Acc: 96.7, 85.2
+
+Validation: epoch:1014, step:4/5, loss: 0.3089,time:28.71 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.5
+
+Validation: epoch:1015, step:0/5, loss: 0.3070,time:28.79 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.5, 85.9
+
+Validation: epoch:1015, step:1/5, loss: 0.2750,time:28.84 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.5, 85.8
+
+Validation: epoch:1015, step:2/5, loss: 0.2843,time:28.89 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 85.7
+
+Validation: epoch:1015, step:3/5, loss: 0.3062,time:28.95 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.5, 85.7
+
+Validation: epoch:1015, step:4/5, loss: 0.3232,time:29.00 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.3
+
+Validation: epoch:1016, step:0/5, loss: 0.2621,time:29.08 min
+	Gland Acc:95.3, mIoU: 81.8, Acc: 96.9, 84.1
+
+Validation: epoch:1016, step:1/5, loss: 0.2810,time:29.13 min
+	Gland Acc:95.2, mIoU: 81.8, Acc: 96.8, 84.2
+
+Validation: epoch:1016, step:2/5, loss: 0.3124,time:29.18 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 97.0, 83.0
+
+Validation: epoch:1016, step:3/5, loss: 0.2939,time:29.24 min
+	Gland Acc:95.1, mIoU: 81.4, Acc: 96.8, 83.2
+
+Validation: epoch:1016, step:4/5, loss: 0.2723,time:29.29 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 97.0, 82.6
+
+Validation: epoch:1017, step:0/5, loss: 0.3591,time:29.37 min
+	Gland Acc:94.9, mIoU: 80.5, Acc: 96.5, 83.5
+
+Validation: epoch:1017, step:1/5, loss: 0.2781,time:29.42 min
+	Gland Acc:95.1, mIoU: 80.7, Acc: 96.5, 84.2
+
+Validation: epoch:1017, step:2/5, loss: 0.2826,time:29.47 min
+	Gland Acc:95.2, mIoU: 80.9, Acc: 96.6, 84.2
+
+Validation: epoch:1017, step:3/5, loss: 0.3315,time:29.53 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.7, 84.3
+
+Validation: epoch:1017, step:4/5, loss: 0.3232,time:29.58 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 84.9
+
+Validation: epoch:1018, step:0/5, loss: 0.3616,time:29.66 min
+	Gland Acc:94.8, mIoU: 80.4, Acc: 95.8, 87.3
+
+Validation: epoch:1018, step:1/5, loss: 0.2834,time:29.71 min
+	Gland Acc:94.9, mIoU: 80.4, Acc: 96.0, 87.0
+
+Validation: epoch:1018, step:2/5, loss: 0.3331,time:29.76 min
+	Gland Acc:95.0, mIoU: 80.5, Acc: 96.1, 86.9
+
+Validation: epoch:1018, step:3/5, loss: 0.2957,time:29.82 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.3, 86.7
+
+Validation: epoch:1018, step:4/5, loss: 0.3522,time:29.87 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.4, 86.0
+
+Validation: epoch:1019, step:0/5, loss: 0.3133,time:29.95 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 96.6, 85.0
+
+Validation: epoch:1019, step:1/5, loss: 0.3168,time:30.00 min
+	Gland Acc:95.1, mIoU: 81.4, Acc: 96.4, 85.3
+
+Validation: epoch:1019, step:2/5, loss: 0.3258,time:30.06 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.7, 84.7
+
+Validation: epoch:1019, step:3/5, loss: 0.3146,time:30.11 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.6, 85.0
+
+Validation: epoch:1019, step:4/5, loss: 0.3758,time:30.16 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.7, 84.5
+
+Validation: epoch:1020, step:0/5, loss: 0.2877,time:30.24 min
+	Gland Acc:95.5, mIoU: 81.9, Acc: 96.8, 85.6
+
+Validation: epoch:1020, step:1/5, loss: 0.2803,time:30.30 min
+	Gland Acc:95.3, mIoU: 81.1, Acc: 96.4, 86.5
+
+Validation: epoch:1020, step:2/5, loss: 0.2635,time:30.35 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.3, 87.1
+
+Validation: epoch:1020, step:3/5, loss: 0.3050,time:30.40 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.2, 86.8
+
+Validation: epoch:1020, step:4/5, loss: 0.3285,time:30.45 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 86.1
+
+Validation: epoch:1021, step:0/5, loss: 0.3396,time:30.54 min
+	Gland Acc:95.4, mIoU: 81.8, Acc: 97.4, 81.1
+
+Validation: epoch:1021, step:1/5, loss: 0.2798,time:30.59 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.7, 83.9
+
+Validation: epoch:1021, step:2/5, loss: 0.2545,time:30.64 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.7, 83.7
+
+Validation: epoch:1021, step:3/5, loss: 0.3267,time:30.69 min
+	Gland Acc:95.1, mIoU: 81.3, Acc: 96.7, 83.7
+
+Validation: epoch:1021, step:4/5, loss: 0.2737,time:30.75 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.7, 84.0
+
+Validation: epoch:1022, step:0/5, loss: 0.3240,time:30.83 min
+	Gland Acc:94.9, mIoU: 81.0, Acc: 96.3, 85.3
+
+Validation: epoch:1022, step:1/5, loss: 0.2779,time:30.88 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.4, 85.5
+
+Validation: epoch:1022, step:2/5, loss: 0.2620,time:30.93 min
+	Gland Acc:95.1, mIoU: 81.0, Acc: 96.3, 85.8
+
+Validation: epoch:1022, step:3/5, loss: 0.2867,time:30.98 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.4, 85.5
+
+Validation: epoch:1022, step:4/5, loss: 0.2875,time:31.04 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.3
+
+Validation: epoch:1023, step:0/5, loss: 0.3017,time:31.12 min
+	Gland Acc:95.4, mIoU: 81.7, Acc: 96.8, 85.0
+
+Validation: epoch:1023, step:1/5, loss: 0.2718,time:31.17 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.5, 85.9
+
+Validation: epoch:1023, step:2/5, loss: 0.3119,time:31.22 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.4, 86.2
+
+Validation: epoch:1023, step:3/5, loss: 0.3346,time:31.27 min
+	Gland Acc:95.2, mIoU: 80.9, Acc: 96.4, 85.7
+
+Validation: epoch:1023, step:4/5, loss: 0.3274,time:31.32 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 85.8
+
+Validation: epoch:1024, step:0/5, loss: 0.3170,time:31.41 min
+	Gland Acc:94.9, mIoU: 80.3, Acc: 95.9, 86.7
+
+Validation: epoch:1024, step:1/5, loss: 0.2993,time:31.46 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 96.5, 85.9
+
+Validation: epoch:1024, step:2/5, loss: 0.3382,time:31.51 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.1
+
+Validation: epoch:1024, step:3/5, loss: 0.3419,time:31.56 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 84.9
+
+Validation: epoch:1024, step:4/5, loss: 0.2839,time:31.62 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 85.3
+
+Validation: epoch:1025, step:0/5, loss: 0.2583,time:31.70 min
+	Gland Acc:95.1, mIoU: 80.9, Acc: 96.2, 86.2
+
+Validation: epoch:1025, step:1/5, loss: 0.2998,time:31.75 min
+	Gland Acc:95.0, mIoU: 80.9, Acc: 96.1, 86.5
+
+Validation: epoch:1025, step:2/5, loss: 0.2728,time:31.80 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.5, 85.4
+
+Validation: epoch:1025, step:3/5, loss: 0.3487,time:31.85 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.5, 84.8
+
+Validation: epoch:1025, step:4/5, loss: 0.2860,time:31.91 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.7, 84.5
+
+Validation: epoch:1026, step:0/5, loss: 0.3081,time:31.99 min
+	Gland Acc:95.1, mIoU: 80.8, Acc: 96.3, 86.0
+
+Validation: epoch:1026, step:1/5, loss: 0.3170,time:32.04 min
+	Gland Acc:95.1, mIoU: 80.8, Acc: 96.2, 86.4
+
+Validation: epoch:1026, step:2/5, loss: 0.2753,time:32.09 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.5, 85.4
+
+Validation: epoch:1026, step:3/5, loss: 0.2702,time:32.14 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.7
+
+Validation: epoch:1026, step:4/5, loss: 0.3362,time:32.20 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.6
+
+Validation: epoch:1027, step:0/5, loss: 0.2951,time:32.28 min
+	Gland Acc:95.6, mIoU: 82.2, Acc: 97.0, 84.5
+
+Validation: epoch:1027, step:1/5, loss: 0.3233,time:32.33 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.8, 84.2
+
+Validation: epoch:1027, step:2/5, loss: 0.3300,time:32.38 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.7, 84.7
+
+Validation: epoch:1027, step:3/5, loss: 0.2898,time:32.44 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.5, 85.5
+
+Validation: epoch:1027, step:4/5, loss: 0.2694,time:32.49 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.5, 85.4
+
+Validation: epoch:1028, step:0/5, loss: 0.3199,time:32.57 min
+	Gland Acc:95.2, mIoU: 81.9, Acc: 96.8, 84.4
+
+Validation: epoch:1028, step:1/5, loss: 0.3338,time:32.62 min
+	Gland Acc:95.2, mIoU: 81.7, Acc: 97.2, 81.3
+
+Validation: epoch:1028, step:2/5, loss: 0.2379,time:32.67 min
+	Gland Acc:95.1, mIoU: 81.6, Acc: 97.0, 82.3
+
+Validation: epoch:1028, step:3/5, loss: 0.3081,time:32.73 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 97.1, 82.0
+
+Validation: epoch:1028, step:4/5, loss: 0.2772,time:32.78 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 97.0, 82.3
+
+Validation: epoch:1029, step:0/5, loss: 0.2976,time:32.86 min
+	Gland Acc:95.5, mIoU: 81.9, Acc: 96.7, 85.9
+
+Validation: epoch:1029, step:1/5, loss: 0.2932,time:32.91 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 85.8
+
+Validation: epoch:1029, step:2/5, loss: 0.2962,time:32.96 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.5, 86.1
+
+Validation: epoch:1029, step:3/5, loss: 0.3437,time:33.02 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.5, 85.5
+
+Validation: epoch:1029, step:4/5, loss: 0.2996,time:33.07 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.3
+
+Validation: epoch:1030, step:0/5, loss: 0.3136,time:33.15 min
+	Gland Acc:94.9, mIoU: 80.5, Acc: 96.3, 84.7
+
+Validation: epoch:1030, step:1/5, loss: 0.3289,time:33.20 min
+	Gland Acc:95.0, mIoU: 80.7, Acc: 96.5, 84.5
+
+Validation: epoch:1030, step:2/5, loss: 0.3572,time:33.25 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.8, 83.5
+
+Validation: epoch:1030, step:3/5, loss: 0.3224,time:33.31 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.7, 84.3
+
+Validation: epoch:1030, step:4/5, loss: 0.3532,time:33.36 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.8, 84.1
+
+Validation: epoch:1031, step:0/5, loss: 0.2786,time:33.44 min
+	Gland Acc:95.4, mIoU: 81.5, Acc: 97.1, 82.8
+
+Validation: epoch:1031, step:1/5, loss: 0.2977,time:33.49 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 97.0, 83.5
+
+Validation: epoch:1031, step:2/5, loss: 0.2790,time:33.55 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.9, 83.6
+
+Validation: epoch:1031, step:3/5, loss: 0.3065,time:33.60 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.8, 84.1
+
+Validation: epoch:1031, step:4/5, loss: 0.2862,time:33.65 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.7, 84.4
+
+Validation: epoch:1032, step:0/5, loss: 0.3280,time:33.73 min
+	Gland Acc:95.1, mIoU: 80.9, Acc: 96.4, 85.0
+
+Validation: epoch:1032, step:1/5, loss: 0.3447,time:33.79 min
+	Gland Acc:95.2, mIoU: 81.7, Acc: 96.8, 84.4
+
+Validation: epoch:1032, step:2/5, loss: 0.3081,time:33.84 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 96.7, 84.9
+
+Validation: epoch:1032, step:3/5, loss: 0.3819,time:33.89 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.7, 84.5
+
+Validation: epoch:1032, step:4/5, loss: 0.3281,time:33.94 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.8, 84.3
+
+Validation: epoch:1033, step:0/5, loss: 0.2765,time:34.02 min
+	Gland Acc:95.1, mIoU: 80.7, Acc: 96.4, 85.2
+
+Validation: epoch:1033, step:1/5, loss: 0.3105,time:34.08 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.7, 84.4
+
+Validation: epoch:1033, step:2/5, loss: 0.3062,time:34.13 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.5, 85.2
+
+Validation: epoch:1033, step:3/5, loss: 0.2605,time:34.18 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 85.1
+
+Validation: epoch:1033, step:4/5, loss: 0.2502,time:34.23 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.6, 85.0
+
+Validation: epoch:1034, step:0/5, loss: 0.3572,time:34.31 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 97.0, 82.2
+
+Validation: epoch:1034, step:1/5, loss: 0.2912,time:34.37 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.7, 83.5
+
+Validation: epoch:1034, step:2/5, loss: 0.3154,time:34.42 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.7, 84.1
+
+Validation: epoch:1034, step:3/5, loss: 0.2908,time:34.47 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.8, 84.0
+
+Validation: epoch:1034, step:4/5, loss: 0.2744,time:34.52 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.8, 84.3
+
+Validation: epoch:1035, step:0/5, loss: 0.3145,time:34.61 min
+	Gland Acc:95.1, mIoU: 81.3, Acc: 96.2, 86.9
+
+Validation: epoch:1035, step:1/5, loss: 0.3098,time:34.66 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.5, 86.3
+
+Validation: epoch:1035, step:2/5, loss: 0.2856,time:34.71 min
+	Gland Acc:95.4, mIoU: 81.4, Acc: 96.6, 85.8
+
+Validation: epoch:1035, step:3/5, loss: 0.3362,time:34.76 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.7, 85.1
+
+Validation: epoch:1035, step:4/5, loss: 0.3104,time:34.82 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 85.8
+
+Validation: epoch:1036, step:0/5, loss: 0.3120,time:34.90 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 97.0, 82.3
+
+Validation: epoch:1036, step:1/5, loss: 0.2785,time:34.95 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 97.0, 82.8
+
+Validation: epoch:1036, step:2/5, loss: 0.3078,time:35.00 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.9, 83.2
+
+Validation: epoch:1036, step:3/5, loss: 0.2647,time:35.05 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 97.0, 83.0
+
+Validation: epoch:1036, step:4/5, loss: 0.3144,time:35.11 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.9, 83.1
+
+Validation: epoch:1037, step:0/5, loss: 0.3330,time:35.19 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.5, 85.5
+
+Validation: epoch:1037, step:1/5, loss: 0.3163,time:35.24 min
+	Gland Acc:95.0, mIoU: 81.0, Acc: 96.3, 85.5
+
+Validation: epoch:1037, step:2/5, loss: 0.2579,time:35.29 min
+	Gland Acc:95.0, mIoU: 80.8, Acc: 96.2, 86.4
+
+Validation: epoch:1037, step:3/5, loss: 0.2785,time:35.34 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.4, 86.0
+
+Validation: epoch:1037, step:4/5, loss: 0.3097,time:35.40 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.5, 85.5
+
+Validation: epoch:1038, step:0/5, loss: 0.3184,time:35.48 min
+	Gland Acc:95.1, mIoU: 80.7, Acc: 96.6, 83.7
+
+Validation: epoch:1038, step:1/5, loss: 0.3161,time:35.53 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.7, 84.6
+
+Validation: epoch:1038, step:2/5, loss: 0.3224,time:35.58 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.8, 84.4
+
+Validation: epoch:1038, step:3/5, loss: 0.3290,time:35.64 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.9, 84.0
+
+Validation: epoch:1038, step:4/5, loss: 0.2969,time:35.69 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.7, 84.8
+
+Validation: epoch:1039, step:0/5, loss: 0.3221,time:35.77 min
+	Gland Acc:95.2, mIoU: 81.9, Acc: 96.8, 84.6
+
+Validation: epoch:1039, step:1/5, loss: 0.2726,time:35.82 min
+	Gland Acc:95.0, mIoU: 81.1, Acc: 96.5, 84.6
+
+Validation: epoch:1039, step:2/5, loss: 0.3659,time:35.87 min
+	Gland Acc:95.1, mIoU: 81.4, Acc: 96.8, 83.4
+
+Validation: epoch:1039, step:3/5, loss: 0.3501,time:35.93 min
+	Gland Acc:95.1, mIoU: 81.3, Acc: 96.9, 82.9
+
+Validation: epoch:1039, step:4/5, loss: 0.3328,time:35.98 min
+	Gland Acc:95.1, mIoU: 81.3, Acc: 96.9, 82.6
+
+Validation: epoch:1040, step:0/5, loss: 0.2609,time:36.06 min
+	Gland Acc:95.4, mIoU: 81.2, Acc: 96.4, 86.8
+
+Validation: epoch:1040, step:1/5, loss: 0.3108,time:36.11 min
+	Gland Acc:95.3, mIoU: 81.1, Acc: 96.5, 85.7
+
+Validation: epoch:1040, step:2/5, loss: 0.2960,time:36.16 min
+	Gland Acc:95.3, mIoU: 81.1, Acc: 96.5, 86.0
+
+Validation: epoch:1040, step:3/5, loss: 0.2972,time:36.22 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.3, 86.6
+
+Validation: epoch:1040, step:4/5, loss: 0.2993,time:36.27 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.4, 86.5
+
+Validation: epoch:1041, step:0/5, loss: 0.2658,time:36.35 min
+	Gland Acc:95.4, mIoU: 82.0, Acc: 96.6, 86.2
+
+Validation: epoch:1041, step:1/5, loss: 0.2992,time:36.40 min
+	Gland Acc:95.4, mIoU: 82.1, Acc: 96.7, 85.9
+
+Validation: epoch:1041, step:2/5, loss: 0.3617,time:36.45 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.7, 84.9
+
+Validation: epoch:1041, step:3/5, loss: 0.3054,time:36.50 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.6, 84.8
+
+Validation: epoch:1041, step:4/5, loss: 0.3477,time:36.56 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 96.8, 83.9
+
+Validation: epoch:1042, step:0/5, loss: 0.3039,time:36.64 min
+	Gland Acc:95.1, mIoU: 81.0, Acc: 96.7, 83.5
+
+Validation: epoch:1042, step:1/5, loss: 0.2591,time:36.69 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.6, 84.5
+
+Validation: epoch:1042, step:2/5, loss: 0.2585,time:36.74 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.9, 83.5
+
+Validation: epoch:1042, step:3/5, loss: 0.3327,time:36.79 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.8, 83.0
+
+Validation: epoch:1042, step:4/5, loss: 0.2916,time:36.84 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.8, 83.5
+
+Validation: epoch:1043, step:0/5, loss: 0.2735,time:36.93 min
+	Gland Acc:95.1, mIoU: 80.2, Acc: 95.9, 88.5
+
+Validation: epoch:1043, step:1/5, loss: 0.3033,time:36.98 min
+	Gland Acc:95.0, mIoU: 80.3, Acc: 95.9, 87.9
+
+Validation: epoch:1043, step:2/5, loss: 0.2963,time:37.03 min
+	Gland Acc:95.1, mIoU: 80.5, Acc: 96.0, 87.3
+
+Validation: epoch:1043, step:3/5, loss: 0.3427,time:37.08 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 86.2
+
+Validation: epoch:1043, step:4/5, loss: 0.3095,time:37.14 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.3, 86.7
+
+Validation: epoch:1044, step:0/5, loss: 0.3155,time:37.22 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 97.0, 83.1
+
+Validation: epoch:1044, step:1/5, loss: 0.3450,time:37.27 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 97.2, 81.7
+
+Validation: epoch:1044, step:2/5, loss: 0.2901,time:37.32 min
+	Gland Acc:95.3, mIoU: 81.9, Acc: 97.0, 83.2
+
+Validation: epoch:1044, step:3/5, loss: 0.3262,time:37.37 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 97.0, 83.0
+
+Validation: epoch:1044, step:4/5, loss: 0.3464,time:37.42 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 97.0, 82.7
+
+Validation: epoch:1045, step:0/5, loss: 0.3070,time:37.51 min
+	Gland Acc:94.6, mIoU: 79.8, Acc: 96.0, 84.6
+
+Validation: epoch:1045, step:1/5, loss: 0.2936,time:37.56 min
+	Gland Acc:94.9, mIoU: 80.4, Acc: 96.6, 82.7
+
+Validation: epoch:1045, step:2/5, loss: 0.2599,time:37.61 min
+	Gland Acc:95.0, mIoU: 80.9, Acc: 96.6, 84.1
+
+Validation: epoch:1045, step:3/5, loss: 0.2357,time:37.66 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.7, 83.9
+
+Validation: epoch:1045, step:4/5, loss: 0.2973,time:37.72 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.7, 84.2
+
+Validation: epoch:1046, step:0/5, loss: 0.3108,time:37.80 min
+	Gland Acc:95.3, mIoU: 82.2, Acc: 96.8, 84.8
+
+Validation: epoch:1046, step:1/5, loss: 0.3110,time:37.85 min
+	Gland Acc:95.3, mIoU: 82.0, Acc: 97.1, 82.7
+
+Validation: epoch:1046, step:2/5, loss: 0.2894,time:37.90 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 97.0, 82.9
+
+Validation: epoch:1046, step:3/5, loss: 0.3119,time:37.96 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.9, 83.2
+
+Validation: epoch:1046, step:4/5, loss: 0.2586,time:38.01 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.9, 83.1
+
+Validation: epoch:1047, step:0/5, loss: 0.3150,time:38.09 min
+	Gland Acc:95.2, mIoU: 80.8, Acc: 96.7, 83.6
+
+Validation: epoch:1047, step:1/5, loss: 0.3094,time:38.14 min
+	Gland Acc:95.3, mIoU: 81.0, Acc: 96.7, 84.2
+
+Validation: epoch:1047, step:2/5, loss: 0.3156,time:38.19 min
+	Gland Acc:95.2, mIoU: 80.9, Acc: 96.6, 84.6
+
+Validation: epoch:1047, step:3/5, loss: 0.2912,time:38.25 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.5, 85.4
+
+Validation: epoch:1047, step:4/5, loss: 0.2938,time:38.30 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.8
+
+Validation: epoch:1048, step:0/5, loss: 0.2832,time:38.38 min
+	Gland Acc:95.5, mIoU: 81.7, Acc: 97.3, 82.5
+
+Validation: epoch:1048, step:1/5, loss: 0.2964,time:38.43 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.7, 84.9
+
+Validation: epoch:1048, step:2/5, loss: 0.2977,time:38.49 min
+	Gland Acc:95.4, mIoU: 81.7, Acc: 96.8, 84.8
+
+Validation: epoch:1048, step:3/5, loss: 0.3555,time:38.54 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.8, 84.2
+
+Validation: epoch:1048, step:4/5, loss: 0.2734,time:38.59 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.7, 84.6
+
+Validation: epoch:1049, step:0/5, loss: 0.3323,time:38.67 min
+	Gland Acc:95.4, mIoU: 81.2, Acc: 97.0, 82.9
+
+Validation: epoch:1049, step:1/5, loss: 0.2828,time:38.72 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.7, 85.3
+
+Validation: epoch:1049, step:2/5, loss: 0.3004,time:38.78 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.7, 85.0
+
+Validation: epoch:1049, step:3/5, loss: 0.2674,time:38.83 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.4
+
+Validation: epoch:1049, step:4/5, loss: 0.2987,time:38.88 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.8
+
+Validation: epoch:1050, step:0/5, loss: 0.3039,time:38.96 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.7, 85.2
+
+Validation: epoch:1050, step:1/5, loss: 0.3287,time:39.02 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.9, 83.6
+
+Validation: epoch:1050, step:2/5, loss: 0.2965,time:39.07 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 96.7, 84.2
+
+Validation: epoch:1050, step:3/5, loss: 0.3046,time:39.12 min
+	Gland Acc:95.2, mIoU: 81.7, Acc: 96.9, 83.6
+
+Validation: epoch:1050, step:4/5, loss: 0.3667,time:39.17 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.9, 83.0
+
+Validation: epoch:1051, step:0/5, loss: 0.2954,time:39.26 min
+	Gland Acc:95.4, mIoU: 82.8, Acc: 97.0, 85.3
+
+Validation: epoch:1051, step:1/5, loss: 0.3318,time:39.31 min
+	Gland Acc:95.2, mIoU: 82.0, Acc: 96.7, 84.9
+
+Validation: epoch:1051, step:2/5, loss: 0.3277,time:39.36 min
+	Gland Acc:95.4, mIoU: 82.0, Acc: 96.9, 84.3
+
+Validation: epoch:1051, step:3/5, loss: 0.3208,time:39.41 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.8, 84.2
+
+Validation: epoch:1051, step:4/5, loss: 0.3002,time:39.47 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.7, 84.2
+
+Validation: epoch:1052, step:0/5, loss: 0.3007,time:39.55 min
+	Gland Acc:95.0, mIoU: 81.4, Acc: 96.0, 88.1
+
+Validation: epoch:1052, step:1/5, loss: 0.3158,time:39.60 min
+	Gland Acc:95.3, mIoU: 81.7, Acc: 96.6, 85.8
+
+Validation: epoch:1052, step:2/5, loss: 0.3219,time:39.65 min
+	Gland Acc:95.4, mIoU: 81.6, Acc: 96.8, 84.7
+
+Validation: epoch:1052, step:3/5, loss: 0.2761,time:39.70 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 85.4
+
+Validation: epoch:1052, step:4/5, loss: 0.3095,time:39.76 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.5, 85.4
+
+Validation: epoch:1053, step:0/5, loss: 0.3453,time:39.84 min
+	Gland Acc:95.0, mIoU: 80.4, Acc: 96.8, 82.1
+
+Validation: epoch:1053, step:1/5, loss: 0.3089,time:39.89 min
+	Gland Acc:95.0, mIoU: 80.4, Acc: 96.9, 81.5
+
+Validation: epoch:1053, step:2/5, loss: 0.3244,time:39.94 min
+	Gland Acc:95.0, mIoU: 81.0, Acc: 96.7, 83.4
+
+Validation: epoch:1053, step:3/5, loss: 0.3399,time:39.99 min
+	Gland Acc:95.1, mIoU: 81.3, Acc: 96.8, 83.3
+
+Validation: epoch:1053, step:4/5, loss: 0.2748,time:40.05 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.9, 83.0
+
+Validation: epoch:1054, step:0/5, loss: 0.3075,time:40.13 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.0, 88.8
+
+Validation: epoch:1054, step:1/5, loss: 0.3348,time:40.18 min
+	Gland Acc:95.3, mIoU: 81.0, Acc: 96.4, 86.4
+
+Validation: epoch:1054, step:2/5, loss: 0.3312,time:40.23 min
+	Gland Acc:95.4, mIoU: 81.3, Acc: 96.5, 86.2
+
+Validation: epoch:1054, step:3/5, loss: 0.3093,time:40.28 min
+	Gland Acc:95.3, mIoU: 81.1, Acc: 96.4, 86.4
+
+Validation: epoch:1054, step:4/5, loss: 0.3293,time:40.34 min
+	Gland Acc:95.3, mIoU: 81.1, Acc: 96.4, 86.5
+
+Validation: epoch:1055, step:0/5, loss: 0.3318,time:40.42 min
+	Gland Acc:94.9, mIoU: 80.2, Acc: 96.5, 83.4
+
+Validation: epoch:1055, step:1/5, loss: 0.3353,time:40.47 min
+	Gland Acc:95.1, mIoU: 80.8, Acc: 96.7, 83.3
+
+Validation: epoch:1055, step:2/5, loss: 0.3721,time:40.53 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.9, 83.0
+
+Validation: epoch:1055, step:3/5, loss: 0.3165,time:40.58 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.9, 82.9
+
+Validation: epoch:1055, step:4/5, loss: 0.2818,time:40.63 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.9, 83.6
+
+Validation: epoch:1056, step:0/5, loss: 0.2802,time:40.71 min
+	Gland Acc:94.9, mIoU: 80.1, Acc: 95.8, 88.4
+
+Validation: epoch:1056, step:1/5, loss: 0.2825,time:40.77 min
+	Gland Acc:95.0, mIoU: 80.4, Acc: 96.0, 87.5
+
+Validation: epoch:1056, step:2/5, loss: 0.3117,time:40.82 min
+	Gland Acc:95.2, mIoU: 80.7, Acc: 96.3, 86.0
+
+Validation: epoch:1056, step:3/5, loss: 0.3597,time:40.87 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 86.0
+
+Validation: epoch:1056, step:4/5, loss: 0.2886,time:40.92 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.4, 86.1
+
+Validation: epoch:1057, step:0/5, loss: 0.2785,time:41.01 min
+	Gland Acc:94.9, mIoU: 80.4, Acc: 96.1, 85.9
+
+Validation: epoch:1057, step:1/5, loss: 0.3127,time:41.06 min
+	Gland Acc:94.8, mIoU: 80.5, Acc: 96.2, 84.8
+
+Validation: epoch:1057, step:2/5, loss: 0.3430,time:41.11 min
+	Gland Acc:95.0, mIoU: 80.8, Acc: 96.5, 84.4
+
+Validation: epoch:1057, step:3/5, loss: 0.3093,time:41.16 min
+	Gland Acc:95.1, mIoU: 81.3, Acc: 96.7, 84.1
+
+Validation: epoch:1057, step:4/5, loss: 0.3340,time:41.22 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.9, 83.3
+
+Validation: epoch:1058, step:0/5, loss: 0.2826,time:41.30 min
+	Gland Acc:94.9, mIoU: 80.4, Acc: 96.3, 84.7
+
+Validation: epoch:1058, step:1/5, loss: 0.2820,time:41.35 min
+	Gland Acc:95.1, mIoU: 80.8, Acc: 96.5, 84.5
+
+Validation: epoch:1058, step:2/5, loss: 0.2836,time:41.40 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.7, 83.8
+
+Validation: epoch:1058, step:3/5, loss: 0.2635,time:41.45 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.6, 84.5
+
+Validation: epoch:1058, step:4/5, loss: 0.2957,time:41.51 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.7, 84.3
+
+Validation: epoch:1059, step:0/5, loss: 0.3087,time:41.59 min
+	Gland Acc:95.0, mIoU: 80.5, Acc: 96.0, 87.3
+
+Validation: epoch:1059, step:1/5, loss: 0.3370,time:41.64 min
+	Gland Acc:95.0, mIoU: 80.7, Acc: 96.0, 87.1
+
+Validation: epoch:1059, step:2/5, loss: 0.2806,time:41.69 min
+	Gland Acc:95.1, mIoU: 80.9, Acc: 96.3, 86.0
+
+Validation: epoch:1059, step:3/5, loss: 0.3257,time:41.75 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.5
+
+Validation: epoch:1059, step:4/5, loss: 0.3053,time:41.80 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.5, 85.6
+
+Validation: epoch:1060, step:0/5, loss: 0.3102,time:41.88 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.8, 83.8
+
+Validation: epoch:1060, step:1/5, loss: 0.3303,time:41.93 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 97.0, 82.4
+
+Validation: epoch:1060, step:2/5, loss: 0.2938,time:41.98 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 97.0, 82.6
+
+Validation: epoch:1060, step:3/5, loss: 0.2762,time:42.04 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 97.0, 82.7
+
+Validation: epoch:1060, step:4/5, loss: 0.3631,time:42.09 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.9, 83.1
+
+Validation: epoch:1061, step:0/5, loss: 0.3201,time:42.17 min
+	Gland Acc:94.8, mIoU: 80.9, Acc: 95.7, 88.5
+
+Validation: epoch:1061, step:1/5, loss: 0.3311,time:42.22 min
+	Gland Acc:94.9, mIoU: 80.7, Acc: 95.8, 88.0
+
+Validation: epoch:1061, step:2/5, loss: 0.3422,time:42.27 min
+	Gland Acc:95.1, mIoU: 80.9, Acc: 96.2, 86.7
+
+Validation: epoch:1061, step:3/5, loss: 0.2974,time:42.33 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 85.8
+
+Validation: epoch:1061, step:4/5, loss: 0.2971,time:42.38 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.5, 85.7
+
+Validation: epoch:1062, step:0/5, loss: 0.2890,time:42.46 min
+	Gland Acc:95.0, mIoU: 80.9, Acc: 96.0, 87.7
+
+Validation: epoch:1062, step:1/5, loss: 0.2994,time:42.51 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.4, 86.6
+
+Validation: epoch:1062, step:2/5, loss: 0.3212,time:42.56 min
+	Gland Acc:95.2, mIoU: 81.6, Acc: 96.4, 86.6
+
+Validation: epoch:1062, step:3/5, loss: 0.3204,time:42.62 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.5, 85.9
+
+Validation: epoch:1062, step:4/5, loss: 0.3309,time:42.67 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 85.1
+
+Validation: epoch:1063, step:0/5, loss: 0.2996,time:42.75 min
+	Gland Acc:95.1, mIoU: 80.6, Acc: 96.5, 84.4
+
+Validation: epoch:1063, step:1/5, loss: 0.2363,time:42.80 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.4
+
+Validation: epoch:1063, step:2/5, loss: 0.2823,time:42.85 min
+	Gland Acc:95.4, mIoU: 81.6, Acc: 96.8, 84.8
+
+Validation: epoch:1063, step:3/5, loss: 0.2711,time:42.91 min
+	Gland Acc:95.2, mIoU: 81.1, Acc: 96.6, 85.0
+
+Validation: epoch:1063, step:4/5, loss: 0.2834,time:42.96 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.4
+
+Validation: epoch:1064, step:0/5, loss: 0.2838,time:43.04 min
+	Gland Acc:94.9, mIoU: 80.8, Acc: 96.0, 86.9
+
+Validation: epoch:1064, step:1/5, loss: 0.3132,time:43.09 min
+	Gland Acc:95.1, mIoU: 80.8, Acc: 96.4, 85.6
+
+Validation: epoch:1064, step:2/5, loss: 0.2925,time:43.14 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 85.8
+
+Validation: epoch:1064, step:3/5, loss: 0.3577,time:43.20 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.6
+
+Validation: epoch:1064, step:4/5, loss: 0.3087,time:43.25 min
+	Gland Acc:95.3, mIoU: 81.3, Acc: 96.5, 85.8
+
+Validation: epoch:1065, step:0/5, loss: 0.3075,time:43.33 min
+	Gland Acc:95.2, mIoU: 80.8, Acc: 96.6, 84.6
+
+Validation: epoch:1065, step:1/5, loss: 0.3564,time:43.38 min
+	Gland Acc:95.4, mIoU: 81.2, Acc: 96.9, 83.7
+
+Validation: epoch:1065, step:2/5, loss: 0.3275,time:43.43 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.4
+
+Validation: epoch:1065, step:3/5, loss: 0.3063,time:43.48 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.7, 85.3
+
+Validation: epoch:1065, step:4/5, loss: 0.3072,time:43.54 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.7, 85.2
+
+Validation: epoch:1066, step:0/5, loss: 0.2859,time:43.62 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 97.0, 82.2
+
+Validation: epoch:1066, step:1/5, loss: 0.2703,time:43.67 min
+	Gland Acc:95.1, mIoU: 81.0, Acc: 96.7, 83.4
+
+Validation: epoch:1066, step:2/5, loss: 0.3035,time:43.72 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.8, 83.5
+
+Validation: epoch:1066, step:3/5, loss: 0.3355,time:43.78 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 97.0, 82.7
+
+Validation: epoch:1066, step:4/5, loss: 0.3023,time:43.83 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.8, 83.6
+
+Validation: epoch:1067, step:0/5, loss: 0.3325,time:43.91 min
+	Gland Acc:95.5, mIoU: 81.0, Acc: 97.2, 81.9
+
+Validation: epoch:1067, step:1/5, loss: 0.2795,time:43.96 min
+	Gland Acc:95.3, mIoU: 80.8, Acc: 96.6, 84.8
+
+Validation: epoch:1067, step:2/5, loss: 0.3123,time:44.01 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.5, 85.4
+
+Validation: epoch:1067, step:3/5, loss: 0.2789,time:44.07 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 86.1
+
+Validation: epoch:1067, step:4/5, loss: 0.3607,time:44.12 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.5, 85.8
+
+Validation: epoch:1068, step:0/5, loss: 0.3328,time:44.20 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.8, 83.2
+
+Validation: epoch:1068, step:1/5, loss: 0.3272,time:44.25 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.9, 83.6
+
+Validation: epoch:1068, step:2/5, loss: 0.3280,time:44.31 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.7, 84.4
+
+Validation: epoch:1068, step:3/5, loss: 0.3151,time:44.36 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.7, 84.7
+
+Validation: epoch:1068, step:4/5, loss: 0.2651,time:44.41 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.7, 84.7
+
+Validation: epoch:1069, step:0/5, loss: 0.3077,time:44.49 min
+	Gland Acc:95.1, mIoU: 81.1, Acc: 96.5, 84.7
+
+Validation: epoch:1069, step:1/5, loss: 0.3116,time:44.55 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.8, 84.1
+
+Validation: epoch:1069, step:2/5, loss: 0.3301,time:44.60 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.7, 84.2
+
+Validation: epoch:1069, step:3/5, loss: 0.2733,time:44.65 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 85.1
+
+Validation: epoch:1069, step:4/5, loss: 0.2934,time:44.70 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 84.6
+
+Validation: epoch:1070, step:0/5, loss: 0.3199,time:44.78 min
+	Gland Acc:95.1, mIoU: 80.8, Acc: 96.1, 86.9
+
+Validation: epoch:1070, step:1/5, loss: 0.3188,time:44.83 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 84.9
+
+Validation: epoch:1070, step:2/5, loss: 0.3470,time:44.89 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 85.0
+
+Validation: epoch:1070, step:3/5, loss: 0.3056,time:44.94 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.6, 85.3
+
+Validation: epoch:1070, step:4/5, loss: 0.3042,time:44.99 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.0
+
+Validation: epoch:1071, step:0/5, loss: 0.3151,time:45.07 min
+	Gland Acc:94.9, mIoU: 79.8, Acc: 96.0, 86.0
+
+Validation: epoch:1071, step:1/5, loss: 0.2836,time:45.13 min
+	Gland Acc:95.1, mIoU: 80.7, Acc: 96.1, 86.9
+
+Validation: epoch:1071, step:2/5, loss: 0.3208,time:45.18 min
+	Gland Acc:95.2, mIoU: 80.7, Acc: 96.4, 85.5
+
+Validation: epoch:1071, step:3/5, loss: 0.2820,time:45.23 min
+	Gland Acc:95.2, mIoU: 80.9, Acc: 96.4, 85.7
+
+Validation: epoch:1071, step:4/5, loss: 0.3169,time:45.29 min
+	Gland Acc:95.2, mIoU: 81.0, Acc: 96.4, 85.9
+
+Validation: epoch:1072, step:0/5, loss: 0.2898,time:45.37 min
+	Gland Acc:95.4, mIoU: 81.9, Acc: 96.8, 85.0
+
+Validation: epoch:1072, step:1/5, loss: 0.3086,time:45.42 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.6, 85.1
+
+Validation: epoch:1072, step:2/5, loss: 0.3033,time:45.47 min
+	Gland Acc:95.4, mIoU: 81.5, Acc: 96.8, 85.0
+
+Validation: epoch:1072, step:3/5, loss: 0.3594,time:45.53 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.6, 85.5
+
+Validation: epoch:1072, step:4/5, loss: 0.3300,time:45.58 min
+	Gland Acc:95.3, mIoU: 81.2, Acc: 96.5, 85.9
+
+Validation: epoch:1073, step:0/5, loss: 0.2648,time:45.66 min
+	Gland Acc:95.4, mIoU: 82.6, Acc: 96.8, 86.3
+
+Validation: epoch:1073, step:1/5, loss: 0.2821,time:45.71 min
+	Gland Acc:95.4, mIoU: 82.1, Acc: 96.8, 85.8
+
+Validation: epoch:1073, step:2/5, loss: 0.2979,time:45.76 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.5, 85.8
+
+Validation: epoch:1073, step:3/5, loss: 0.3177,time:45.81 min
+	Gland Acc:95.2, mIoU: 81.4, Acc: 96.6, 85.0
+
+Validation: epoch:1073, step:4/5, loss: 0.3201,time:45.87 min
+	Gland Acc:95.2, mIoU: 81.2, Acc: 96.7, 84.4
+
+Validation: epoch:1074, step:0/5, loss: 0.2722,time:45.95 min
+	Gland Acc:95.5, mIoU: 82.2, Acc: 97.0, 84.2
+
+Validation: epoch:1074, step:1/5, loss: 0.3526,time:46.00 min
+	Gland Acc:95.4, mIoU: 82.2, Acc: 97.0, 84.1
+
+Validation: epoch:1074, step:2/5, loss: 0.2899,time:46.05 min
+	Gland Acc:95.2, mIoU: 81.5, Acc: 96.9, 83.4
+
+Validation: epoch:1074, step:3/5, loss: 0.2880,time:46.10 min
+	Gland Acc:95.1, mIoU: 81.3, Acc: 96.7, 83.7
+
+Validation: epoch:1074, step:4/5, loss: 0.2579,time:46.15 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.8, 83.9
+
+Validation: epoch:1075, step:0/5, loss: 0.3270,time:46.24 min
+	Gland Acc:95.2, mIoU: 81.3, Acc: 96.6, 84.7
+
+Validation: epoch:1075, step:1/5, loss: 0.3223,time:46.29 min
+	Gland Acc:95.1, mIoU: 81.2, Acc: 96.4, 85.8
+
+Validation: epoch:1075, step:2/5, loss: 0.2777,time:46.34 min
+	Gland Acc:95.3, mIoU: 81.5, Acc: 96.5, 85.9
+
+Validation: epoch:1075, step:3/5, loss: 0.3122,time:46.39 min
+	Gland Acc:95.3, mIoU: 81.6, Acc: 96.7, 85.4
+
+Validation: epoch:1075, step:4/5, loss: 0.3273,time:46.44 min
+	Gland Acc:95.3, mIoU: 81.4, Acc: 96.6, 85.4
+

@@ -1,0 +1,570 @@
+Validation: epoch:0, step:0/10, loss: 0.6856, Grade Acc: 0.500,time:0.19 min
+	Gland Acc:59.0, mIoU: 29.7, Acc: 48.4, 59.0
+
+Validation: epoch:0, step:1/10, loss: 0.6925, Grade Acc: 0.562,time:0.29 min
+	Gland Acc:55.3, mIoU: 27.8, Acc: 44.0, 55.3
+
+Validation: epoch:0, step:2/10, loss: 0.6917, Grade Acc: 0.583,time:0.38 min
+	Gland Acc:54.3, mIoU: 27.3, Acc: 46.3, 54.3
+
+Validation: epoch:0, step:3/10, loss: 0.6882, Grade Acc: 0.562,time:0.48 min
+	Gland Acc:54.6, mIoU: 27.5, Acc: 46.1, 54.7
+
+Validation: epoch:0, step:4/10, loss: 0.6938, Grade Acc: 0.550,time:0.58 min
+	Gland Acc:53.4, mIoU: 26.9, Acc: 47.1, 53.4
+
+Validation: epoch:0, step:5/10, loss: 0.6968, Grade Acc: 0.562,time:0.68 min
+	Gland Acc:52.4, mIoU: 26.4, Acc: 47.3, 52.4
+
+Validation: epoch:0, step:6/10, loss: 0.6896, Grade Acc: 0.536,time:0.78 min
+	Gland Acc:52.6, mIoU: 26.5, Acc: 48.0, 52.6
+
+Validation: epoch:0, step:7/10, loss: 0.6917, Grade Acc: 0.562,time:0.88 min
+	Gland Acc:52.8, mIoU: 26.6, Acc: 47.3, 52.8
+
+Validation: epoch:0, step:8/10, loss: 0.6962, Grade Acc: 0.556,time:0.98 min
+	Gland Acc:52.2, mIoU: 26.3, Acc: 48.2, 52.3
+
+Validation: epoch:0, step:9/10, loss: 0.6899, Grade Acc: 0.537,time:1.07 min
+	Gland Acc:52.5, mIoU: 26.5, Acc: 48.6, 52.6
+
+Validation: epoch:100, step:0/10, loss: 0.3614, Grade Acc: 0.875,time:8.84 min
+	Gland Acc:85.0, mIoU: 74.0, Acc: 81.6, 88.6
+
+Validation: epoch:100, step:1/10, loss: 0.3367, Grade Acc: 0.938,time:8.94 min
+	Gland Acc:85.4, mIoU: 74.5, Acc: 84.9, 85.9
+
+Validation: epoch:100, step:2/10, loss: 0.2979, Grade Acc: 0.958,time:9.04 min
+	Gland Acc:86.2, mIoU: 75.6, Acc: 84.7, 87.5
+
+Validation: epoch:100, step:3/10, loss: 0.1509, Grade Acc: 0.969,time:9.14 min
+	Gland Acc:88.2, mIoU: 78.8, Acc: 87.3, 89.0
+
+Validation: epoch:100, step:4/10, loss: 0.4278, Grade Acc: 0.950,time:9.24 min
+	Gland Acc:87.5, mIoU: 77.7, Acc: 84.5, 90.3
+
+Validation: epoch:100, step:5/10, loss: 0.1943, Grade Acc: 0.938,time:9.34 min
+	Gland Acc:88.3, mIoU: 79.0, Acc: 85.6, 90.9
+
+Validation: epoch:100, step:6/10, loss: 0.7380, Grade Acc: 0.946,time:9.44 min
+	Gland Acc:86.1, mIoU: 75.6, Acc: 83.0, 89.2
+
+Validation: epoch:100, step:7/10, loss: 0.3335, Grade Acc: 0.938,time:9.54 min
+	Gland Acc:86.4, mIoU: 76.0, Acc: 83.2, 89.6
+
+Validation: epoch:100, step:8/10, loss: 0.3185, Grade Acc: 0.931,time:9.64 min
+	Gland Acc:86.3, mIoU: 75.9, Acc: 83.1, 89.5
+
+Validation: epoch:100, step:9/10, loss: 0.2028, Grade Acc: 0.938,time:9.74 min
+	Gland Acc:86.9, mIoU: 76.8, Acc: 84.5, 89.4
+
+Validation: epoch:200, step:0/10, loss: 0.3434, Grade Acc: 1.000,time:17.51 min
+	Gland Acc:83.9, mIoU: 71.9, Acc: 81.4, 87.5
+
+Validation: epoch:200, step:1/10, loss: 0.2830, Grade Acc: 1.000,time:17.61 min
+	Gland Acc:86.4, mIoU: 75.6, Acc: 85.5, 87.8
+
+Validation: epoch:200, step:2/10, loss: 0.1659, Grade Acc: 1.000,time:17.71 min
+	Gland Acc:88.8, mIoU: 79.8, Acc: 87.4, 90.2
+
+Validation: epoch:200, step:3/10, loss: 0.2651, Grade Acc: 0.969,time:17.81 min
+	Gland Acc:88.7, mIoU: 79.6, Acc: 86.9, 90.3
+
+Validation: epoch:200, step:4/10, loss: 0.3872, Grade Acc: 0.950,time:17.91 min
+	Gland Acc:88.1, mIoU: 78.7, Acc: 86.9, 89.2
+
+Validation: epoch:200, step:5/10, loss: 0.3114, Grade Acc: 0.958,time:18.01 min
+	Gland Acc:88.0, mIoU: 78.6, Acc: 86.7, 89.4
+
+Validation: epoch:200, step:6/10, loss: 0.2998, Grade Acc: 0.946,time:18.11 min
+	Gland Acc:87.8, mIoU: 78.3, Acc: 87.6, 88.1
+
+Validation: epoch:200, step:7/10, loss: 0.4727, Grade Acc: 0.953,time:18.21 min
+	Gland Acc:87.1, mIoU: 77.1, Acc: 85.6, 88.5
+
+Validation: epoch:200, step:8/10, loss: 0.1607, Grade Acc: 0.958,time:18.31 min
+	Gland Acc:87.8, mIoU: 78.2, Acc: 86.5, 89.1
+
+Validation: epoch:200, step:9/10, loss: 0.3618, Grade Acc: 0.950,time:18.41 min
+	Gland Acc:87.5, mIoU: 77.7, Acc: 86.0, 88.8
+
+Validation: epoch:300, step:0/10, loss: 0.1128, Grade Acc: 0.875,time:26.17 min
+	Gland Acc:95.4, mIoU: 91.0, Acc: 95.7, 95.0
+
+Validation: epoch:300, step:1/10, loss: 0.2719, Grade Acc: 0.688,time:26.27 min
+	Gland Acc:92.4, mIoU: 85.8, Acc: 92.6, 92.2
+
+Validation: epoch:300, step:2/10, loss: 0.1458, Grade Acc: 0.792,time:26.37 min
+	Gland Acc:93.0, mIoU: 86.9, Acc: 93.7, 92.3
+
+Validation: epoch:300, step:3/10, loss: 0.3347, Grade Acc: 0.844,time:26.47 min
+	Gland Acc:92.5, mIoU: 86.0, Acc: 94.1, 91.1
+
+Validation: epoch:300, step:4/10, loss: 0.1754, Grade Acc: 0.875,time:26.57 min
+	Gland Acc:92.6, mIoU: 86.2, Acc: 93.9, 91.5
+
+Validation: epoch:300, step:5/10, loss: 0.3617, Grade Acc: 0.875,time:26.67 min
+	Gland Acc:91.9, mIoU: 85.0, Acc: 92.5, 91.5
+
+Validation: epoch:300, step:6/10, loss: 0.1975, Grade Acc: 0.875,time:26.77 min
+	Gland Acc:92.0, mIoU: 85.1, Acc: 92.6, 91.4
+
+Validation: epoch:300, step:7/10, loss: 0.3409, Grade Acc: 0.875,time:26.87 min
+	Gland Acc:91.6, mIoU: 84.4, Acc: 92.1, 91.0
+
+Validation: epoch:300, step:8/10, loss: 0.6274, Grade Acc: 0.847,time:26.97 min
+	Gland Acc:90.7, mIoU: 83.0, Acc: 90.7, 90.8
+
+Validation: epoch:300, step:9/10, loss: 0.4343, Grade Acc: 0.863,time:27.07 min
+	Gland Acc:90.3, mIoU: 82.4, Acc: 91.0, 89.8
+
+Validation: epoch:400, step:0/10, loss: 0.2418, Grade Acc: 1.000,time:34.90 min
+	Gland Acc:91.1, mIoU: 83.6, Acc: 89.4, 92.8
+
+Validation: epoch:400, step:1/10, loss: 0.2633, Grade Acc: 1.000,time:35.00 min
+	Gland Acc:91.0, mIoU: 83.4, Acc: 89.5, 92.5
+
+Validation: epoch:400, step:2/10, loss: 0.3059, Grade Acc: 1.000,time:35.10 min
+	Gland Acc:90.6, mIoU: 82.8, Acc: 89.4, 92.1
+
+Validation: epoch:400, step:3/10, loss: 0.2299, Grade Acc: 1.000,time:35.20 min
+	Gland Acc:91.0, mIoU: 83.5, Acc: 89.7, 92.4
+
+Validation: epoch:400, step:4/10, loss: 0.1646, Grade Acc: 1.000,time:35.30 min
+	Gland Acc:91.5, mIoU: 84.3, Acc: 90.3, 92.7
+
+Validation: epoch:400, step:5/10, loss: 0.6837, Grade Acc: 1.000,time:35.40 min
+	Gland Acc:90.6, mIoU: 82.7, Acc: 89.3, 91.9
+
+Validation: epoch:400, step:6/10, loss: 0.2977, Grade Acc: 1.000,time:35.49 min
+	Gland Acc:90.4, mIoU: 82.5, Acc: 89.4, 91.4
+
+Validation: epoch:400, step:7/10, loss: 0.3399, Grade Acc: 1.000,time:35.59 min
+	Gland Acc:90.3, mIoU: 82.3, Acc: 90.0, 90.6
+
+Validation: epoch:400, step:8/10, loss: 0.3210, Grade Acc: 1.000,time:35.69 min
+	Gland Acc:90.3, mIoU: 82.2, Acc: 89.6, 90.9
+
+Validation: epoch:400, step:9/10, loss: 0.4561, Grade Acc: 1.000,time:35.79 min
+	Gland Acc:89.7, mIoU: 81.2, Acc: 89.0, 90.3
+
+Validation: epoch:500, step:0/10, loss: 0.3104, Grade Acc: 1.000,time:43.55 min
+	Gland Acc:86.2, mIoU: 75.7, Acc: 82.5, 90.0
+
+Validation: epoch:500, step:1/10, loss: 0.2764, Grade Acc: 0.875,time:43.64 min
+	Gland Acc:87.0, mIoU: 77.0, Acc: 83.4, 90.6
+
+Validation: epoch:500, step:2/10, loss: 0.2518, Grade Acc: 0.917,time:43.74 min
+	Gland Acc:88.3, mIoU: 78.8, Acc: 85.4, 90.6
+
+Validation: epoch:500, step:3/10, loss: 0.2353, Grade Acc: 0.938,time:43.84 min
+	Gland Acc:88.9, mIoU: 79.7, Acc: 87.2, 90.2
+
+Validation: epoch:500, step:4/10, loss: 0.1454, Grade Acc: 0.950,time:43.94 min
+	Gland Acc:89.9, mIoU: 81.6, Acc: 89.5, 90.2
+
+Validation: epoch:500, step:5/10, loss: 0.3127, Grade Acc: 0.958,time:44.04 min
+	Gland Acc:89.5, mIoU: 80.9, Acc: 89.6, 89.5
+
+Validation: epoch:500, step:6/10, loss: 0.3165, Grade Acc: 0.964,time:44.14 min
+	Gland Acc:89.1, mIoU: 80.3, Acc: 88.7, 89.5
+
+Validation: epoch:500, step:7/10, loss: 0.3091, Grade Acc: 0.969,time:44.24 min
+	Gland Acc:89.1, mIoU: 80.3, Acc: 89.3, 88.9
+
+Validation: epoch:500, step:8/10, loss: 0.4094, Grade Acc: 0.944,time:44.35 min
+	Gland Acc:88.4, mIoU: 79.2, Acc: 88.2, 88.6
+
+Validation: epoch:500, step:9/10, loss: 0.3033, Grade Acc: 0.950,time:44.45 min
+	Gland Acc:88.1, mIoU: 78.7, Acc: 87.5, 88.6
+
+Validation: epoch:600, step:0/10, loss: 0.1968, Grade Acc: 1.000,time:52.20 min
+	Gland Acc:93.4, mIoU: 87.0, Acc: 90.3, 95.4
+
+Validation: epoch:600, step:1/10, loss: 0.2652, Grade Acc: 0.938,time:52.30 min
+	Gland Acc:92.5, mIoU: 85.9, Acc: 92.2, 92.8
+
+Validation: epoch:600, step:2/10, loss: 0.7241, Grade Acc: 0.958,time:52.39 min
+	Gland Acc:90.4, mIoU: 82.4, Acc: 90.0, 90.7
+
+Validation: epoch:600, step:3/10, loss: 0.4696, Grade Acc: 0.969,time:52.49 min
+	Gland Acc:89.7, mIoU: 81.2, Acc: 88.2, 91.0
+
+Validation: epoch:600, step:4/10, loss: 0.4104, Grade Acc: 0.975,time:52.60 min
+	Gland Acc:89.7, mIoU: 81.2, Acc: 89.6, 89.7
+
+Validation: epoch:600, step:5/10, loss: 0.2201, Grade Acc: 0.979,time:52.69 min
+	Gland Acc:90.1, mIoU: 81.9, Acc: 90.6, 89.5
+
+Validation: epoch:600, step:6/10, loss: 0.4889, Grade Acc: 0.982,time:52.80 min
+	Gland Acc:89.9, mIoU: 81.7, Acc: 89.8, 90.1
+
+Validation: epoch:600, step:7/10, loss: 0.2367, Grade Acc: 0.984,time:52.90 min
+	Gland Acc:90.2, mIoU: 82.2, Acc: 90.0, 90.4
+
+Validation: epoch:600, step:8/10, loss: 0.2608, Grade Acc: 0.986,time:52.99 min
+	Gland Acc:90.4, mIoU: 82.5, Acc: 90.7, 90.2
+
+Validation: epoch:600, step:9/10, loss: 0.3454, Grade Acc: 0.988,time:53.09 min
+	Gland Acc:90.3, mIoU: 82.2, Acc: 90.2, 90.3
+
+Validation: epoch:700, step:0/10, loss: 0.2986, Grade Acc: 1.000,time:60.85 min
+	Gland Acc:90.3, mIoU: 82.3, Acc: 93.9, 86.5
+
+Validation: epoch:700, step:1/10, loss: 0.3617, Grade Acc: 1.000,time:60.95 min
+	Gland Acc:89.7, mIoU: 81.3, Acc: 93.1, 86.1
+
+Validation: epoch:700, step:2/10, loss: 0.3593, Grade Acc: 1.000,time:61.05 min
+	Gland Acc:89.4, mIoU: 80.8, Acc: 90.3, 88.4
+
+Validation: epoch:700, step:3/10, loss: 0.1622, Grade Acc: 0.969,time:61.15 min
+	Gland Acc:90.4, mIoU: 82.4, Acc: 91.7, 88.9
+
+Validation: epoch:700, step:4/10, loss: 0.3515, Grade Acc: 0.975,time:61.25 min
+	Gland Acc:89.9, mIoU: 81.6, Acc: 91.6, 88.3
+
+Validation: epoch:700, step:5/10, loss: 0.2090, Grade Acc: 0.979,time:61.35 min
+	Gland Acc:90.2, mIoU: 82.2, Acc: 90.9, 89.6
+
+Validation: epoch:700, step:6/10, loss: 0.5459, Grade Acc: 0.964,time:61.45 min
+	Gland Acc:89.4, mIoU: 80.8, Acc: 89.8, 89.0
+
+Validation: epoch:700, step:7/10, loss: 0.3145, Grade Acc: 0.969,time:61.55 min
+	Gland Acc:89.6, mIoU: 81.1, Acc: 89.5, 89.6
+
+Validation: epoch:700, step:8/10, loss: 0.3207, Grade Acc: 0.972,time:61.65 min
+	Gland Acc:89.4, mIoU: 80.8, Acc: 89.1, 89.6
+
+Validation: epoch:700, step:9/10, loss: 0.3580, Grade Acc: 0.975,time:61.75 min
+	Gland Acc:89.4, mIoU: 80.7, Acc: 88.7, 90.0
+
+Validation: epoch:800, step:0/10, loss: 0.3793, Grade Acc: 1.000,time:69.51 min
+	Gland Acc:89.8, mIoU: 81.1, Acc: 89.8, 89.7
+
+Validation: epoch:800, step:1/10, loss: 0.2718, Grade Acc: 1.000,time:69.60 min
+	Gland Acc:90.8, mIoU: 83.1, Acc: 93.8, 88.2
+
+Validation: epoch:800, step:2/10, loss: 0.3073, Grade Acc: 1.000,time:69.70 min
+	Gland Acc:90.5, mIoU: 82.7, Acc: 94.2, 87.4
+
+Validation: epoch:800, step:3/10, loss: 0.3882, Grade Acc: 0.969,time:69.80 min
+	Gland Acc:90.3, mIoU: 82.3, Acc: 94.2, 87.3
+
+Validation: epoch:800, step:4/10, loss: 0.1895, Grade Acc: 0.975,time:69.90 min
+	Gland Acc:90.9, mIoU: 83.1, Acc: 94.0, 88.5
+
+Validation: epoch:800, step:5/10, loss: 0.2989, Grade Acc: 0.979,time:70.00 min
+	Gland Acc:90.8, mIoU: 83.0, Acc: 93.8, 88.5
+
+Validation: epoch:800, step:6/10, loss: 0.4413, Grade Acc: 0.964,time:70.10 min
+	Gland Acc:90.3, mIoU: 82.1, Acc: 92.2, 88.8
+
+Validation: epoch:800, step:7/10, loss: 0.2926, Grade Acc: 0.938,time:70.20 min
+	Gland Acc:90.4, mIoU: 82.3, Acc: 92.5, 88.7
+
+Validation: epoch:800, step:8/10, loss: 0.2863, Grade Acc: 0.944,time:70.29 min
+	Gland Acc:90.4, mIoU: 82.4, Acc: 93.0, 88.3
+
+Validation: epoch:800, step:9/10, loss: 0.4211, Grade Acc: 0.938,time:70.39 min
+	Gland Acc:90.2, mIoU: 82.1, Acc: 92.2, 88.7
+
+Validation: epoch:900, step:0/10, loss: 0.6309, Grade Acc: 1.000,time:78.14 min
+	Gland Acc:84.8, mIoU: 73.5, Acc: 76.9, 94.5
+
+Validation: epoch:900, step:1/10, loss: 0.1694, Grade Acc: 0.938,time:78.24 min
+	Gland Acc:89.9, mIoU: 81.7, Acc: 85.3, 95.1
+
+Validation: epoch:900, step:2/10, loss: 0.3187, Grade Acc: 0.958,time:78.34 min
+	Gland Acc:90.1, mIoU: 82.0, Acc: 87.2, 93.1
+
+Validation: epoch:900, step:3/10, loss: 0.2342, Grade Acc: 0.969,time:78.44 min
+	Gland Acc:90.8, mIoU: 83.2, Acc: 88.9, 92.8
+
+Validation: epoch:900, step:4/10, loss: 0.3719, Grade Acc: 0.975,time:78.54 min
+	Gland Acc:90.8, mIoU: 83.1, Acc: 89.3, 92.2
+
+Validation: epoch:900, step:5/10, loss: 0.2781, Grade Acc: 0.979,time:78.64 min
+	Gland Acc:90.9, mIoU: 83.3, Acc: 89.7, 92.0
+
+Validation: epoch:900, step:6/10, loss: 0.3560, Grade Acc: 0.982,time:78.74 min
+	Gland Acc:90.9, mIoU: 83.3, Acc: 89.6, 92.1
+
+Validation: epoch:900, step:7/10, loss: 0.7138, Grade Acc: 0.984,time:78.84 min
+	Gland Acc:90.3, mIoU: 82.3, Acc: 88.3, 92.2
+
+Validation: epoch:900, step:8/10, loss: 0.3574, Grade Acc: 0.972,time:78.94 min
+	Gland Acc:90.3, mIoU: 82.3, Acc: 88.5, 92.1
+
+Validation: epoch:900, step:9/10, loss: 0.2279, Grade Acc: 0.975,time:79.04 min
+	Gland Acc:90.6, mIoU: 82.9, Acc: 89.0, 92.2
+
+Validation: epoch:1000, step:0/10, loss: 0.3134, Grade Acc: 1.000,time:86.78 min
+	Gland Acc:90.9, mIoU: 83.1, Acc: 90.9, 90.9
+
+Validation: epoch:1000, step:1/10, loss: 0.4165, Grade Acc: 1.000,time:86.88 min
+	Gland Acc:90.0, mIoU: 81.5, Acc: 87.6, 91.8
+
+Validation: epoch:1000, step:2/10, loss: 0.2710, Grade Acc: 1.000,time:86.97 min
+	Gland Acc:90.9, mIoU: 83.0, Acc: 88.3, 92.8
+
+Validation: epoch:1000, step:3/10, loss: 0.3590, Grade Acc: 1.000,time:87.07 min
+	Gland Acc:90.7, mIoU: 82.9, Acc: 88.5, 92.6
+
+Validation: epoch:1000, step:4/10, loss: 0.2881, Grade Acc: 1.000,time:87.17 min
+	Gland Acc:90.9, mIoU: 83.0, Acc: 88.2, 93.0
+
+Validation: epoch:1000, step:5/10, loss: 0.1800, Grade Acc: 1.000,time:87.27 min
+	Gland Acc:91.5, mIoU: 84.1, Acc: 89.2, 93.3
+
+Validation: epoch:1000, step:6/10, loss: 0.1797, Grade Acc: 0.982,time:87.37 min
+	Gland Acc:91.9, mIoU: 84.9, Acc: 89.9, 93.6
+
+Validation: epoch:1000, step:7/10, loss: 0.3563, Grade Acc: 0.984,time:87.47 min
+	Gland Acc:91.8, mIoU: 84.7, Acc: 90.5, 92.9
+
+Validation: epoch:1000, step:8/10, loss: 0.5377, Grade Acc: 0.986,time:87.57 min
+	Gland Acc:91.3, mIoU: 83.9, Acc: 90.6, 91.9
+
+Validation: epoch:1000, step:9/10, loss: 0.5185, Grade Acc: 0.975,time:87.67 min
+	Gland Acc:91.1, mIoU: 83.7, Acc: 90.4, 91.9
+
+Validation: epoch:1001, step:0/10, loss: 0.3363, Grade Acc: 1.000,time:87.85 min
+	Gland Acc:90.6, mIoU: 82.7, Acc: 87.5, 93.3
+
+Validation: epoch:1001, step:1/10, loss: 0.4659, Grade Acc: 1.000,time:87.95 min
+	Gland Acc:89.9, mIoU: 81.6, Acc: 88.4, 91.2
+
+Validation: epoch:1001, step:2/10, loss: 0.5367, Grade Acc: 1.000,time:88.05 min
+	Gland Acc:89.8, mIoU: 81.4, Acc: 89.5, 90.1
+
+Validation: epoch:1001, step:3/10, loss: 0.6044, Grade Acc: 0.969,time:88.15 min
+	Gland Acc:89.4, mIoU: 80.5, Acc: 87.4, 90.9
+
+Validation: epoch:1001, step:4/10, loss: 0.1632, Grade Acc: 0.975,time:88.25 min
+	Gland Acc:90.5, mIoU: 82.4, Acc: 88.7, 91.9
+
+Validation: epoch:1001, step:5/10, loss: 0.3037, Grade Acc: 0.958,time:88.35 min
+	Gland Acc:90.7, mIoU: 82.9, Acc: 90.2, 91.1
+
+Validation: epoch:1001, step:6/10, loss: 0.2258, Grade Acc: 0.964,time:88.45 min
+	Gland Acc:91.1, mIoU: 83.6, Acc: 90.4, 91.7
+
+Validation: epoch:1001, step:7/10, loss: 0.2689, Grade Acc: 0.969,time:88.55 min
+	Gland Acc:91.2, mIoU: 83.8, Acc: 90.8, 91.6
+
+Validation: epoch:1001, step:8/10, loss: 0.2661, Grade Acc: 0.972,time:88.64 min
+	Gland Acc:91.3, mIoU: 84.0, Acc: 91.2, 91.4
+
+Validation: epoch:1001, step:9/10, loss: 0.5873, Grade Acc: 0.950,time:88.74 min
+	Gland Acc:90.9, mIoU: 83.3, Acc: 90.9, 90.9
+
+Validation: epoch:1002, step:0/10, loss: 0.5585, Grade Acc: 1.000,time:88.93 min
+	Gland Acc:85.8, mIoU: 74.5, Acc: 77.5, 92.3
+
+Validation: epoch:1002, step:1/10, loss: 0.2319, Grade Acc: 1.000,time:89.03 min
+	Gland Acc:89.8, mIoU: 81.3, Acc: 85.1, 93.8
+
+Validation: epoch:1002, step:2/10, loss: 0.1634, Grade Acc: 0.958,time:89.13 min
+	Gland Acc:91.5, mIoU: 84.2, Acc: 88.9, 93.9
+
+Validation: epoch:1002, step:3/10, loss: 0.1952, Grade Acc: 0.969,time:89.22 min
+	Gland Acc:92.0, mIoU: 85.1, Acc: 90.4, 93.5
+
+Validation: epoch:1002, step:4/10, loss: 0.3165, Grade Acc: 0.950,time:89.32 min
+	Gland Acc:91.8, mIoU: 84.9, Acc: 90.9, 92.7
+
+Validation: epoch:1002, step:5/10, loss: 0.2490, Grade Acc: 0.958,time:89.42 min
+	Gland Acc:92.0, mIoU: 85.1, Acc: 91.2, 92.7
+
+Validation: epoch:1002, step:6/10, loss: 0.3327, Grade Acc: 0.964,time:89.52 min
+	Gland Acc:91.8, mIoU: 84.8, Acc: 91.4, 92.1
+
+Validation: epoch:1002, step:7/10, loss: 0.6036, Grade Acc: 0.953,time:89.62 min
+	Gland Acc:91.4, mIoU: 84.1, Acc: 90.2, 92.4
+
+Validation: epoch:1002, step:8/10, loss: 0.2503, Grade Acc: 0.958,time:89.72 min
+	Gland Acc:91.5, mIoU: 84.3, Acc: 90.4, 92.5
+
+Validation: epoch:1002, step:9/10, loss: 0.2483, Grade Acc: 0.963,time:89.82 min
+	Gland Acc:91.7, mIoU: 84.6, Acc: 91.0, 92.3
+
+Validation: epoch:1003, step:0/10, loss: 0.5397, Grade Acc: 1.000,time:90.00 min
+	Gland Acc:89.2, mIoU: 80.5, Acc: 86.6, 92.4
+
+Validation: epoch:1003, step:1/10, loss: 0.4588, Grade Acc: 1.000,time:90.10 min
+	Gland Acc:89.1, mIoU: 80.3, Acc: 87.0, 91.0
+
+Validation: epoch:1003, step:2/10, loss: 0.5193, Grade Acc: 0.958,time:90.20 min
+	Gland Acc:88.7, mIoU: 79.7, Acc: 86.5, 90.8
+
+Validation: epoch:1003, step:3/10, loss: 0.3030, Grade Acc: 0.969,time:90.30 min
+	Gland Acc:89.5, mIoU: 81.0, Acc: 87.5, 91.4
+
+Validation: epoch:1003, step:4/10, loss: 0.2266, Grade Acc: 0.975,time:90.40 min
+	Gland Acc:90.1, mIoU: 81.9, Acc: 88.3, 91.7
+
+Validation: epoch:1003, step:5/10, loss: 0.5833, Grade Acc: 0.979,time:90.50 min
+	Gland Acc:89.6, mIoU: 81.0, Acc: 86.1, 92.6
+
+Validation: epoch:1003, step:6/10, loss: 0.2112, Grade Acc: 0.982,time:90.60 min
+	Gland Acc:90.2, mIoU: 82.0, Acc: 87.6, 92.5
+
+Validation: epoch:1003, step:7/10, loss: 0.3585, Grade Acc: 0.969,time:90.70 min
+	Gland Acc:90.3, mIoU: 82.3, Acc: 88.6, 91.9
+
+Validation: epoch:1003, step:8/10, loss: 0.1716, Grade Acc: 0.972,time:90.79 min
+	Gland Acc:90.8, mIoU: 83.1, Acc: 89.3, 92.1
+
+Validation: epoch:1003, step:9/10, loss: 0.2483, Grade Acc: 0.975,time:90.89 min
+	Gland Acc:90.9, mIoU: 83.4, Acc: 89.6, 92.2
+
+Validation: epoch:1004, step:0/10, loss: 0.6553, Grade Acc: 0.875,time:91.08 min
+	Gland Acc:83.4, mIoU: 71.5, Acc: 78.7, 89.5
+
+Validation: epoch:1004, step:1/10, loss: 0.3477, Grade Acc: 0.875,time:91.18 min
+	Gland Acc:86.5, mIoU: 76.1, Acc: 84.8, 88.6
+
+Validation: epoch:1004, step:2/10, loss: 0.2255, Grade Acc: 0.917,time:91.28 min
+	Gland Acc:88.8, mIoU: 79.8, Acc: 86.9, 90.5
+
+Validation: epoch:1004, step:3/10, loss: 0.4177, Grade Acc: 0.938,time:91.38 min
+	Gland Acc:89.2, mIoU: 80.5, Acc: 87.6, 90.7
+
+Validation: epoch:1004, step:4/10, loss: 0.3993, Grade Acc: 0.950,time:91.48 min
+	Gland Acc:89.3, mIoU: 80.6, Acc: 88.6, 89.9
+
+Validation: epoch:1004, step:5/10, loss: 0.3317, Grade Acc: 0.958,time:91.59 min
+	Gland Acc:89.7, mIoU: 81.3, Acc: 89.1, 90.2
+
+Validation: epoch:1004, step:6/10, loss: 0.2845, Grade Acc: 0.964,time:91.69 min
+	Gland Acc:90.0, mIoU: 81.8, Acc: 89.8, 90.2
+
+Validation: epoch:1004, step:7/10, loss: 0.5213, Grade Acc: 0.953,time:91.79 min
+	Gland Acc:89.5, mIoU: 81.0, Acc: 88.6, 90.4
+
+Validation: epoch:1004, step:8/10, loss: 0.1625, Grade Acc: 0.958,time:91.89 min
+	Gland Acc:90.2, mIoU: 82.1, Acc: 89.8, 90.5
+
+Validation: epoch:1004, step:9/10, loss: 0.6796, Grade Acc: 0.950,time:91.99 min
+	Gland Acc:89.8, mIoU: 81.5, Acc: 89.1, 90.4
+
+Validation: epoch:1005, step:0/10, loss: 0.3532, Grade Acc: 0.875,time:92.18 min
+	Gland Acc:90.3, mIoU: 82.3, Acc: 91.0, 89.7
+
+Validation: epoch:1005, step:1/10, loss: 0.6372, Grade Acc: 0.875,time:92.28 min
+	Gland Acc:88.0, mIoU: 78.5, Acc: 85.9, 90.1
+
+Validation: epoch:1005, step:2/10, loss: 0.6620, Grade Acc: 0.792,time:92.38 min
+	Gland Acc:88.1, mIoU: 78.7, Acc: 85.5, 91.2
+
+Validation: epoch:1005, step:3/10, loss: 0.2661, Grade Acc: 0.844,time:92.48 min
+	Gland Acc:88.9, mIoU: 80.0, Acc: 86.7, 91.4
+
+Validation: epoch:1005, step:4/10, loss: 0.4028, Grade Acc: 0.875,time:92.58 min
+	Gland Acc:89.0, mIoU: 80.1, Acc: 86.5, 91.5
+
+Validation: epoch:1005, step:5/10, loss: 0.4642, Grade Acc: 0.875,time:92.68 min
+	Gland Acc:88.7, mIoU: 79.7, Acc: 86.3, 91.2
+
+Validation: epoch:1005, step:6/10, loss: 0.1936, Grade Acc: 0.893,time:92.78 min
+	Gland Acc:89.5, mIoU: 80.9, Acc: 87.3, 91.7
+
+Validation: epoch:1005, step:7/10, loss: 0.2958, Grade Acc: 0.906,time:92.88 min
+	Gland Acc:89.8, mIoU: 81.5, Acc: 87.5, 92.0
+
+Validation: epoch:1005, step:8/10, loss: 0.1796, Grade Acc: 0.917,time:92.98 min
+	Gland Acc:90.3, mIoU: 82.3, Acc: 88.6, 92.0
+
+Validation: epoch:1005, step:9/10, loss: 0.6554, Grade Acc: 0.925,time:93.08 min
+	Gland Acc:90.1, mIoU: 81.9, Acc: 88.5, 91.6
+
+Validation: epoch:1006, step:0/10, loss: 0.4780, Grade Acc: 0.875,time:93.26 min
+	Gland Acc:89.4, mIoU: 80.7, Acc: 87.7, 91.6
+
+Validation: epoch:1006, step:1/10, loss: 0.7871, Grade Acc: 0.938,time:93.36 min
+	Gland Acc:86.1, mIoU: 75.6, Acc: 90.9, 81.6
+
+Validation: epoch:1006, step:2/10, loss: 0.5876, Grade Acc: 0.917,time:93.47 min
+	Gland Acc:86.4, mIoU: 76.0, Acc: 89.8, 83.1
+
+Validation: epoch:1006, step:3/10, loss: 0.4463, Grade Acc: 0.906,time:93.57 min
+	Gland Acc:86.6, mIoU: 76.3, Acc: 89.2, 84.1
+
+Validation: epoch:1006, step:4/10, loss: 0.3169, Grade Acc: 0.925,time:93.67 min
+	Gland Acc:87.5, mIoU: 77.8, Acc: 89.9, 85.4
+
+Validation: epoch:1006, step:5/10, loss: 0.2072, Grade Acc: 0.917,time:93.77 min
+	Gland Acc:88.6, mIoU: 79.5, Acc: 90.5, 87.0
+
+Validation: epoch:1006, step:6/10, loss: 0.3480, Grade Acc: 0.929,time:93.87 min
+	Gland Acc:88.8, mIoU: 79.8, Acc: 90.9, 87.0
+
+Validation: epoch:1006, step:7/10, loss: 0.4949, Grade Acc: 0.938,time:93.97 min
+	Gland Acc:88.6, mIoU: 79.5, Acc: 90.9, 86.7
+
+Validation: epoch:1006, step:8/10, loss: 0.3343, Grade Acc: 0.931,time:94.07 min
+	Gland Acc:88.8, mIoU: 79.7, Acc: 90.5, 87.3
+
+Validation: epoch:1006, step:9/10, loss: 0.2309, Grade Acc: 0.925,time:94.17 min
+	Gland Acc:89.2, mIoU: 80.4, Acc: 91.1, 87.6
+
+Validation: epoch:1007, step:0/10, loss: 0.5229, Grade Acc: 0.750,time:94.35 min
+	Gland Acc:91.4, mIoU: 84.1, Acc: 87.7, 96.3
+
+Validation: epoch:1007, step:1/10, loss: 0.2099, Grade Acc: 0.812,time:94.45 min
+	Gland Acc:92.5, mIoU: 86.0, Acc: 89.8, 95.2
+
+Validation: epoch:1007, step:2/10, loss: 0.4150, Grade Acc: 0.833,time:94.55 min
+	Gland Acc:91.5, mIoU: 84.3, Acc: 90.3, 92.6
+
+Validation: epoch:1007, step:3/10, loss: 0.6105, Grade Acc: 0.844,time:94.65 min
+	Gland Acc:90.6, mIoU: 82.7, Acc: 88.8, 92.2
+
+Validation: epoch:1007, step:4/10, loss: 0.3681, Grade Acc: 0.875,time:94.75 min
+	Gland Acc:90.6, mIoU: 82.8, Acc: 88.7, 92.6
+
+Validation: epoch:1007, step:5/10, loss: 0.2288, Grade Acc: 0.896,time:94.85 min
+	Gland Acc:90.9, mIoU: 83.3, Acc: 89.1, 92.6
+
+Validation: epoch:1007, step:6/10, loss: 0.4160, Grade Acc: 0.911,time:94.95 min
+	Gland Acc:90.6, mIoU: 82.8, Acc: 89.1, 92.0
+
+Validation: epoch:1007, step:7/10, loss: 0.2595, Grade Acc: 0.906,time:95.05 min
+	Gland Acc:90.8, mIoU: 83.1, Acc: 89.3, 92.3
+
+Validation: epoch:1007, step:8/10, loss: 0.3072, Grade Acc: 0.917,time:95.15 min
+	Gland Acc:90.8, mIoU: 83.1, Acc: 89.1, 92.4
+
+Validation: epoch:1007, step:9/10, loss: 0.5416, Grade Acc: 0.925,time:95.25 min
+	Gland Acc:90.5, mIoU: 82.7, Acc: 88.7, 92.4
+
+Validation: epoch:1008, step:0/10, loss: 0.3609, Grade Acc: 1.000,time:95.43 min
+	Gland Acc:90.0, mIoU: 81.9, Acc: 85.8, 94.4
+
+Validation: epoch:1008, step:1/10, loss: 0.2614, Grade Acc: 1.000,time:95.53 min
+	Gland Acc:91.4, mIoU: 84.2, Acc: 89.1, 93.7
+
+Validation: epoch:1008, step:2/10, loss: 0.3745, Grade Acc: 1.000,time:95.63 min
+	Gland Acc:91.5, mIoU: 84.3, Acc: 89.9, 93.1
+
+Validation: epoch:1008, step:3/10, loss: 0.6035, Grade Acc: 0.938,time:95.73 min
+	Gland Acc:91.0, mIoU: 83.4, Acc: 88.0, 94.0
+
+Validation: epoch:1008, step:4/10, loss: 0.4511, Grade Acc: 0.950,time:95.83 min
+	Gland Acc:90.7, mIoU: 83.0, Acc: 88.3, 93.4
+
+Validation: epoch:1008, step:5/10, loss: 0.5277, Grade Acc: 0.958,time:95.93 min
+	Gland Acc:90.2, mIoU: 82.2, Acc: 88.1, 92.5
+
+Validation: epoch:1008, step:6/10, loss: 0.2785, Grade Acc: 0.964,time:96.03 min
+	Gland Acc:90.5, mIoU: 82.6, Acc: 88.3, 92.7
+
+Validation: epoch:1008, step:7/10, loss: 0.3894, Grade Acc: 0.969,time:96.13 min
+	Gland Acc:90.1, mIoU: 82.0, Acc: 87.9, 92.4
+
+Validation: epoch:1008, step:8/10, loss: 0.4274, Grade Acc: 0.958,time:96.23 min
+	Gland Acc:90.2, mIoU: 82.1, Acc: 87.7, 92.6
+
+Validation: epoch:1008, step:9/10, loss: 0.4493, Grade Acc: 0.963,time:96.33 min
+	Gland Acc:90.1, mIoU: 82.0, Acc: 87.7, 92.5
+

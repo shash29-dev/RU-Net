@@ -1,0 +1,1590 @@
+Validation: epoch:0, step:0/10, loss: 1.2119, time:12.17 min
+	Liver Acc:98.3, mIoU: 75.6, Acc: 99.5, 60.5
+	Tumor Acc:92.6, mIoU: 46.5, Acc: 92.7, 24.7
+Validation: epoch:0, step:1/10, loss: 1.2106, time:12.63 min
+	Liver Acc:97.5, mIoU: 76.7, Acc: 98.1, 82.2
+	Tumor Acc:93.2, mIoU: 46.7, Acc: 93.2, 19.8
+Validation: epoch:0, step:2/10, loss: 1.2259, time:13.09 min
+	Liver Acc:96.5, mIoU: 71.3, Acc: 97.0, 81.8
+	Tumor Acc:92.7, mIoU: 46.5, Acc: 92.8, 18.1
+Validation: epoch:0, step:3/10, loss: 1.2293, time:13.55 min
+	Liver Acc:95.5, mIoU: 68.6, Acc: 96.2, 79.8
+	Tumor Acc:92.4, mIoU: 46.3, Acc: 92.4, 18.1
+Validation: epoch:0, step:4/10, loss: 1.2137, time:14.02 min
+	Liver Acc:95.6, mIoU: 72.5, Acc: 96.0, 86.8
+	Tumor Acc:92.2, mIoU: 46.4, Acc: 92.4, 14.1
+Validation: epoch:0, step:5/10, loss: 1.2106, time:14.49 min
+	Liver Acc:96.0, mIoU: 72.9, Acc: 96.5, 85.3
+	Tumor Acc:92.4, mIoU: 46.6, Acc: 92.7, 14.8
+Validation: epoch:0, step:6/10, loss: 1.2046, time:14.96 min
+	Liver Acc:96.1, mIoU: 75.1, Acc: 96.5, 88.7
+	Tumor Acc:92.5, mIoU: 46.6, Acc: 92.9, 13.2
+Validation: epoch:0, step:7/10, loss: 1.2278, time:15.42 min
+	Liver Acc:95.7, mIoU: 73.3, Acc: 96.1, 88.0
+	Tumor Acc:92.4, mIoU: 46.5, Acc: 92.7, 13.1
+Validation: epoch:0, step:8/10, loss: 1.2173, time:15.88 min
+	Liver Acc:95.8, mIoU: 72.6, Acc: 96.2, 87.9
+	Tumor Acc:92.4, mIoU: 46.7, Acc: 92.8, 14.6
+Validation: epoch:0, step:9/10, loss: 1.2167, time:16.35 min
+	Liver Acc:95.9, mIoU: 73.2, Acc: 96.2, 88.9
+	Tumor Acc:92.4, mIoU: 46.6, Acc: 92.8, 14.5
+Validation: epoch:5, step:0/10, loss: 0.8683, time:75.34 min
+	Liver Acc:98.7, mIoU: 91.0, Acc: 99.1, 94.2
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 0.0
+Validation: epoch:5, step:1/10, loss: 0.8691, time:75.80 min
+	Liver Acc:98.9, mIoU: 86.2, Acc: 99.5, 82.4
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 8.9
+Validation: epoch:5, step:2/10, loss: 0.8647, time:76.25 min
+	Liver Acc:99.2, mIoU: 85.4, Acc: 99.6, 81.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 8.9
+Validation: epoch:5, step:3/10, loss: 0.8708, time:76.71 min
+	Liver Acc:98.9, mIoU: 87.8, Acc: 99.5, 85.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 9.8
+Validation: epoch:5, step:4/10, loss: 0.8738, time:77.16 min
+	Liver Acc:98.9, mIoU: 88.3, Acc: 99.4, 88.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.2
+Validation: epoch:5, step:5/10, loss: 0.8875, time:77.62 min
+	Liver Acc:98.4, mIoU: 82.5, Acc: 99.0, 84.5
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.2
+Validation: epoch:5, step:6/10, loss: 0.8729, time:78.08 min
+	Liver Acc:98.4, mIoU: 81.9, Acc: 98.9, 85.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.2
+Validation: epoch:5, step:7/10, loss: 0.8975, time:78.53 min
+	Liver Acc:98.0, mIoU: 81.2, Acc: 98.6, 85.0
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 6.7
+Validation: epoch:5, step:8/10, loss: 0.8705, time:78.99 min
+	Liver Acc:98.0, mIoU: 81.7, Acc: 98.6, 85.6
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 6.7
+Validation: epoch:5, step:9/10, loss: 0.8643, time:79.44 min
+	Liver Acc:98.2, mIoU: 81.8, Acc: 98.7, 85.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 6.7
+Validation: epoch:10, step:0/10, loss: 0.7617, time:138.46 min
+	Liver Acc:97.8, mIoU: 88.8, Acc: 98.0, 95.2
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:10, step:1/10, loss: 0.7636, time:138.92 min
+	Liver Acc:97.6, mIoU: 88.0, Acc: 97.9, 94.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 0.0
+Validation: epoch:10, step:2/10, loss: 0.7597, time:139.39 min
+	Liver Acc:97.8, mIoU: 89.7, Acc: 98.3, 93.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 2.6
+Validation: epoch:10, step:3/10, loss: 0.8086, time:139.86 min
+	Liver Acc:95.8, mIoU: 81.6, Acc: 98.1, 78.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 2.4
+Validation: epoch:10, step:4/10, loss: 0.7657, time:140.32 min
+	Liver Acc:96.0, mIoU: 81.8, Acc: 98.3, 77.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.3
+Validation: epoch:10, step:5/10, loss: 0.7607, time:140.79 min
+	Liver Acc:96.4, mIoU: 83.4, Acc: 98.3, 80.8
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.8
+Validation: epoch:10, step:6/10, loss: 0.7637, time:141.25 min
+	Liver Acc:96.5, mIoU: 82.9, Acc: 98.1, 81.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.8
+Validation: epoch:10, step:7/10, loss: 0.7845, time:141.72 min
+	Liver Acc:96.6, mIoU: 84.3, Acc: 98.1, 83.9
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.5
+Validation: epoch:10, step:8/10, loss: 0.7507, time:142.17 min
+	Liver Acc:97.0, mIoU: 84.4, Acc: 98.3, 83.8
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:10, step:9/10, loss: 0.7767, time:142.63 min
+	Liver Acc:96.8, mIoU: 83.5, Acc: 98.0, 84.5
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:15, step:0/10, loss: 0.7321, time:201.82 min
+	Liver Acc:95.9, mIoU: 70.6, Acc: 95.9, 97.2
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:15, step:1/10, loss: 0.7409, time:202.27 min
+	Liver Acc:95.2, mIoU: 71.2, Acc: 95.1, 97.8
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:15, step:2/10, loss: 0.7222, time:202.73 min
+	Liver Acc:96.1, mIoU: 72.7, Acc: 96.0, 98.3
+	Tumor Acc:93.7, mIoU: 47.0, Acc: 93.8, 20.0
+Validation: epoch:15, step:3/10, loss: 0.7621, time:203.19 min
+	Liver Acc:94.9, mIoU: 70.0, Acc: 95.2, 90.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 12.6
+Validation: epoch:15, step:4/10, loss: 0.7177, time:203.65 min
+	Liver Acc:95.6, mIoU: 73.0, Acc: 95.7, 92.6
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 12.6
+Validation: epoch:15, step:5/10, loss: 0.7255, time:204.10 min
+	Liver Acc:95.8, mIoU: 74.0, Acc: 96.0, 91.9
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 10.4
+Validation: epoch:15, step:6/10, loss: 0.7215, time:204.56 min
+	Liver Acc:96.1, mIoU: 76.7, Acc: 96.2, 93.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 10.2
+Validation: epoch:15, step:7/10, loss: 0.7257, time:205.03 min
+	Liver Acc:96.1, mIoU: 77.5, Acc: 96.4, 92.9
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 10.2
+Validation: epoch:15, step:8/10, loss: 0.7314, time:205.50 min
+	Liver Acc:96.2, mIoU: 78.1, Acc: 96.5, 92.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 7.9
+Validation: epoch:15, step:9/10, loss: 0.7195, time:205.97 min
+	Liver Acc:96.4, mIoU: 77.7, Acc: 96.7, 92.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 6.2
+Validation: epoch:20, step:0/10, loss: 0.6792, time:58.75 min
+	Liver Acc:99.1, mIoU: 94.2, Acc: 99.3, 97.2
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 34.1
+Validation: epoch:20, step:1/10, loss: 0.6911, time:59.21 min
+	Liver Acc:99.1, mIoU: 94.7, Acc: 99.3, 97.2
+	Tumor Acc:93.3, mIoU: 46.8, Acc: 93.7, 3.9
+Validation: epoch:20, step:2/10, loss: 0.6965, time:59.66 min
+	Liver Acc:98.3, mIoU: 90.3, Acc: 98.6, 94.8
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:20, step:3/10, loss: 0.6861, time:60.11 min
+	Liver Acc:98.3, mIoU: 89.9, Acc: 98.9, 91.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 6.1
+Validation: epoch:20, step:4/10, loss: 0.6798, time:60.56 min
+	Liver Acc:98.4, mIoU: 90.5, Acc: 99.0, 92.1
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 6.1
+Validation: epoch:20, step:5/10, loss: 0.6790, time:61.01 min
+	Liver Acc:98.6, mIoU: 91.1, Acc: 99.0, 93.0
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:20, step:6/10, loss: 0.6948, time:61.46 min
+	Liver Acc:98.3, mIoU: 89.5, Acc: 99.1, 89.4
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 6.7
+Validation: epoch:20, step:7/10, loss: 0.6881, time:61.92 min
+	Liver Acc:98.3, mIoU: 88.7, Acc: 98.9, 89.8
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 6.7
+Validation: epoch:20, step:8/10, loss: 0.6854, time:62.38 min
+	Liver Acc:98.3, mIoU: 88.5, Acc: 98.9, 89.7
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 6.7
+Validation: epoch:20, step:9/10, loss: 0.6866, time:62.84 min
+	Liver Acc:98.2, mIoU: 88.1, Acc: 98.9, 89.4
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.2
+Validation: epoch:25, step:0/10, loss: 0.6717, time:121.52 min
+	Liver Acc:99.0, mIoU: 90.2, Acc: 99.7, 85.4
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:25, step:1/10, loss: 0.6706, time:121.98 min
+	Liver Acc:99.2, mIoU: 90.5, Acc: 99.6, 89.0
+	Tumor Acc:93.7, mIoU: 46.8, Acc: 93.7, 0.0
+Validation: epoch:25, step:2/10, loss: 0.6839, time:122.43 min
+	Liver Acc:98.7, mIoU: 90.4, Acc: 99.6, 87.3
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 4.5
+Validation: epoch:25, step:3/10, loss: 0.6742, time:122.88 min
+	Liver Acc:98.7, mIoU: 90.4, Acc: 99.4, 89.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 4.5
+Validation: epoch:25, step:4/10, loss: 0.7064, time:123.34 min
+	Liver Acc:97.7, mIoU: 83.2, Acc: 99.5, 73.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.5
+Validation: epoch:25, step:5/10, loss: 0.6797, time:123.80 min
+	Liver Acc:98.0, mIoU: 84.5, Acc: 99.6, 75.6
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.8
+Validation: epoch:25, step:6/10, loss: 0.6679, time:124.26 min
+	Liver Acc:98.2, mIoU: 84.8, Acc: 99.6, 75.9
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 6.1
+Validation: epoch:25, step:7/10, loss: 0.6713, time:124.71 min
+	Liver Acc:98.3, mIoU: 85.8, Acc: 99.6, 77.6
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 6.1
+Validation: epoch:25, step:8/10, loss: 0.7086, time:125.17 min
+	Liver Acc:98.1, mIoU: 84.4, Acc: 99.6, 75.2
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:25, step:9/10, loss: 0.6679, time:125.62 min
+	Liver Acc:98.3, mIoU: 85.1, Acc: 99.6, 76.5
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:30, step:0/10, loss: 0.6805, time:184.27 min
+	Liver Acc:97.5, mIoU: 84.9, Acc: 99.0, 80.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 8.9
+Validation: epoch:30, step:1/10, loss: 0.6696, time:184.73 min
+	Liver Acc:98.1, mIoU: 90.8, Acc: 99.0, 90.9
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 9.5
+Validation: epoch:30, step:2/10, loss: 0.6690, time:185.19 min
+	Liver Acc:98.4, mIoU: 91.0, Acc: 99.1, 91.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 9.8
+Validation: epoch:30, step:3/10, loss: 0.6750, time:185.65 min
+	Liver Acc:98.3, mIoU: 89.9, Acc: 99.1, 89.2
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 9.8
+Validation: epoch:30, step:4/10, loss: 0.6655, time:186.11 min
+	Liver Acc:98.5, mIoU: 90.3, Acc: 99.3, 89.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 9.8
+Validation: epoch:30, step:5/10, loss: 0.6701, time:186.57 min
+	Liver Acc:98.6, mIoU: 90.2, Acc: 99.3, 89.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 7.2
+Validation: epoch:30, step:6/10, loss: 0.6857, time:187.04 min
+	Liver Acc:98.3, mIoU: 88.4, Acc: 99.1, 88.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.5
+Validation: epoch:30, step:7/10, loss: 0.6701, time:187.50 min
+	Liver Acc:98.4, mIoU: 88.1, Acc: 99.1, 88.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.5
+Validation: epoch:30, step:8/10, loss: 0.6695, time:187.97 min
+	Liver Acc:98.4, mIoU: 89.1, Acc: 99.1, 89.6
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.5
+Validation: epoch:30, step:9/10, loss: 0.6955, time:188.43 min
+	Liver Acc:98.1, mIoU: 87.1, Acc: 98.9, 87.2
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.5
+Validation: epoch:35, step:0/10, loss: 0.7091, time:247.16 min
+	Liver Acc:92.7, mIoU: 64.3, Acc: 95.2, 59.0
+	Tumor Acc:93.7, mIoU: 46.8, Acc: 93.7, 0.0
+Validation: epoch:35, step:1/10, loss: 0.6680, time:247.62 min
+	Liver Acc:95.8, mIoU: 75.5, Acc: 97.1, 77.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 0.0
+Validation: epoch:35, step:2/10, loss: 0.6895, time:248.09 min
+	Liver Acc:96.5, mIoU: 80.0, Acc: 97.7, 81.6
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.0
+Validation: epoch:35, step:3/10, loss: 0.6657, time:248.54 min
+	Liver Acc:97.3, mIoU: 80.8, Acc: 98.3, 81.6
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 6.5
+Validation: epoch:35, step:4/10, loss: 0.6701, time:249.00 min
+	Liver Acc:97.5, mIoU: 84.2, Acc: 98.4, 86.1
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 6.5
+Validation: epoch:35, step:5/10, loss: 0.6684, time:249.46 min
+	Liver Acc:97.8, mIoU: 85.8, Acc: 98.5, 87.9
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.4
+Validation: epoch:35, step:6/10, loss: 0.6663, time:249.92 min
+	Liver Acc:98.0, mIoU: 86.0, Acc: 98.7, 87.5
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:35, step:7/10, loss: 0.6753, time:250.37 min
+	Liver Acc:98.2, mIoU: 86.4, Acc: 98.9, 87.7
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.8
+Validation: epoch:35, step:8/10, loss: 0.6758, time:250.84 min
+	Liver Acc:98.1, mIoU: 86.5, Acc: 99.0, 86.1
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:35, step:9/10, loss: 0.6725, time:251.29 min
+	Liver Acc:98.1, mIoU: 87.0, Acc: 99.0, 86.9
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:40, step:0/10, loss: 0.6654, time:310.01 min
+	Liver Acc:99.2, mIoU: 92.7, Acc: 99.9, 87.9
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:40, step:1/10, loss: 0.6698, time:310.47 min
+	Liver Acc:98.8, mIoU: 91.6, Acc: 99.6, 88.7
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:40, step:2/10, loss: 0.6756, time:310.94 min
+	Liver Acc:98.4, mIoU: 88.4, Acc: 99.2, 87.0
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, 48.7
+Validation: epoch:40, step:3/10, loss: 0.6803, time:311.40 min
+	Liver Acc:98.7, mIoU: 89.0, Acc: 99.4, 87.1
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 6.4
+Validation: epoch:40, step:4/10, loss: 0.6771, time:311.86 min
+	Liver Acc:98.8, mIoU: 91.0, Acc: 99.5, 88.8
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.0
+Validation: epoch:40, step:5/10, loss: 0.6658, time:312.32 min
+	Liver Acc:98.8, mIoU: 91.3, Acc: 99.5, 89.0
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.0
+Validation: epoch:40, step:6/10, loss: 0.6914, time:312.78 min
+	Liver Acc:98.7, mIoU: 90.6, Acc: 99.6, 87.1
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.7, 5.8
+Validation: epoch:40, step:7/10, loss: 0.6710, time:313.24 min
+	Liver Acc:98.7, mIoU: 90.9, Acc: 99.6, 87.7
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:40, step:8/10, loss: 0.7026, time:313.70 min
+	Liver Acc:98.6, mIoU: 90.3, Acc: 99.6, 86.2
+	Tumor Acc:93.2, mIoU: 46.8, Acc: 93.7, 5.3
+Validation: epoch:40, step:9/10, loss: 0.6629, time:314.16 min
+	Liver Acc:98.7, mIoU: 90.6, Acc: 99.6, 86.5
+	Tumor Acc:93.2, mIoU: 46.8, Acc: 93.7, 5.3
+Validation: epoch:45, step:0/10, loss: 0.6855, time:372.89 min
+	Liver Acc:98.6, mIoU: 93.8, Acc: 98.7, 97.6
+	Tumor Acc:92.6, mIoU: 46.9, Acc: 93.8, 6.6
+Validation: epoch:45, step:1/10, loss: 0.6792, time:373.36 min
+	Liver Acc:97.8, mIoU: 86.6, Acc: 99.4, 80.9
+	Tumor Acc:93.1, mIoU: 46.9, Acc: 93.8, 6.3
+Validation: epoch:45, step:2/10, loss: 0.6674, time:373.82 min
+	Liver Acc:98.2, mIoU: 86.7, Acc: 99.4, 81.3
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:45, step:3/10, loss: 0.6631, time:374.29 min
+	Liver Acc:98.5, mIoU: 88.2, Acc: 99.4, 84.4
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:45, step:4/10, loss: 0.6612, time:374.75 min
+	Liver Acc:98.7, mIoU: 89.3, Acc: 99.5, 86.0
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.0
+Validation: epoch:45, step:5/10, loss: 0.6701, time:375.21 min
+	Liver Acc:98.8, mIoU: 89.7, Acc: 99.5, 87.1
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.9
+Validation: epoch:45, step:6/10, loss: 0.6616, time:375.67 min
+	Liver Acc:98.9, mIoU: 89.7, Acc: 99.6, 86.9
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:45, step:7/10, loss: 0.6687, time:376.13 min
+	Liver Acc:98.9, mIoU: 90.5, Acc: 99.5, 88.9
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:45, step:8/10, loss: 0.6732, time:376.59 min
+	Liver Acc:98.7, mIoU: 90.3, Acc: 99.3, 89.8
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:45, step:9/10, loss: 0.6895, time:377.06 min
+	Liver Acc:98.6, mIoU: 89.0, Acc: 99.4, 87.0
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.3
+Validation: epoch:50, step:0/10, loss: 0.6709, time:435.75 min
+	Liver Acc:98.4, mIoU: 92.3, Acc: 98.4, 98.4
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 11.6
+Validation: epoch:50, step:1/10, loss: 0.6623, time:436.21 min
+	Liver Acc:99.0, mIoU: 92.9, Acc: 99.0, 98.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 11.6
+Validation: epoch:50, step:2/10, loss: 0.6711, time:436.67 min
+	Liver Acc:98.8, mIoU: 92.8, Acc: 98.8, 98.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 6.9
+Validation: epoch:50, step:3/10, loss: 0.6658, time:437.13 min
+	Liver Acc:98.8, mIoU: 92.2, Acc: 98.9, 97.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 6.0
+Validation: epoch:50, step:4/10, loss: 0.6697, time:437.59 min
+	Liver Acc:98.8, mIoU: 92.1, Acc: 99.0, 96.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 8.9
+Validation: epoch:50, step:5/10, loss: 0.6702, time:438.05 min
+	Liver Acc:98.8, mIoU: 91.1, Acc: 99.0, 95.3
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 7.8
+Validation: epoch:50, step:6/10, loss: 0.6726, time:438.51 min
+	Liver Acc:98.7, mIoU: 90.8, Acc: 98.9, 95.8
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 7.8
+Validation: epoch:50, step:7/10, loss: 0.6755, time:438.97 min
+	Liver Acc:98.7, mIoU: 91.5, Acc: 98.9, 96.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:50, step:8/10, loss: 0.6915, time:439.43 min
+	Liver Acc:98.3, mIoU: 89.5, Acc: 98.6, 94.9
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:50, step:9/10, loss: 0.6630, time:439.89 min
+	Liver Acc:98.4, mIoU: 90.0, Acc: 98.7, 95.0
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:51, step:0/10, loss: 0.6617, time:452.00 min
+	Liver Acc:99.6, mIoU: 80.4, Acc: 99.7, 80.8
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:51, step:1/10, loss: 0.6635, time:452.46 min
+	Liver Acc:99.4, mIoU: 92.2, Acc: 99.5, 96.9
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 25.0
+Validation: epoch:51, step:2/10, loss: 0.6663, time:452.93 min
+	Liver Acc:99.3, mIoU: 92.1, Acc: 99.4, 97.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 25.0
+Validation: epoch:51, step:3/10, loss: 0.6682, time:453.39 min
+	Liver Acc:99.1, mIoU: 92.7, Acc: 99.3, 96.4
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 25.0
+Validation: epoch:51, step:4/10, loss: 0.7210, time:453.86 min
+	Liver Acc:97.4, mIoU: 81.9, Acc: 98.6, 79.3
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 25.0
+Validation: epoch:51, step:5/10, loss: 0.6622, time:454.32 min
+	Liver Acc:97.7, mIoU: 83.5, Acc: 98.8, 81.6
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 2.1
+Validation: epoch:51, step:6/10, loss: 0.6663, time:454.78 min
+	Liver Acc:97.9, mIoU: 84.5, Acc: 98.9, 82.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 2.0
+Validation: epoch:51, step:7/10, loss: 0.6618, time:455.24 min
+	Liver Acc:98.1, mIoU: 84.6, Acc: 99.1, 82.3
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 0.7
+Validation: epoch:51, step:8/10, loss: 0.6672, time:455.71 min
+	Liver Acc:98.2, mIoU: 85.4, Acc: 99.0, 84.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 0.7
+Validation: epoch:51, step:9/10, loss: 0.6636, time:456.17 min
+	Liver Acc:98.3, mIoU: 86.5, Acc: 99.1, 85.6
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.2
+Validation: epoch:52, step:0/10, loss: 0.6682, time:468.28 min
+	Liver Acc:98.8, mIoU: 83.6, Acc: 99.6, 75.0
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 0.0
+Validation: epoch:52, step:1/10, loss: 0.6653, time:468.74 min
+	Liver Acc:98.9, mIoU: 90.7, Acc: 99.7, 87.0
+	Tumor Acc:93.7, mIoU: 46.8, Acc: 93.7, 0.7
+Validation: epoch:52, step:2/10, loss: 0.6675, time:469.20 min
+	Liver Acc:98.9, mIoU: 87.2, Acc: 99.8, 79.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 0.7
+Validation: epoch:52, step:3/10, loss: 0.6889, time:469.67 min
+	Liver Acc:98.0, mIoU: 79.9, Acc: 99.3, 70.6
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 0.7
+Validation: epoch:52, step:4/10, loss: 0.6928, time:470.14 min
+	Liver Acc:98.0, mIoU: 85.2, Acc: 99.2, 80.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 8.3
+Validation: epoch:52, step:5/10, loss: 0.6626, time:470.60 min
+	Liver Acc:98.2, mIoU: 85.2, Acc: 99.3, 80.7
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 8.3
+Validation: epoch:52, step:6/10, loss: 0.6613, time:471.07 min
+	Liver Acc:98.4, mIoU: 86.1, Acc: 99.4, 82.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 8.3
+Validation: epoch:52, step:7/10, loss: 0.7183, time:471.53 min
+	Liver Acc:97.5, mIoU: 81.2, Acc: 99.2, 72.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.7
+Validation: epoch:52, step:8/10, loss: 0.6651, time:472.00 min
+	Liver Acc:97.7, mIoU: 83.1, Acc: 99.2, 76.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.7
+Validation: epoch:52, step:9/10, loss: 0.6726, time:472.46 min
+	Liver Acc:97.7, mIoU: 83.3, Acc: 99.3, 75.9
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.7
+Validation: epoch:53, step:0/10, loss: 0.6970, time:484.57 min
+	Liver Acc:94.3, mIoU: 67.5, Acc: 95.1, 78.9
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 17.3
+Validation: epoch:53, step:1/10, loss: 0.6630, time:485.02 min
+	Liver Acc:96.8, mIoU: 76.3, Acc: 97.3, 86.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 15.8
+Validation: epoch:53, step:2/10, loss: 0.6674, time:485.48 min
+	Liver Acc:97.5, mIoU: 77.8, Acc: 97.8, 89.4
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 11.9
+Validation: epoch:53, step:3/10, loss: 0.6841, time:485.94 min
+	Liver Acc:97.1, mIoU: 81.6, Acc: 97.5, 91.4
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 11.9
+Validation: epoch:53, step:4/10, loss: 0.6752, time:486.40 min
+	Liver Acc:97.2, mIoU: 81.6, Acc: 97.5, 92.4
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 11.9
+Validation: epoch:53, step:5/10, loss: 0.6862, time:486.85 min
+	Liver Acc:97.2, mIoU: 83.6, Acc: 97.4, 94.0
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.7
+Validation: epoch:53, step:6/10, loss: 0.6771, time:487.31 min
+	Liver Acc:97.2, mIoU: 83.4, Acc: 97.4, 94.4
+	Tumor Acc:93.7, mIoU: 46.8, Acc: 93.7, 1.7
+Validation: epoch:53, step:7/10, loss: 0.6784, time:487.78 min
+	Liver Acc:97.2, mIoU: 82.2, Acc: 97.4, 94.4
+	Tumor Acc:93.7, mIoU: 46.8, Acc: 93.7, 1.7
+Validation: epoch:53, step:8/10, loss: 0.6925, time:488.23 min
+	Liver Acc:97.1, mIoU: 82.3, Acc: 97.3, 95.0
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 4.3
+Validation: epoch:53, step:9/10, loss: 0.6706, time:488.70 min
+	Liver Acc:97.2, mIoU: 82.5, Acc: 97.4, 95.3
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 4.3
+Validation: epoch:54, step:0/10, loss: 0.6773, time:500.81 min
+	Liver Acc:97.5, mIoU: 79.2, Acc: 99.8, 62.9
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 4.4
+Validation: epoch:54, step:1/10, loss: 0.6656, time:501.27 min
+	Liver Acc:98.2, mIoU: 84.5, Acc: 99.5, 76.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.4
+Validation: epoch:54, step:2/10, loss: 0.6765, time:501.73 min
+	Liver Acc:98.3, mIoU: 87.9, Acc: 99.2, 86.0
+	Tumor Acc:93.5, mIoU: 46.8, Acc: 93.7, 1.3
+Validation: epoch:54, step:3/10, loss: 0.6723, time:502.20 min
+	Liver Acc:98.2, mIoU: 88.0, Acc: 99.3, 84.8
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.3
+Validation: epoch:54, step:4/10, loss: 0.6763, time:502.66 min
+	Liver Acc:98.2, mIoU: 89.2, Acc: 99.3, 86.4
+	Tumor Acc:93.5, mIoU: 46.8, Acc: 93.7, 1.5
+Validation: epoch:54, step:5/10, loss: 0.6644, time:503.12 min
+	Liver Acc:98.4, mIoU: 90.4, Acc: 99.3, 88.3
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.5
+Validation: epoch:54, step:6/10, loss: 0.6624, time:503.59 min
+	Liver Acc:98.5, mIoU: 91.0, Acc: 99.4, 89.1
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.5
+Validation: epoch:54, step:7/10, loss: 0.6639, time:504.05 min
+	Liver Acc:98.6, mIoU: 91.1, Acc: 99.4, 89.1
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.4
+Validation: epoch:54, step:8/10, loss: 0.6872, time:504.52 min
+	Liver Acc:98.3, mIoU: 89.2, Acc: 99.4, 86.3
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.8
+Validation: epoch:54, step:9/10, loss: 0.6636, time:504.99 min
+	Liver Acc:98.4, mIoU: 89.6, Acc: 99.4, 87.0
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.8
+Validation: epoch:55, step:0/10, loss: 0.6652, time:517.10 min
+	Liver Acc:99.6, mIoU: 92.0, Acc: 99.9, 89.6
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 8.3
+Validation: epoch:55, step:1/10, loss: 0.6938, time:517.56 min
+	Liver Acc:98.4, mIoU: 82.1, Acc: 99.2, 79.0
+	Tumor Acc:93.1, mIoU: 47.0, Acc: 93.8, 8.3
+Validation: epoch:55, step:2/10, loss: 0.6937, time:518.03 min
+	Liver Acc:97.2, mIoU: 75.4, Acc: 99.4, 59.1
+	Tumor Acc:93.3, mIoU: 47.0, Acc: 93.8, 8.5
+Validation: epoch:55, step:3/10, loss: 0.6967, time:518.49 min
+	Liver Acc:97.6, mIoU: 81.3, Acc: 99.4, 71.2
+	Tumor Acc:92.9, mIoU: 46.9, Acc: 93.7, 6.1
+Validation: epoch:55, step:4/10, loss: 0.6682, time:518.96 min
+	Liver Acc:97.9, mIoU: 82.9, Acc: 99.4, 74.0
+	Tumor Acc:93.0, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:55, step:5/10, loss: 0.6592, time:519.42 min
+	Liver Acc:98.3, mIoU: 83.1, Acc: 99.5, 74.0
+	Tumor Acc:93.1, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:55, step:6/10, loss: 0.6626, time:519.89 min
+	Liver Acc:98.4, mIoU: 84.0, Acc: 99.6, 75.8
+	Tumor Acc:93.2, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:55, step:7/10, loss: 0.6639, time:520.35 min
+	Liver Acc:98.5, mIoU: 84.6, Acc: 99.6, 77.0
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:55, step:8/10, loss: 0.6824, time:520.82 min
+	Liver Acc:98.3, mIoU: 83.5, Acc: 99.4, 77.4
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:55, step:9/10, loss: 0.6774, time:521.29 min
+	Liver Acc:98.2, mIoU: 83.2, Acc: 99.2, 78.7
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.7, 6.0
+Validation: epoch:56, step:0/10, loss: 0.6835, time:533.40 min
+	Liver Acc:99.3, mIoU: 96.5, Acc: 99.4, 98.0
+	Tumor Acc:92.3, mIoU: 46.8, Acc: 93.7, 5.8
+Validation: epoch:56, step:1/10, loss: 0.6701, time:533.86 min
+	Liver Acc:98.8, mIoU: 93.7, Acc: 98.9, 98.1
+	Tumor Acc:93.0, mIoU: 46.8, Acc: 93.7, 5.7
+Validation: epoch:56, step:2/10, loss: 0.6709, time:534.33 min
+	Liver Acc:98.7, mIoU: 92.4, Acc: 99.1, 94.7
+	Tumor Acc:93.2, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:56, step:3/10, loss: 0.6682, time:534.79 min
+	Liver Acc:98.7, mIoU: 92.9, Acc: 99.0, 95.6
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:56, step:4/10, loss: 0.6594, time:535.26 min
+	Liver Acc:98.9, mIoU: 93.0, Acc: 99.2, 95.6
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:56, step:5/10, loss: 0.6612, time:535.72 min
+	Liver Acc:99.0, mIoU: 93.1, Acc: 99.3, 95.6
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:56, step:6/10, loss: 0.6734, time:536.19 min
+	Liver Acc:99.0, mIoU: 92.9, Acc: 99.2, 95.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:56, step:7/10, loss: 0.6625, time:536.65 min
+	Liver Acc:99.0, mIoU: 93.0, Acc: 99.3, 95.4
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:56, step:8/10, loss: 0.7024, time:537.12 min
+	Liver Acc:98.4, mIoU: 89.2, Acc: 99.0, 90.2
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.8
+Validation: epoch:56, step:9/10, loss: 0.6620, time:537.59 min
+	Liver Acc:98.5, mIoU: 89.1, Acc: 99.1, 90.0
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.8
+Validation: epoch:57, step:0/10, loss: 0.6735, time:549.69 min
+	Liver Acc:97.8, mIoU: 90.4, Acc: 97.8, 97.8
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:57, step:1/10, loss: 0.6674, time:550.14 min
+	Liver Acc:98.4, mIoU: 90.1, Acc: 98.6, 95.8
+	Tumor Acc:93.7, mIoU: 47.0, Acc: 93.8, 18.7
+Validation: epoch:57, step:2/10, loss: 0.6759, time:550.60 min
+	Liver Acc:98.0, mIoU: 90.2, Acc: 98.3, 95.6
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 18.7
+Validation: epoch:57, step:3/10, loss: 0.6724, time:551.06 min
+	Liver Acc:98.1, mIoU: 89.9, Acc: 98.5, 94.4
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 9.4
+Validation: epoch:57, step:4/10, loss: 0.6723, time:551.52 min
+	Liver Acc:98.3, mIoU: 90.9, Acc: 98.6, 95.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 8.5
+Validation: epoch:57, step:5/10, loss: 0.6653, time:551.98 min
+	Liver Acc:98.4, mIoU: 90.9, Acc: 98.7, 95.3
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 8.5
+Validation: epoch:57, step:6/10, loss: 0.6645, time:552.45 min
+	Liver Acc:98.6, mIoU: 90.6, Acc: 98.9, 94.5
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.5
+Validation: epoch:57, step:7/10, loss: 0.6890, time:552.91 min
+	Liver Acc:98.5, mIoU: 90.7, Acc: 98.8, 95.2
+	Tumor Acc:93.5, mIoU: 47.0, Acc: 93.8, 8.9
+Validation: epoch:57, step:8/10, loss: 0.6610, time:553.37 min
+	Liver Acc:98.6, mIoU: 90.7, Acc: 98.9, 95.2
+	Tumor Acc:93.5, mIoU: 47.0, Acc: 93.8, 8.8
+Validation: epoch:57, step:9/10, loss: 0.6818, time:553.83 min
+	Liver Acc:98.7, mIoU: 90.8, Acc: 98.9, 95.0
+	Tumor Acc:93.4, mIoU: 47.0, Acc: 93.8, 8.4
+Validation: epoch:58, step:0/10, loss: 0.6901, time:565.93 min
+	Liver Acc:98.9, mIoU: 94.8, Acc: 98.9, 98.4
+	Tumor Acc:92.1, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:58, step:1/10, loss: 0.6689, time:566.39 min
+	Liver Acc:98.7, mIoU: 90.7, Acc: 99.4, 89.4
+	Tumor Acc:92.9, mIoU: 46.9, Acc: 93.8, 7.0
+Validation: epoch:58, step:2/10, loss: 0.6683, time:566.86 min
+	Liver Acc:98.7, mIoU: 89.8, Acc: 99.5, 87.3
+	Tumor Acc:93.2, mIoU: 47.0, Acc: 93.8, 7.8
+Validation: epoch:58, step:3/10, loss: 0.6787, time:567.32 min
+	Liver Acc:98.3, mIoU: 88.9, Acc: 98.9, 91.0
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.8, 7.6
+Validation: epoch:58, step:4/10, loss: 0.6791, time:567.79 min
+	Liver Acc:98.2, mIoU: 88.3, Acc: 98.7, 92.0
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:58, step:5/10, loss: 0.6639, time:568.25 min
+	Liver Acc:98.4, mIoU: 88.1, Acc: 98.8, 91.9
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.8
+Validation: epoch:58, step:6/10, loss: 0.6840, time:568.73 min
+	Liver Acc:98.3, mIoU: 88.5, Acc: 98.8, 91.9
+	Tumor Acc:93.3, mIoU: 47.0, Acc: 93.8, 8.1
+Validation: epoch:58, step:7/10, loss: 0.6640, time:569.19 min
+	Liver Acc:98.4, mIoU: 88.6, Acc: 98.9, 92.3
+	Tumor Acc:93.4, mIoU: 47.0, Acc: 93.8, 8.1
+Validation: epoch:58, step:8/10, loss: 0.6662, time:569.66 min
+	Liver Acc:98.5, mIoU: 88.7, Acc: 99.0, 92.1
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.7
+Validation: epoch:58, step:9/10, loss: 0.6738, time:570.13 min
+	Liver Acc:98.5, mIoU: 89.0, Acc: 98.9, 92.1
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.6
+Validation: epoch:59, step:0/10, loss: 0.6722, time:582.24 min
+	Liver Acc:97.9, mIoU: 91.1, Acc: 99.6, 87.1
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:59, step:1/10, loss: 0.6668, time:582.70 min
+	Liver Acc:98.7, mIoU: 91.4, Acc: 99.8, 86.5
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 3.5
+Validation: epoch:59, step:2/10, loss: 0.6681, time:583.16 min
+	Liver Acc:98.8, mIoU: 90.9, Acc: 99.6, 87.8
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.9
+Validation: epoch:59, step:3/10, loss: 0.6760, time:583.62 min
+	Liver Acc:98.5, mIoU: 88.5, Acc: 99.6, 82.5
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 1.8
+Validation: epoch:59, step:4/10, loss: 0.6779, time:584.08 min
+	Liver Acc:98.6, mIoU: 90.0, Acc: 99.6, 85.2
+	Tumor Acc:93.4, mIoU: 46.8, Acc: 93.7, 4.5
+Validation: epoch:59, step:5/10, loss: 0.6919, time:584.54 min
+	Liver Acc:98.2, mIoU: 87.5, Acc: 99.5, 81.7
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.0
+Validation: epoch:59, step:6/10, loss: 0.6623, time:585.00 min
+	Liver Acc:98.4, mIoU: 87.5, Acc: 99.6, 81.5
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.0
+Validation: epoch:59, step:7/10, loss: 0.6625, time:585.47 min
+	Liver Acc:98.5, mIoU: 88.5, Acc: 99.6, 83.6
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:59, step:8/10, loss: 0.6657, time:585.94 min
+	Liver Acc:98.6, mIoU: 89.7, Acc: 99.5, 86.1
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:59, step:9/10, loss: 0.6745, time:586.40 min
+	Liver Acc:98.5, mIoU: 89.5, Acc: 99.5, 85.6
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 6.8
+Validation: epoch:60, step:0/10, loss: 0.6797, time:598.50 min
+	Liver Acc:96.8, mIoU: 76.6, Acc: 96.9, 95.5
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:60, step:1/10, loss: 0.6654, time:598.97 min
+	Liver Acc:97.9, mIoU: 85.4, Acc: 98.0, 97.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 7.5
+Validation: epoch:60, step:2/10, loss: 0.6679, time:599.43 min
+	Liver Acc:98.2, mIoU: 86.7, Acc: 98.2, 97.3
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 7.5
+Validation: epoch:60, step:3/10, loss: 0.6611, time:599.89 min
+	Liver Acc:98.5, mIoU: 86.8, Acc: 98.6, 96.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 7.5
+Validation: epoch:60, step:4/10, loss: 0.6635, time:600.35 min
+	Liver Acc:98.7, mIoU: 88.6, Acc: 98.8, 96.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 7.5
+Validation: epoch:60, step:5/10, loss: 0.6878, time:600.80 min
+	Liver Acc:98.2, mIoU: 86.2, Acc: 98.6, 91.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 14.9
+Validation: epoch:60, step:6/10, loss: 0.6672, time:601.26 min
+	Liver Acc:98.3, mIoU: 87.6, Acc: 98.7, 92.6
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 13.3
+Validation: epoch:60, step:7/10, loss: 0.6615, time:601.72 min
+	Liver Acc:98.5, mIoU: 87.6, Acc: 98.8, 92.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 10.4
+Validation: epoch:60, step:8/10, loss: 0.6817, time:602.19 min
+	Liver Acc:98.5, mIoU: 87.9, Acc: 98.8, 92.3
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:60, step:9/10, loss: 0.6615, time:602.64 min
+	Liver Acc:98.6, mIoU: 88.2, Acc: 98.9, 92.4
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.1
+Validation: epoch:61, step:0/10, loss: 0.6634, time:614.74 min
+	Liver Acc:99.3, mIoU: 95.1, Acc: 99.5, 97.1
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 0.0
+Validation: epoch:61, step:1/10, loss: 0.6691, time:615.20 min
+	Liver Acc:98.9, mIoU: 93.6, Acc: 99.1, 96.4
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 0.0
+Validation: epoch:61, step:2/10, loss: 0.6685, time:615.66 min
+	Liver Acc:98.7, mIoU: 91.7, Acc: 98.9, 96.5
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 0.0
+Validation: epoch:61, step:3/10, loss: 0.6629, time:616.12 min
+	Liver Acc:98.9, mIoU: 92.1, Acc: 99.1, 96.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 0.0
+Validation: epoch:61, step:4/10, loss: 0.6753, time:616.58 min
+	Liver Acc:98.8, mIoU: 92.5, Acc: 99.1, 95.4
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 8.9
+Validation: epoch:61, step:5/10, loss: 0.6683, time:617.04 min
+	Liver Acc:98.7, mIoU: 91.9, Acc: 99.0, 95.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 8.9
+Validation: epoch:61, step:6/10, loss: 0.6784, time:617.51 min
+	Liver Acc:98.7, mIoU: 91.8, Acc: 99.0, 95.2
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.8
+Validation: epoch:61, step:7/10, loss: 0.6823, time:617.97 min
+	Liver Acc:98.6, mIoU: 91.7, Acc: 99.0, 94.0
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.2
+Validation: epoch:61, step:8/10, loss: 0.6655, time:618.43 min
+	Liver Acc:98.7, mIoU: 91.9, Acc: 99.0, 94.5
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.2
+Validation: epoch:61, step:9/10, loss: 0.6811, time:618.89 min
+	Liver Acc:98.6, mIoU: 91.6, Acc: 98.9, 95.0
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 6.2
+Validation: epoch:62, step:0/10, loss: 0.6632, time:631.00 min
+	Liver Acc:99.3, mIoU: 92.9, Acc: 99.6, 93.3
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:62, step:1/10, loss: 0.6862, time:631.48 min
+	Liver Acc:97.6, mIoU: 83.6, Acc: 99.5, 73.8
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 0.0
+Validation: epoch:62, step:2/10, loss: 0.6931, time:631.93 min
+	Liver Acc:96.6, mIoU: 78.6, Acc: 99.1, 67.2
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 0.0
+Validation: epoch:62, step:3/10, loss: 0.6759, time:632.39 min
+	Liver Acc:97.2, mIoU: 80.6, Acc: 99.3, 70.1
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 12.9
+Validation: epoch:62, step:4/10, loss: 0.6663, time:632.85 min
+	Liver Acc:97.5, mIoU: 82.6, Acc: 99.3, 74.0
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 12.9
+Validation: epoch:62, step:5/10, loss: 0.6667, time:633.31 min
+	Liver Acc:97.8, mIoU: 83.2, Acc: 99.4, 74.6
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 12.8
+Validation: epoch:62, step:6/10, loss: 0.6727, time:633.77 min
+	Liver Acc:97.9, mIoU: 84.9, Acc: 99.3, 78.6
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 13.4
+Validation: epoch:62, step:7/10, loss: 0.6610, time:634.23 min
+	Liver Acc:98.1, mIoU: 85.3, Acc: 99.4, 79.2
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 13.3
+Validation: epoch:62, step:8/10, loss: 0.6656, time:634.69 min
+	Liver Acc:98.2, mIoU: 86.2, Acc: 99.4, 80.5
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 13.3
+Validation: epoch:62, step:9/10, loss: 0.6848, time:635.15 min
+	Liver Acc:98.0, mIoU: 85.9, Acc: 99.3, 81.1
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 12.1
+Validation: epoch:63, step:0/10, loss: 0.6770, time:647.27 min
+	Liver Acc:97.4, mIoU: 83.8, Acc: 99.7, 72.6
+	Tumor Acc:93.6, mIoU: 46.8, Acc: 93.7, 0.4
+Validation: epoch:63, step:1/10, loss: 0.7232, time:647.73 min
+	Liver Acc:93.8, mIoU: 69.8, Acc: 99.8, 46.9
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 4.1
+Validation: epoch:63, step:2/10, loss: 0.6797, time:648.19 min
+	Liver Acc:95.0, mIoU: 71.0, Acc: 99.9, 48.0
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 4.5
+Validation: epoch:63, step:3/10, loss: 0.6834, time:648.65 min
+	Liver Acc:95.5, mIoU: 74.3, Acc: 99.9, 53.9
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 9.8
+Validation: epoch:63, step:4/10, loss: 0.6640, time:649.11 min
+	Liver Acc:96.2, mIoU: 75.7, Acc: 99.9, 55.9
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 9.8
+Validation: epoch:63, step:5/10, loss: 0.6673, time:649.58 min
+	Liver Acc:96.7, mIoU: 77.6, Acc: 99.9, 59.5
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 9.6
+Validation: epoch:63, step:6/10, loss: 0.6725, time:650.04 min
+	Liver Acc:96.8, mIoU: 77.9, Acc: 99.9, 59.8
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 9.6
+Validation: epoch:63, step:7/10, loss: 0.6779, time:650.50 min
+	Liver Acc:97.0, mIoU: 80.0, Acc: 99.9, 63.8
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 9.6
+Validation: epoch:63, step:8/10, loss: 0.6680, time:650.97 min
+	Liver Acc:97.2, mIoU: 80.1, Acc: 99.9, 63.9
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 9.4
+Validation: epoch:63, step:9/10, loss: 0.7067, time:651.42 min
+	Liver Acc:96.7, mIoU: 77.1, Acc: 99.9, 58.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 9.7
+Validation: epoch:64, step:0/10, loss: 0.6793, time:663.54 min
+	Liver Acc:96.9, mIoU: 79.5, Acc: 97.4, 87.7
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:64, step:1/10, loss: 0.6677, time:664.00 min
+	Liver Acc:98.0, mIoU: 84.4, Acc: 98.4, 91.0
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:64, step:2/10, loss: 0.6603, time:664.45 min
+	Liver Acc:98.6, mIoU: 85.4, Acc: 98.9, 91.6
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:64, step:3/10, loss: 0.6628, time:664.90 min
+	Liver Acc:98.8, mIoU: 88.4, Acc: 99.0, 93.8
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 5.8
+Validation: epoch:64, step:4/10, loss: 0.6690, time:665.35 min
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.0, 95.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 5.9
+Validation: epoch:64, step:5/10, loss: 0.6618, time:665.81 min
+	Liver Acc:98.9, mIoU: 90.2, Acc: 99.1, 94.7
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 5.9
+Validation: epoch:64, step:6/10, loss: 0.6733, time:666.26 min
+	Liver Acc:98.7, mIoU: 90.3, Acc: 99.2, 92.0
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 5.9
+Validation: epoch:64, step:7/10, loss: 0.6636, time:666.72 min
+	Liver Acc:98.8, mIoU: 90.3, Acc: 99.2, 91.8
+	Tumor Acc:93.7, mIoU: 46.9, Acc: 93.8, 5.9
+Validation: epoch:64, step:8/10, loss: 0.6769, time:667.18 min
+	Liver Acc:98.8, mIoU: 89.5, Acc: 99.3, 89.6
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 10.3
+Validation: epoch:64, step:9/10, loss: 0.6737, time:667.63 min
+	Liver Acc:98.7, mIoU: 89.3, Acc: 99.3, 88.2
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 10.3
+Validation: epoch:65, step:0/10, loss: 0.6640, time:679.74 min
+	Liver Acc:99.2, mIoU: 90.5, Acc: 99.4, 93.0
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:65, step:1/10, loss: 0.6798, time:680.20 min
+	Liver Acc:98.1, mIoU: 86.5, Acc: 99.4, 80.9
+	Tumor Acc:93.7, mIoU: 46.8, Acc: 93.7, 0.0
+Validation: epoch:65, step:2/10, loss: 0.6841, time:680.66 min
+	Liver Acc:98.2, mIoU: 90.8, Acc: 99.3, 89.1
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.8, 7.5
+Validation: epoch:65, step:3/10, loss: 0.6655, time:681.12 min
+	Liver Acc:98.4, mIoU: 91.1, Acc: 99.2, 90.1
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 7.5
+Validation: epoch:65, step:4/10, loss: 0.7022, time:681.58 min
+	Liver Acc:97.6, mIoU: 86.3, Acc: 99.4, 79.8
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.7, 5.5
+Validation: epoch:65, step:5/10, loss: 0.6601, time:682.04 min
+	Liver Acc:98.0, mIoU: 86.5, Acc: 99.5, 80.0
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.5
+Validation: epoch:65, step:6/10, loss: 0.6636, time:682.51 min
+	Liver Acc:98.1, mIoU: 87.4, Acc: 99.5, 81.5
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.5
+Validation: epoch:65, step:7/10, loss: 0.6691, time:682.97 min
+	Liver Acc:98.3, mIoU: 88.8, Acc: 99.5, 84.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.1
+Validation: epoch:65, step:8/10, loss: 0.6653, time:683.43 min
+	Liver Acc:98.3, mIoU: 89.6, Acc: 99.4, 86.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.1
+Validation: epoch:65, step:9/10, loss: 0.6672, time:683.89 min
+	Liver Acc:98.4, mIoU: 89.2, Acc: 99.5, 85.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.5
+Validation: epoch:66, step:0/10, loss: 0.6843, time:696.00 min
+	Liver Acc:98.2, mIoU: 85.5, Acc: 98.2, 97.6
+	Tumor Acc:92.8, mIoU: 46.8, Acc: 93.7, 5.7
+Validation: epoch:66, step:1/10, loss: 0.6628, time:696.46 min
+	Liver Acc:98.8, mIoU: 88.2, Acc: 98.9, 97.0
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:66, step:2/10, loss: 0.6832, time:696.92 min
+	Liver Acc:97.9, mIoU: 80.8, Acc: 98.0, 96.6
+	Tumor Acc:93.4, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:66, step:3/10, loss: 0.6775, time:697.39 min
+	Liver Acc:97.7, mIoU: 84.0, Acc: 97.7, 97.7
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.7
+Validation: epoch:66, step:4/10, loss: 0.6690, time:697.85 min
+	Liver Acc:97.9, mIoU: 85.9, Acc: 97.9, 96.9
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.6
+Validation: epoch:66, step:5/10, loss: 0.6698, time:698.31 min
+	Liver Acc:98.0, mIoU: 85.6, Acc: 98.0, 97.2
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.7, 5.6
+Validation: epoch:66, step:6/10, loss: 0.6738, time:698.76 min
+	Liver Acc:97.9, mIoU: 86.9, Acc: 98.0, 96.8
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 6.5
+Validation: epoch:66, step:7/10, loss: 0.6669, time:699.23 min
+	Liver Acc:98.0, mIoU: 87.2, Acc: 98.1, 97.0
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 6.5
+Validation: epoch:66, step:8/10, loss: 0.7165, time:699.69 min
+	Liver Acc:97.5, mIoU: 85.8, Acc: 97.6, 97.1
+	Tumor Acc:93.5, mIoU: 46.8, Acc: 93.7, 4.2
+Validation: epoch:66, step:9/10, loss: 0.6837, time:700.15 min
+	Liver Acc:97.4, mIoU: 85.0, Acc: 97.4, 97.2
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 4.6
+Validation: epoch:67, step:0/10, loss: 0.6754, time:712.26 min
+	Liver Acc:98.4, mIoU: 86.7, Acc: 98.7, 93.0
+	Tumor Acc:93.3, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:67, step:1/10, loss: 0.6774, time:712.72 min
+	Liver Acc:97.8, mIoU: 85.0, Acc: 99.1, 81.1
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.7, 5.3
+Validation: epoch:67, step:2/10, loss: 0.6798, time:713.18 min
+	Liver Acc:97.9, mIoU: 81.1, Acc: 99.4, 71.1
+	Tumor Acc:93.4, mIoU: 47.0, Acc: 93.8, 8.2
+Validation: epoch:67, step:3/10, loss: 0.6607, time:713.65 min
+	Liver Acc:98.3, mIoU: 81.1, Acc: 99.6, 70.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 8.2
+Validation: epoch:67, step:4/10, loss: 0.6704, time:714.12 min
+	Liver Acc:98.3, mIoU: 83.5, Acc: 99.6, 74.3
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 8.2
+Validation: epoch:67, step:5/10, loss: 0.6964, time:714.58 min
+	Liver Acc:97.6, mIoU: 77.4, Acc: 99.5, 63.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.8
+Validation: epoch:67, step:6/10, loss: 0.6664, time:715.04 min
+	Liver Acc:97.8, mIoU: 81.7, Acc: 99.4, 72.1
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 7.8
+Validation: epoch:67, step:7/10, loss: 0.6807, time:715.52 min
+	Liver Acc:97.9, mIoU: 82.6, Acc: 99.5, 73.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 6.5
+Validation: epoch:67, step:8/10, loss: 0.6685, time:715.98 min
+	Liver Acc:98.0, mIoU: 83.9, Acc: 99.5, 75.3
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 6.5
+Validation: epoch:67, step:9/10, loss: 0.6599, time:716.44 min
+	Liver Acc:98.2, mIoU: 84.7, Acc: 99.5, 76.6
+	Tumor Acc:93.5, mIoU: 46.9, Acc: 93.8, 6.5
+Validation: epoch:68, step:0/10, loss: 0.6633, time:728.57 min
+	Liver Acc:99.3, mIoU: 92.8, Acc: 99.4, 97.1
+	Tumor Acc:93.8, mIoU: 46.9, Acc: 93.8, nan
+Validation: epoch:68, step:1/10, loss: 0.6736, time:729.03 min
+	Liver Acc:99.0, mIoU: 88.7, Acc: 99.6, 85.4
+	Tumor Acc:93.6, mIoU: 47.2, Acc: 93.8, 16.5
+Validation: epoch:68, step:2/10, loss: 0.6600, time:729.48 min
+	Liver Acc:99.3, mIoU: 88.8, Acc: 99.7, 85.0
+	Tumor Acc:93.6, mIoU: 47.1, Acc: 93.8, 16.5
+Validation: epoch:68, step:3/10, loss: 0.6803, time:729.93 min
+	Liver Acc:98.6, mIoU: 86.8, Acc: 99.7, 79.0
+	Tumor Acc:93.7, mIoU: 47.0, Acc: 93.8, 16.5
+Validation: epoch:68, step:4/10, loss: 0.6642, time:730.39 min
+	Liver Acc:98.7, mIoU: 87.9, Acc: 99.7, 81.7
+	Tumor Acc:93.7, mIoU: 47.0, Acc: 93.8, 16.5
+Validation: epoch:68, step:5/10, loss: 0.6613, time:730.84 min
+	Liver Acc:98.9, mIoU: 87.7, Acc: 99.7, 81.1
+	Tumor Acc:93.7, mIoU: 47.0, Acc: 93.8, 16.5
+Validation: epoch:68, step:6/10, loss: 0.6764, time:731.30 min
+	Liver Acc:98.9, mIoU: 89.9, Acc: 99.7, 85.5
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 10.1
+Validation: epoch:68, step:7/10, loss: 0.6626, time:731.76 min
+	Liver Acc:99.0, mIoU: 90.1, Acc: 99.7, 86.1
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 10.4
+Validation: epoch:68, step:8/10, loss: 0.6669, time:732.23 min
+	Liver Acc:99.0, mIoU: 91.0, Acc: 99.6, 88.3
+	Tumor Acc:93.6, mIoU: 47.0, Acc: 93.8, 10.2
+Validation: epoch:68, step:9/10, loss: 0.6814, time:732.68 min
+	Liver Acc:98.8, mIoU: 89.4, Acc: 99.6, 85.8
+	Tumor Acc:93.6, mIoU: 46.9, Acc: 93.8, 9.1
+Validation: epoch:69, step:0/10, loss: 0.7850, time:744.78 min
+	Liver Acc:99.2, mIoU: 91.0, Acc: 99.3, 97.2
+	Tumor Acc:84.1, mIoU: 42.1, Acc: 84.1, nan
+Validation: epoch:69, step:1/10, loss: 0.8063, time:745.24 min
+	Liver Acc:98.0, mIoU: 81.4, Acc: 98.1, 95.5
+	Tumor Acc:83.5, mIoU: 41.8, Acc: 83.6, 19.5
+Validation: epoch:69, step:2/10, loss: 0.8005, time:745.71 min
+	Liver Acc:97.4, mIoU: 77.3, Acc: 97.6, 93.1
+	Tumor Acc:83.9, mIoU: 42.0, Acc: 83.9, 19.5
+Validation: epoch:69, step:3/10, loss: 0.7846, time:746.17 min
+	Liver Acc:97.9, mIoU: 82.7, Acc: 98.1, 95.1
+	Tumor Acc:83.8, mIoU: 41.9, Acc: 83.9, 19.5
+Validation: epoch:69, step:4/10, loss: 0.7923, time:746.63 min
+	Liver Acc:98.2, mIoU: 83.8, Acc: 98.4, 94.7
+	Tumor Acc:83.7, mIoU: 41.9, Acc: 83.7, 21.0
+Validation: epoch:69, step:5/10, loss: 0.7968, time:747.09 min
+	Liver Acc:98.3, mIoU: 85.3, Acc: 98.5, 95.3
+	Tumor Acc:83.6, mIoU: 42.0, Acc: 83.8, 23.2
+Validation: epoch:69, step:6/10, loss: 0.8007, time:747.56 min
+	Liver Acc:98.4, mIoU: 85.9, Acc: 98.5, 96.0
+	Tumor Acc:83.5, mIoU: 41.9, Acc: 83.6, 23.2
+Validation: epoch:69, step:7/10, loss: 0.7893, time:748.03 min
+	Liver Acc:98.5, mIoU: 87.2, Acc: 98.6, 96.4
+	Tumor Acc:83.6, mIoU: 41.9, Acc: 83.7, 22.3
+Validation: epoch:69, step:8/10, loss: 0.7853, time:748.50 min
+	Liver Acc:98.5, mIoU: 87.8, Acc: 98.7, 94.9
+	Tumor Acc:83.7, mIoU: 42.0, Acc: 83.8, 22.1
+Validation: epoch:69, step:9/10, loss: 0.7876, time:748.97 min
+	Liver Acc:98.5, mIoU: 88.7, Acc: 98.7, 95.2
+	Tumor Acc:83.7, mIoU: 42.0, Acc: 83.8, 22.1
+Validation: epoch:70, step:0/10, loss: 0.7258, time:761.06 min
+	Liver Acc:90.4, mIoU: 66.0, Acc: 99.5, 43.4
+	Tumor Acc:96.1, mIoU: 48.1, Acc: 96.5, 0.0
+Validation: epoch:70, step:1/10, loss: 0.6784, time:761.53 min
+	Liver Acc:93.3, mIoU: 73.9, Acc: 99.7, 56.1
+	Tumor Acc:96.5, mIoU: 48.4, Acc: 97.0, 1.9
+Validation: epoch:70, step:2/10, loss: 0.6446, time:761.99 min
+	Liver Acc:95.1, mIoU: 77.6, Acc: 99.6, 62.1
+	Tumor Acc:97.3, mIoU: 48.8, Acc: 97.6, 1.9
+Validation: epoch:70, step:3/10, loss: 0.6637, time:762.45 min
+	Liver Acc:95.5, mIoU: 77.6, Acc: 99.6, 61.8
+	Tumor Acc:97.5, mIoU: 48.8, Acc: 97.7, 1.9
+Validation: epoch:70, step:4/10, loss: 0.6364, time:762.91 min
+	Liver Acc:96.4, mIoU: 78.4, Acc: 99.7, 62.4
+	Tumor Acc:97.7, mIoU: 49.0, Acc: 98.0, 1.9
+Validation: epoch:70, step:5/10, loss: 0.6549, time:763.37 min
+	Liver Acc:96.7, mIoU: 78.0, Acc: 99.7, 61.6
+	Tumor Acc:97.8, mIoU: 49.0, Acc: 98.0, 2.5
+Validation: epoch:70, step:6/10, loss: 0.6588, time:763.83 min
+	Liver Acc:96.8, mIoU: 79.6, Acc: 99.7, 64.7
+	Tumor Acc:97.8, mIoU: 49.0, Acc: 98.0, 2.5
+Validation: epoch:70, step:7/10, loss: 0.6468, time:764.30 min
+	Liver Acc:97.1, mIoU: 81.9, Acc: 99.6, 69.5
+	Tumor Acc:97.9, mIoU: 49.1, Acc: 98.0, 3.8
+Validation: epoch:70, step:8/10, loss: 0.6467, time:764.77 min
+	Liver Acc:97.3, mIoU: 82.9, Acc: 99.7, 71.2
+	Tumor Acc:97.9, mIoU: 49.1, Acc: 98.0, 3.7
+Validation: epoch:70, step:9/10, loss: 0.6516, time:765.23 min
+	Liver Acc:97.5, mIoU: 83.8, Acc: 99.6, 73.0
+	Tumor Acc:97.9, mIoU: 49.2, Acc: 98.1, 6.1
+Validation: epoch:71, step:0/10, loss: 0.6423, time:777.33 min
+	Liver Acc:97.9, mIoU: 79.6, Acc: 99.7, 64.7
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:71, step:1/10, loss: 0.6407, time:777.81 min
+	Liver Acc:98.0, mIoU: 84.2, Acc: 99.4, 77.3
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:71, step:2/10, loss: 0.6713, time:778.28 min
+	Liver Acc:96.5, mIoU: 75.3, Acc: 98.7, 64.6
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:71, step:3/10, loss: 0.6663, time:778.74 min
+	Liver Acc:96.1, mIoU: 75.7, Acc: 98.8, 63.1
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:71, step:4/10, loss: 0.6618, time:779.21 min
+	Liver Acc:95.8, mIoU: 75.5, Acc: 99.0, 61.3
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:71, step:5/10, loss: 0.6574, time:779.68 min
+	Liver Acc:95.7, mIoU: 75.7, Acc: 99.1, 60.9
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:71, step:6/10, loss: 0.6754, time:780.16 min
+	Liver Acc:95.3, mIoU: 73.8, Acc: 99.1, 57.3
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:71, step:7/10, loss: 0.6585, time:780.62 min
+	Liver Acc:95.3, mIoU: 73.9, Acc: 99.2, 57.1
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:71, step:8/10, loss: 0.6529, time:781.10 min
+	Liver Acc:95.6, mIoU: 74.5, Acc: 99.2, 58.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:71, step:9/10, loss: 0.6502, time:781.57 min
+	Liver Acc:95.9, mIoU: 74.9, Acc: 99.2, 58.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:72, step:0/10, loss: 0.6597, time:793.66 min
+	Liver Acc:95.4, mIoU: 66.9, Acc: 100.0, 38.8
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:72, step:1/10, loss: 0.6401, time:794.12 min
+	Liver Acc:96.7, mIoU: 77.4, Acc: 99.8, 59.5
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:72, step:2/10, loss: 0.6326, time:794.58 min
+	Liver Acc:97.6, mIoU: 80.2, Acc: 99.8, 65.3
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:72, step:3/10, loss: 0.6334, time:795.04 min
+	Liver Acc:98.0, mIoU: 84.8, Acc: 99.7, 74.8
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:72, step:4/10, loss: 0.6365, time:795.49 min
+	Liver Acc:98.2, mIoU: 85.6, Acc: 99.7, 76.7
+	Tumor Acc:99.9, mIoU: 50.2, Acc: 100.0, 0.5
+Validation: epoch:72, step:5/10, loss: 0.6391, time:795.94 min
+	Liver Acc:98.3, mIoU: 86.0, Acc: 99.7, 77.2
+	Tumor Acc:99.9, mIoU: 50.1, Acc: 100.0, 0.3
+Validation: epoch:72, step:6/10, loss: 0.6479, time:796.41 min
+	Liver Acc:98.3, mIoU: 86.1, Acc: 99.6, 78.3
+	Tumor Acc:99.8, mIoU: 50.0, Acc: 100.0, 0.1
+Validation: epoch:72, step:7/10, loss: 0.6567, time:796.87 min
+	Liver Acc:98.3, mIoU: 86.2, Acc: 99.5, 79.2
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.1
+Validation: epoch:72, step:8/10, loss: 0.6305, time:797.33 min
+	Liver Acc:98.4, mIoU: 86.6, Acc: 99.6, 79.8
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.1
+Validation: epoch:72, step:9/10, loss: 0.6558, time:797.79 min
+	Liver Acc:98.5, mIoU: 87.1, Acc: 99.6, 80.9
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:73, step:0/10, loss: 0.6529, time:809.89 min
+	Liver Acc:97.8, mIoU: 89.8, Acc: 98.0, 96.2
+	Tumor Acc:99.1, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:73, step:1/10, loss: 0.6354, time:810.35 min
+	Liver Acc:98.4, mIoU: 88.5, Acc: 99.0, 90.2
+	Tumor Acc:99.5, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:73, step:2/10, loss: 0.6302, time:810.82 min
+	Liver Acc:98.8, mIoU: 88.5, Acc: 99.2, 90.7
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:73, step:3/10, loss: 0.6532, time:811.28 min
+	Liver Acc:98.1, mIoU: 83.1, Acc: 98.4, 91.9
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:73, step:4/10, loss: 0.6350, time:811.75 min
+	Liver Acc:98.2, mIoU: 83.8, Acc: 98.5, 92.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:73, step:5/10, loss: 0.6642, time:812.21 min
+	Liver Acc:97.6, mIoU: 78.7, Acc: 98.1, 86.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:73, step:6/10, loss: 0.6486, time:812.68 min
+	Liver Acc:97.9, mIoU: 79.4, Acc: 98.3, 87.2
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:73, step:7/10, loss: 0.6385, time:813.15 min
+	Liver Acc:97.9, mIoU: 83.0, Acc: 98.3, 90.6
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:73, step:8/10, loss: 0.6367, time:813.61 min
+	Liver Acc:98.0, mIoU: 84.2, Acc: 98.5, 90.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:73, step:9/10, loss: 0.6315, time:814.08 min
+	Liver Acc:98.1, mIoU: 85.1, Acc: 98.6, 90.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:74, step:0/10, loss: 0.6520, time:826.17 min
+	Liver Acc:96.3, mIoU: 63.6, Acc: 100.0, 31.0
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:1/10, loss: 0.6320, time:826.63 min
+	Liver Acc:97.8, mIoU: 70.5, Acc: 100.0, 43.4
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:2/10, loss: 0.6290, time:827.09 min
+	Liver Acc:98.4, mIoU: 78.5, Acc: 100.0, 58.7
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:3/10, loss: 0.6363, time:827.55 min
+	Liver Acc:98.5, mIoU: 80.0, Acc: 100.0, 62.0
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:4/10, loss: 0.6390, time:828.02 min
+	Liver Acc:98.5, mIoU: 84.2, Acc: 99.9, 70.7
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:5/10, loss: 0.6328, time:828.48 min
+	Liver Acc:98.6, mIoU: 85.8, Acc: 99.9, 73.8
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:6/10, loss: 0.6298, time:828.95 min
+	Liver Acc:98.7, mIoU: 86.4, Acc: 99.9, 74.9
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:7/10, loss: 0.6321, time:829.41 min
+	Liver Acc:98.8, mIoU: 85.8, Acc: 99.9, 74.4
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:8/10, loss: 0.6310, time:829.88 min
+	Liver Acc:98.8, mIoU: 85.6, Acc: 99.9, 74.0
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:74, step:9/10, loss: 0.6347, time:830.34 min
+	Liver Acc:98.8, mIoU: 84.9, Acc: 99.9, 72.3
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:75, step:0/10, loss: 0.6299, time:842.43 min
+	Liver Acc:99.6, mIoU: 96.6, Acc: 99.8, 96.9
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:75, step:1/10, loss: 0.6304, time:842.89 min
+	Liver Acc:99.5, mIoU: 94.5, Acc: 99.8, 93.5
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:75, step:2/10, loss: 0.6501, time:843.35 min
+	Liver Acc:99.1, mIoU: 92.0, Acc: 99.4, 93.2
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:75, step:3/10, loss: 0.6325, time:843.82 min
+	Liver Acc:99.1, mIoU: 92.8, Acc: 99.4, 94.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:75, step:4/10, loss: 0.6308, time:844.28 min
+	Liver Acc:99.2, mIoU: 93.4, Acc: 99.5, 94.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:75, step:5/10, loss: 0.6553, time:844.74 min
+	Liver Acc:98.6, mIoU: 90.8, Acc: 99.1, 92.7
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:75, step:6/10, loss: 0.6317, time:845.20 min
+	Liver Acc:98.7, mIoU: 91.1, Acc: 99.2, 92.5
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:75, step:7/10, loss: 0.6318, time:845.68 min
+	Liver Acc:98.8, mIoU: 91.5, Acc: 99.2, 92.9
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:75, step:8/10, loss: 0.6357, time:846.14 min
+	Liver Acc:98.8, mIoU: 91.3, Acc: 99.2, 92.9
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:75, step:9/10, loss: 0.6281, time:846.60 min
+	Liver Acc:98.9, mIoU: 91.3, Acc: 99.3, 92.9
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:76, step:0/10, loss: 0.6353, time:858.68 min
+	Liver Acc:98.7, mIoU: 89.0, Acc: 99.8, 82.2
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: epoch:76, step:1/10, loss: 0.6449, time:859.14 min
+	Liver Acc:98.1, mIoU: 86.7, Acc: 99.7, 78.1
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:76, step:2/10, loss: 0.6320, time:859.59 min
+	Liver Acc:98.6, mIoU: 87.0, Acc: 99.8, 78.0
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:76, step:3/10, loss: 0.6295, time:860.05 min
+	Liver Acc:98.9, mIoU: 87.6, Acc: 99.8, 79.2
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:76, step:4/10, loss: 0.6286, time:860.50 min
+	Liver Acc:99.0, mIoU: 87.5, Acc: 99.8, 79.3
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:76, step:5/10, loss: 0.6542, time:860.96 min
+	Liver Acc:98.9, mIoU: 88.9, Acc: 99.8, 82.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:76, step:6/10, loss: 0.6282, time:861.42 min
+	Liver Acc:99.1, mIoU: 89.0, Acc: 99.8, 82.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:76, step:7/10, loss: 0.6884, time:861.87 min
+	Liver Acc:98.0, mIoU: 79.5, Acc: 99.8, 63.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:76, step:8/10, loss: 0.6409, time:862.33 min
+	Liver Acc:98.0, mIoU: 80.0, Acc: 99.8, 64.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:76, step:9/10, loss: 0.6273, time:862.79 min
+	Liver Acc:98.2, mIoU: 80.1, Acc: 99.8, 64.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:77, step:0/10, loss: 0.6371, time:874.87 min
+	Liver Acc:99.0, mIoU: 90.3, Acc: 99.5, 89.6
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:77, step:1/10, loss: 0.6418, time:875.33 min
+	Liver Acc:98.6, mIoU: 86.2, Acc: 99.7, 78.2
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:77, step:2/10, loss: 0.6439, time:875.78 min
+	Liver Acc:98.3, mIoU: 88.6, Acc: 99.5, 83.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:77, step:3/10, loss: 0.6745, time:876.25 min
+	Liver Acc:98.3, mIoU: 90.1, Acc: 99.4, 87.4
+	Tumor Acc:99.1, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:77, step:4/10, loss: 0.6325, time:876.70 min
+	Liver Acc:98.5, mIoU: 90.8, Acc: 99.4, 88.6
+	Tumor Acc:99.3, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:77, step:5/10, loss: 0.6517, time:877.16 min
+	Liver Acc:98.1, mIoU: 89.4, Acc: 99.2, 87.0
+	Tumor Acc:99.4, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:77, step:6/10, loss: 0.6360, time:877.63 min
+	Liver Acc:98.2, mIoU: 90.0, Acc: 99.2, 88.7
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:77, step:7/10, loss: 0.6338, time:878.09 min
+	Liver Acc:98.3, mIoU: 89.6, Acc: 99.1, 88.8
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:77, step:8/10, loss: 0.6479, time:878.55 min
+	Liver Acc:98.4, mIoU: 90.1, Acc: 99.1, 89.7
+	Tumor Acc:99.5, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:77, step:9/10, loss: 0.6360, time:879.01 min
+	Liver Acc:98.4, mIoU: 90.1, Acc: 99.2, 89.9
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:78, step:0/10, loss: 0.6419, time:891.11 min
+	Liver Acc:98.3, mIoU: 91.9, Acc: 99.1, 91.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:78, step:1/10, loss: 0.6510, time:891.56 min
+	Liver Acc:98.7, mIoU: 90.2, Acc: 99.1, 92.4
+	Tumor Acc:99.2, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:78, step:2/10, loss: 0.6394, time:892.02 min
+	Liver Acc:98.5, mIoU: 88.8, Acc: 99.1, 89.2
+	Tumor Acc:99.5, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:78, step:3/10, loss: 0.6315, time:892.48 min
+	Liver Acc:98.7, mIoU: 88.3, Acc: 99.2, 89.0
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:78, step:4/10, loss: 0.6437, time:892.94 min
+	Liver Acc:98.5, mIoU: 88.2, Acc: 99.2, 87.9
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:78, step:5/10, loss: 0.6365, time:893.40 min
+	Liver Acc:98.5, mIoU: 88.7, Acc: 99.1, 89.1
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:78, step:6/10, loss: 0.6407, time:893.87 min
+	Liver Acc:98.5, mIoU: 88.9, Acc: 99.1, 89.3
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:78, step:7/10, loss: 0.6289, time:894.33 min
+	Liver Acc:98.6, mIoU: 89.0, Acc: 99.2, 89.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:78, step:8/10, loss: 0.6389, time:894.79 min
+	Liver Acc:98.7, mIoU: 89.6, Acc: 99.3, 89.6
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:78, step:9/10, loss: 0.6355, time:895.25 min
+	Liver Acc:98.7, mIoU: 89.5, Acc: 99.3, 89.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:79, step:0/10, loss: 0.6659, time:907.34 min
+	Liver Acc:97.8, mIoU: 90.9, Acc: 99.6, 86.2
+	Tumor Acc:98.1, mIoU: 49.1, Acc: 100.0, 0.0
+Validation: epoch:79, step:1/10, loss: 0.6412, time:907.79 min
+	Liver Acc:97.8, mIoU: 88.2, Acc: 99.0, 86.2
+	Tumor Acc:99.1, mIoU: 49.5, Acc: 100.0, 0.0
+Validation: epoch:79, step:2/10, loss: 0.6352, time:908.25 min
+	Liver Acc:98.1, mIoU: 88.8, Acc: 99.1, 87.9
+	Tumor Acc:99.4, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:79, step:3/10, loss: 0.6366, time:908.70 min
+	Liver Acc:98.3, mIoU: 88.4, Acc: 99.2, 86.4
+	Tumor Acc:99.5, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:79, step:4/10, loss: 0.6349, time:909.16 min
+	Liver Acc:98.4, mIoU: 88.9, Acc: 99.3, 87.1
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:79, step:5/10, loss: 0.6348, time:909.62 min
+	Liver Acc:98.5, mIoU: 89.3, Acc: 99.2, 88.7
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:79, step:6/10, loss: 0.6348, time:910.07 min
+	Liver Acc:98.5, mIoU: 90.2, Acc: 99.2, 90.6
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:79, step:7/10, loss: 0.6766, time:910.54 min
+	Liver Acc:98.2, mIoU: 89.1, Acc: 99.1, 88.7
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:79, step:8/10, loss: 0.6461, time:911.00 min
+	Liver Acc:98.1, mIoU: 88.7, Acc: 99.1, 87.5
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:79, step:9/10, loss: 0.6364, time:911.47 min
+	Liver Acc:98.2, mIoU: 88.8, Acc: 99.1, 87.5
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:80, step:0/10, loss: 0.6391, time:923.56 min
+	Liver Acc:98.4, mIoU: 90.9, Acc: 99.0, 91.6
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:1/10, loss: 0.6376, time:924.02 min
+	Liver Acc:98.6, mIoU: 92.5, Acc: 99.1, 93.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:2/10, loss: 0.6392, time:924.49 min
+	Liver Acc:98.6, mIoU: 93.3, Acc: 98.9, 95.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:3/10, loss: 0.6396, time:924.94 min
+	Liver Acc:98.6, mIoU: 92.5, Acc: 98.9, 95.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:4/10, loss: 0.6360, time:925.40 min
+	Liver Acc:98.6, mIoU: 92.4, Acc: 99.0, 94.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:5/10, loss: 0.6432, time:925.86 min
+	Liver Acc:98.4, mIoU: 91.5, Acc: 99.0, 93.2
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:6/10, loss: 0.6349, time:926.32 min
+	Liver Acc:98.5, mIoU: 91.7, Acc: 98.9, 93.8
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:7/10, loss: 0.6385, time:926.78 min
+	Liver Acc:98.5, mIoU: 91.4, Acc: 99.1, 92.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:8/10, loss: 0.6419, time:927.24 min
+	Liver Acc:98.4, mIoU: 91.0, Acc: 99.0, 92.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:80, step:9/10, loss: 0.6307, time:927.71 min
+	Liver Acc:98.5, mIoU: 91.3, Acc: 99.1, 92.6
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:81, step:0/10, loss: 0.6373, time:939.79 min
+	Liver Acc:98.4, mIoU: 92.2, Acc: 99.6, 88.8
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: epoch:81, step:1/10, loss: 0.6345, time:940.25 min
+	Liver Acc:98.6, mIoU: 93.3, Acc: 99.4, 92.3
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:81, step:2/10, loss: 0.6271, time:940.72 min
+	Liver Acc:99.0, mIoU: 93.5, Acc: 99.6, 92.2
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:81, step:3/10, loss: 0.6284, time:941.17 min
+	Liver Acc:99.2, mIoU: 93.4, Acc: 99.7, 91.6
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:81, step:4/10, loss: 0.6306, time:941.63 min
+	Liver Acc:99.3, mIoU: 93.3, Acc: 99.7, 91.8
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:81, step:5/10, loss: 0.6404, time:942.09 min
+	Liver Acc:99.2, mIoU: 92.5, Acc: 99.7, 90.4
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:81, step:6/10, loss: 0.6460, time:942.56 min
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.6, 88.8
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:81, step:7/10, loss: 0.6322, time:943.02 min
+	Liver Acc:99.1, mIoU: 90.8, Acc: 99.6, 88.4
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:81, step:8/10, loss: 0.6424, time:943.49 min
+	Liver Acc:99.1, mIoU: 91.5, Acc: 99.6, 89.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:81, step:9/10, loss: 0.6350, time:943.95 min
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.6, 88.2
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:82, step:0/10, loss: 0.6370, time:956.05 min
+	Liver Acc:98.4, mIoU: 59.4, Acc: 98.9, 44.0
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: epoch:82, step:1/10, loss: 0.6475, time:956.52 min
+	Liver Acc:98.6, mIoU: 87.1, Acc: 99.3, 85.0
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:82, step:2/10, loss: 0.6735, time:956.98 min
+	Liver Acc:96.7, mIoU: 77.7, Acc: 99.5, 62.6
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:82, step:3/10, loss: 0.6439, time:957.45 min
+	Liver Acc:97.4, mIoU: 81.8, Acc: 99.6, 69.9
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:82, step:4/10, loss: 0.6278, time:957.91 min
+	Liver Acc:97.9, mIoU: 82.1, Acc: 99.7, 70.0
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:82, step:5/10, loss: 0.6721, time:958.38 min
+	Liver Acc:97.4, mIoU: 80.7, Acc: 99.7, 66.9
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:82, step:6/10, loss: 0.6342, time:958.84 min
+	Liver Acc:97.6, mIoU: 83.1, Acc: 99.7, 71.6
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:82, step:7/10, loss: 0.6298, time:959.30 min
+	Liver Acc:97.8, mIoU: 84.2, Acc: 99.7, 73.5
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:82, step:8/10, loss: 0.6328, time:959.76 min
+	Liver Acc:98.0, mIoU: 85.8, Acc: 99.7, 76.7
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:82, step:9/10, loss: 0.6297, time:960.22 min
+	Liver Acc:98.1, mIoU: 86.7, Acc: 99.7, 78.3
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:83, step:0/10, loss: 0.6487, time:972.57 min
+	Liver Acc:96.7, mIoU: 80.8, Acc: 99.9, 66.1
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:83, step:1/10, loss: 0.6710, time:973.04 min
+	Liver Acc:95.0, mIoU: 71.4, Acc: 99.7, 49.4
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:83, step:2/10, loss: 0.6327, time:973.51 min
+	Liver Acc:96.4, mIoU: 80.2, Acc: 99.7, 66.0
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:83, step:3/10, loss: 0.6336, time:973.97 min
+	Liver Acc:97.1, mIoU: 81.2, Acc: 99.8, 67.3
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:83, step:4/10, loss: 0.6497, time:974.43 min
+	Liver Acc:97.4, mIoU: 83.2, Acc: 99.8, 70.9
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:83, step:5/10, loss: 0.6305, time:974.91 min
+	Liver Acc:97.8, mIoU: 84.9, Acc: 99.8, 74.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:83, step:6/10, loss: 0.6419, time:975.40 min
+	Liver Acc:97.8, mIoU: 85.3, Acc: 99.7, 75.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:83, step:7/10, loss: 0.6311, time:975.88 min
+	Liver Acc:98.0, mIoU: 85.9, Acc: 99.7, 76.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:83, step:8/10, loss: 0.6486, time:976.37 min
+	Liver Acc:98.0, mIoU: 86.0, Acc: 99.7, 77.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:83, step:9/10, loss: 0.6632, time:976.85 min
+	Liver Acc:98.0, mIoU: 85.5, Acc: 99.7, 75.8
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:84, step:0/10, loss: 0.6473, time:989.02 min
+	Liver Acc:99.1, mIoU: 83.7, Acc: 99.9, 70.9
+	Tumor Acc:98.9, mIoU: 49.5, Acc: 100.0, 0.0
+Validation: epoch:84, step:1/10, loss: 0.6369, time:989.48 min
+	Liver Acc:99.0, mIoU: 91.5, Acc: 99.6, 89.8
+	Tumor Acc:99.3, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:84, step:2/10, loss: 0.6467, time:989.93 min
+	Liver Acc:98.8, mIoU: 89.0, Acc: 99.6, 84.2
+	Tumor Acc:99.3, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:84, step:3/10, loss: 0.6353, time:990.39 min
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 87.3
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:84, step:4/10, loss: 0.6461, time:990.85 min
+	Liver Acc:98.4, mIoU: 90.2, Acc: 99.3, 88.4
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:84, step:5/10, loss: 0.6518, time:991.31 min
+	Liver Acc:98.0, mIoU: 88.2, Acc: 99.0, 86.9
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:84, step:6/10, loss: 0.6536, time:991.77 min
+	Liver Acc:98.1, mIoU: 88.8, Acc: 99.0, 88.2
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:84, step:7/10, loss: 0.6302, time:992.23 min
+	Liver Acc:98.3, mIoU: 89.5, Acc: 99.1, 88.7
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:84, step:8/10, loss: 0.6288, time:992.69 min
+	Liver Acc:98.4, mIoU: 89.9, Acc: 99.2, 89.1
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:84, step:9/10, loss: 0.6281, time:993.15 min
+	Liver Acc:98.6, mIoU: 89.9, Acc: 99.3, 89.0
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:85, step:0/10, loss: 0.6357, time:1005.26 min
+	Liver Acc:99.1, mIoU: 94.5, Acc: 99.4, 96.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:85, step:1/10, loss: 0.6335, time:1005.73 min
+	Liver Acc:99.1, mIoU: 94.7, Acc: 99.3, 97.0
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:85, step:2/10, loss: 0.6430, time:1006.19 min
+	Liver Acc:98.6, mIoU: 91.9, Acc: 98.9, 95.8
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:85, step:3/10, loss: 0.6413, time:1006.66 min
+	Liver Acc:98.4, mIoU: 90.8, Acc: 98.7, 95.3
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:85, step:4/10, loss: 0.6291, time:1007.12 min
+	Liver Acc:98.7, mIoU: 91.1, Acc: 98.9, 95.4
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:85, step:5/10, loss: 0.6463, time:1007.59 min
+	Liver Acc:98.8, mIoU: 91.4, Acc: 99.1, 95.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:85, step:6/10, loss: 0.6404, time:1008.06 min
+	Liver Acc:98.7, mIoU: 90.6, Acc: 98.9, 95.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:85, step:7/10, loss: 0.6330, time:1008.52 min
+	Liver Acc:98.7, mIoU: 91.0, Acc: 99.0, 95.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:85, step:8/10, loss: 0.6463, time:1009.00 min
+	Liver Acc:98.8, mIoU: 91.3, Acc: 99.1, 95.4
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:85, step:9/10, loss: 0.6348, time:1009.47 min
+	Liver Acc:98.9, mIoU: 91.3, Acc: 99.1, 94.7
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:86, step:0/10, loss: 0.6524, time:1021.56 min
+	Liver Acc:96.5, mIoU: 85.7, Acc: 97.8, 87.1
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, nan
+Validation: epoch:86, step:1/10, loss: 0.6580, time:1022.02 min
+	Liver Acc:97.2, mIoU: 87.7, Acc: 98.7, 86.5
+	Tumor Acc:99.3, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:86, step:2/10, loss: 0.6409, time:1022.48 min
+	Liver Acc:97.7, mIoU: 88.7, Acc: 98.9, 87.1
+	Tumor Acc:99.4, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:86, step:3/10, loss: 0.6408, time:1022.94 min
+	Liver Acc:97.7, mIoU: 88.8, Acc: 98.7, 88.7
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:86, step:4/10, loss: 0.6422, time:1023.40 min
+	Liver Acc:97.7, mIoU: 87.6, Acc: 99.0, 85.3
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:86, step:5/10, loss: 0.6274, time:1023.86 min
+	Liver Acc:98.1, mIoU: 87.7, Acc: 99.2, 85.2
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:86, step:6/10, loss: 0.6305, time:1024.31 min
+	Liver Acc:98.3, mIoU: 88.2, Acc: 99.3, 85.6
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:86, step:7/10, loss: 0.6417, time:1024.78 min
+	Liver Acc:98.2, mIoU: 88.0, Acc: 99.3, 84.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:86, step:8/10, loss: 0.6360, time:1025.24 min
+	Liver Acc:98.2, mIoU: 88.3, Acc: 99.3, 85.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:86, step:9/10, loss: 0.6391, time:1025.71 min
+	Liver Acc:98.2, mIoU: 88.1, Acc: 99.3, 84.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:87, step:0/10, loss: 0.6291, time:1037.81 min
+	Liver Acc:99.6, mIoU: 84.0, Acc: 99.7, 94.7
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: epoch:87, step:1/10, loss: 0.6424, time:1038.26 min
+	Liver Acc:98.7, mIoU: 79.7, Acc: 98.7, 96.6
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:87, step:2/10, loss: 0.6330, time:1038.73 min
+	Liver Acc:98.8, mIoU: 85.1, Acc: 98.8, 96.8
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: epoch:87, step:3/10, loss: 0.6456, time:1039.18 min
+	Liver Acc:98.9, mIoU: 89.5, Acc: 99.0, 97.1
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:87, step:4/10, loss: 0.6335, time:1039.65 min
+	Liver Acc:98.9, mIoU: 90.1, Acc: 99.0, 97.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:87, step:5/10, loss: 0.6341, time:1040.10 min
+	Liver Acc:99.0, mIoU: 90.5, Acc: 99.1, 96.9
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:87, step:6/10, loss: 0.6289, time:1040.57 min
+	Liver Acc:99.1, mIoU: 90.3, Acc: 99.2, 96.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:87, step:7/10, loss: 0.6325, time:1041.04 min
+	Liver Acc:99.1, mIoU: 90.8, Acc: 99.2, 97.2
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:87, step:8/10, loss: 0.6394, time:1041.51 min
+	Liver Acc:99.0, mIoU: 91.0, Acc: 99.2, 95.4
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:87, step:9/10, loss: 0.6632, time:1041.97 min
+	Liver Acc:98.5, mIoU: 88.1, Acc: 98.7, 95.2
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:88, step:0/10, loss: 0.6326, time:1054.08 min
+	Liver Acc:99.4, mIoU: 95.5, Acc: 99.4, 99.0
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:88, step:1/10, loss: 0.6524, time:1054.53 min
+	Liver Acc:98.0, mIoU: 86.2, Acc: 98.5, 89.9
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:88, step:2/10, loss: 0.6345, time:1054.99 min
+	Liver Acc:98.3, mIoU: 86.9, Acc: 98.7, 91.3
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:88, step:3/10, loss: 0.6569, time:1055.44 min
+	Liver Acc:98.4, mIoU: 88.6, Acc: 98.9, 92.0
+	Tumor Acc:99.5, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:88, step:4/10, loss: 0.6426, time:1055.89 min
+	Liver Acc:98.3, mIoU: 88.9, Acc: 98.7, 93.0
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:88, step:5/10, loss: 0.6350, time:1056.35 min
+	Liver Acc:98.3, mIoU: 88.5, Acc: 98.7, 93.3
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:88, step:6/10, loss: 0.6345, time:1056.80 min
+	Liver Acc:98.4, mIoU: 89.5, Acc: 98.7, 94.3
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:88, step:7/10, loss: 0.6394, time:1057.26 min
+	Liver Acc:98.4, mIoU: 90.3, Acc: 98.7, 95.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:88, step:8/10, loss: 0.6431, time:1057.72 min
+	Liver Acc:98.3, mIoU: 90.0, Acc: 98.7, 94.1
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:88, step:9/10, loss: 0.6374, time:1058.17 min
+	Liver Acc:98.4, mIoU: 90.3, Acc: 98.7, 94.6
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:89, step:0/10, loss: 0.6584, time:1070.29 min
+	Liver Acc:98.0, mIoU: 85.9, Acc: 99.1, 82.9
+	Tumor Acc:98.6, mIoU: 49.3, Acc: 100.0, 0.0
+Validation: epoch:89, step:1/10, loss: 0.6608, time:1070.75 min
+	Liver Acc:96.5, mIoU: 74.4, Acc: 98.5, 64.5
+	Tumor Acc:99.3, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:89, step:2/10, loss: 0.6308, time:1071.22 min
+	Liver Acc:97.5, mIoU: 75.9, Acc: 99.0, 65.9
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:89, step:3/10, loss: 0.6397, time:1071.69 min
+	Liver Acc:97.6, mIoU: 81.1, Acc: 99.2, 73.1
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:89, step:4/10, loss: 0.6356, time:1072.16 min
+	Liver Acc:97.8, mIoU: 84.1, Acc: 99.2, 78.1
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:89, step:5/10, loss: 0.6409, time:1072.62 min
+	Liver Acc:97.8, mIoU: 84.5, Acc: 99.2, 78.7
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:89, step:6/10, loss: 0.6344, time:1073.10 min
+	Liver Acc:98.0, mIoU: 85.8, Acc: 99.3, 80.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:89, step:7/10, loss: 0.6556, time:1073.56 min
+	Liver Acc:97.7, mIoU: 83.6, Acc: 99.4, 75.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:89, step:8/10, loss: 0.6288, time:1074.04 min
+	Liver Acc:97.9, mIoU: 83.6, Acc: 99.4, 75.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:89, step:9/10, loss: 0.6362, time:1074.51 min
+	Liver Acc:98.0, mIoU: 83.8, Acc: 99.5, 75.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:90, step:0/10, loss: 0.6457, time:1086.61 min
+	Liver Acc:98.8, mIoU: 94.1, Acc: 99.7, 92.0
+	Tumor Acc:99.1, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:90, step:1/10, loss: 0.6397, time:1087.07 min
+	Liver Acc:98.6, mIoU: 92.8, Acc: 99.3, 92.5
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:90, step:2/10, loss: 0.6371, time:1087.53 min
+	Liver Acc:98.7, mIoU: 92.4, Acc: 99.4, 91.2
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:90, step:3/10, loss: 0.6418, time:1087.98 min
+	Liver Acc:98.7, mIoU: 92.3, Acc: 99.4, 91.1
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:90, step:4/10, loss: 0.6327, time:1088.43 min
+	Liver Acc:98.8, mIoU: 92.7, Acc: 99.4, 92.1
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:90, step:5/10, loss: 0.6302, time:1088.89 min
+	Liver Acc:98.9, mIoU: 92.8, Acc: 99.5, 92.2
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:90, step:6/10, loss: 0.6369, time:1089.35 min
+	Liver Acc:98.8, mIoU: 92.8, Acc: 99.3, 93.3
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:90, step:7/10, loss: 0.6280, time:1089.81 min
+	Liver Acc:98.9, mIoU: 92.8, Acc: 99.4, 93.2
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:90, step:8/10, loss: 0.6320, time:1090.27 min
+	Liver Acc:99.0, mIoU: 92.9, Acc: 99.4, 93.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:90, step:9/10, loss: 0.6571, time:1090.73 min
+	Liver Acc:98.7, mIoU: 91.1, Acc: 99.3, 91.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: epoch:91, step:0/10, loss: 0.6394, time:1102.85 min
+	Liver Acc:98.1, mIoU: 89.7, Acc: 99.2, 87.3
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: epoch:91, step:1/10, loss: 0.6428, time:1103.30 min
+	Liver Acc:98.8, mIoU: 91.9, Acc: 99.6, 89.7
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:91, step:2/10, loss: 0.6475, time:1103.76 min
+	Liver Acc:98.8, mIoU: 93.4, Acc: 99.5, 92.4
+	Tumor Acc:99.3, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:91, step:3/10, loss: 0.6500, time:1104.22 min
+	Liver Acc:98.6, mIoU: 91.6, Acc: 99.6, 88.4
+	Tumor Acc:99.3, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:91, step:4/10, loss: 0.6520, time:1104.68 min
+	Liver Acc:98.6, mIoU: 92.1, Acc: 99.5, 90.0
+	Tumor Acc:99.2, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:91, step:5/10, loss: 0.6534, time:1105.14 min
+	Liver Acc:98.6, mIoU: 92.4, Acc: 99.4, 91.0
+	Tumor Acc:99.1, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:91, step:6/10, loss: 0.6324, time:1105.61 min
+	Liver Acc:98.7, mIoU: 92.9, Acc: 99.5, 91.7
+	Tumor Acc:99.2, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:91, step:7/10, loss: 0.6288, time:1106.07 min
+	Liver Acc:98.8, mIoU: 93.2, Acc: 99.5, 92.0
+	Tumor Acc:99.3, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:91, step:8/10, loss: 0.6468, time:1106.53 min
+	Liver Acc:98.7, mIoU: 92.3, Acc: 99.4, 91.6
+	Tumor Acc:99.4, mIoU: 49.7, Acc: 100.0, 0.1
+Validation: epoch:91, step:9/10, loss: 0.6340, time:1106.99 min
+	Liver Acc:98.7, mIoU: 92.1, Acc: 99.3, 91.7
+	Tumor Acc:99.4, mIoU: 49.8, Acc: 100.0, 0.1
+Validation: epoch:92, step:0/10, loss: 0.6418, time:1119.09 min
+	Liver Acc:99.2, mIoU: 96.0, Acc: 99.6, 96.3
+	Tumor Acc:99.2, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:92, step:1/10, loss: 0.6581, time:1119.55 min
+	Liver Acc:99.2, mIoU: 94.7, Acc: 99.7, 93.4
+	Tumor Acc:98.7, mIoU: 49.3, Acc: 100.0, 0.0
+Validation: epoch:92, step:2/10, loss: 0.6350, time:1120.00 min
+	Liver Acc:99.1, mIoU: 94.9, Acc: 99.6, 94.6
+	Tumor Acc:99.0, mIoU: 49.5, Acc: 100.0, 0.0
+Validation: epoch:92, step:3/10, loss: 0.6307, time:1120.46 min
+	Liver Acc:99.2, mIoU: 94.5, Acc: 99.6, 93.9
+	Tumor Acc:99.3, mIoU: 49.6, Acc: 100.0, 0.0
+Validation: epoch:92, step:4/10, loss: 0.6278, time:1120.92 min
+	Liver Acc:99.3, mIoU: 94.6, Acc: 99.7, 94.1
+	Tumor Acc:99.4, mIoU: 49.7, Acc: 100.0, 0.0
+Validation: epoch:92, step:5/10, loss: 0.6311, time:1121.38 min
+	Liver Acc:99.4, mIoU: 94.3, Acc: 99.7, 93.8
+	Tumor Acc:99.5, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:92, step:6/10, loss: 0.6310, time:1121.84 min
+	Liver Acc:99.3, mIoU: 94.5, Acc: 99.7, 94.1
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:92, step:7/10, loss: 0.6324, time:1122.30 min
+	Liver Acc:99.3, mIoU: 94.3, Acc: 99.6, 94.4
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:92, step:8/10, loss: 0.6420, time:1122.76 min
+	Liver Acc:99.1, mIoU: 92.5, Acc: 99.6, 91.3
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: epoch:92, step:9/10, loss: 0.6760, time:1123.22 min
+	Liver Acc:98.5, mIoU: 87.0, Acc: 99.7, 79.8
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0

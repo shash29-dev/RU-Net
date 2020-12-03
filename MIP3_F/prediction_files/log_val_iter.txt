@@ -1,0 +1,495 @@
+Validation: 0/20, 	0/9
+	Liver Acc:99.9, mIoU: 89.4, Acc: 99.9, 91.1
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 0/20, 	1/9
+	Liver Acc:99.8, mIoU: 93.2, Acc: 99.9, 94.4
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 0/20, 	2/9
+	Liver Acc:99.6, mIoU: 91.4, Acc: 99.8, 88.9
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 0/20, 	3/9
+	Liver Acc:99.4, mIoU: 92.4, Acc: 99.8, 90.7
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 0/20, 	4/9
+	Liver Acc:99.2, mIoU: 92.8, Acc: 99.6, 93.1
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 0/20, 	5/9
+	Liver Acc:99.1, mIoU: 92.8, Acc: 99.5, 93.4
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 0/20, 	6/9
+	Liver Acc:99.2, mIoU: 92.8, Acc: 99.5, 93.6
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 1/20, 	0/9
+	Liver Acc:99.3, mIoU: 92.9, Acc: 99.6, 93.6
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 1/20, 	1/9
+	Liver Acc:99.4, mIoU: 92.9, Acc: 99.6, 93.5
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 1/20, 	2/9
+	Liver Acc:99.4, mIoU: 93.3, Acc: 99.7, 93.8
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 1/20, 	3/9
+	Liver Acc:99.4, mIoU: 93.8, Acc: 99.7, 94.3
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 1/20, 	4/9
+	Liver Acc:99.4, mIoU: 94.0, Acc: 99.7, 94.5
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 1/20, 	5/9
+	Liver Acc:99.4, mIoU: 94.4, Acc: 99.6, 95.0
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 1/20, 	6/9
+	Liver Acc:99.4, mIoU: 94.4, Acc: 99.6, 95.2
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 1/20, 	7/9
+	Liver Acc:99.4, mIoU: 94.3, Acc: 99.6, 95.2
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 2/20, 	0/9
+	Liver Acc:99.2, mIoU: 92.5, Acc: 99.5, 94.3
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 2/20, 	1/9
+	Liver Acc:99.1, mIoU: 91.1, Acc: 99.5, 91.4
+	Tumor Acc:100.0, mIoU: 100.0, Acc: 100.0, nan
+Validation: 2/20, 	2/9
+	Liver Acc:99.0, mIoU: 90.8, Acc: 99.5, 90.6
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 2/20, 	3/9
+	Liver Acc:98.9, mIoU: 90.5, Acc: 99.4, 90.1
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 2/20, 	4/9
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.4, 89.3
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 2/20, 	5/9
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.3, 89.0
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 2/20, 	6/9
+	Liver Acc:98.5, mIoU: 89.4, Acc: 99.3, 87.4
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 2/20, 	7/9
+	Liver Acc:98.5, mIoU: 89.2, Acc: 99.3, 86.9
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	0/10
+	Liver Acc:98.5, mIoU: 89.2, Acc: 99.4, 86.9
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	1/10
+	Liver Acc:98.6, mIoU: 89.3, Acc: 99.4, 87.0
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	2/10
+	Liver Acc:98.6, mIoU: 89.3, Acc: 99.4, 87.1
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	3/10
+	Liver Acc:98.7, mIoU: 89.5, Acc: 99.4, 87.3
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	4/10
+	Liver Acc:98.7, mIoU: 89.7, Acc: 99.4, 87.7
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	5/10
+	Liver Acc:98.7, mIoU: 90.1, Acc: 99.4, 88.4
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	6/10
+	Liver Acc:98.7, mIoU: 90.5, Acc: 99.4, 89.0
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	7/10
+	Liver Acc:98.7, mIoU: 90.6, Acc: 99.4, 89.2
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 3/20, 	8/10
+	Liver Acc:98.7, mIoU: 90.6, Acc: 99.4, 89.2
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 4/20, 	0/9
+	Liver Acc:98.8, mIoU: 90.7, Acc: 99.4, 89.2
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 4/20, 	1/9
+	Liver Acc:98.8, mIoU: 90.7, Acc: 99.5, 89.2
+	Tumor Acc:100.0, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 4/20, 	2/9
+	Liver Acc:98.8, mIoU: 90.7, Acc: 99.5, 89.2
+	Tumor Acc:99.9, mIoU: 50.0, Acc: 100.0, 0.0
+Validation: 4/20, 	3/9
+	Liver Acc:98.8, mIoU: 90.9, Acc: 99.5, 89.4
+	Tumor Acc:99.9, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 4/20, 	4/9
+	Liver Acc:98.9, mIoU: 91.1, Acc: 99.5, 89.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 4/20, 	5/9
+	Liver Acc:98.8, mIoU: 91.1, Acc: 99.5, 89.4
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 4/20, 	6/9
+	Liver Acc:98.8, mIoU: 91.2, Acc: 99.5, 89.7
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 4/20, 	7/9
+	Liver Acc:98.8, mIoU: 91.1, Acc: 99.5, 89.6
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	0/10
+	Liver Acc:98.9, mIoU: 91.2, Acc: 99.5, 89.6
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	1/10
+	Liver Acc:98.9, mIoU: 91.1, Acc: 99.5, 89.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	2/10
+	Liver Acc:98.9, mIoU: 91.1, Acc: 99.5, 89.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	3/10
+	Liver Acc:98.9, mIoU: 91.1, Acc: 99.5, 89.7
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	4/10
+	Liver Acc:98.8, mIoU: 90.8, Acc: 99.5, 88.9
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	5/10
+	Liver Acc:98.7, mIoU: 89.7, Acc: 99.5, 86.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	6/10
+	Liver Acc:98.6, mIoU: 89.5, Acc: 99.5, 86.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	7/10
+	Liver Acc:98.5, mIoU: 89.1, Acc: 99.4, 86.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 5/20, 	8/10
+	Liver Acc:98.5, mIoU: 89.1, Acc: 99.4, 86.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	0/11
+	Liver Acc:98.6, mIoU: 89.1, Acc: 99.4, 86.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	1/11
+	Liver Acc:98.6, mIoU: 89.1, Acc: 99.4, 86.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	2/11
+	Liver Acc:98.6, mIoU: 89.2, Acc: 99.4, 86.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	3/11
+	Liver Acc:98.6, mIoU: 89.4, Acc: 99.4, 86.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	4/11
+	Liver Acc:98.6, mIoU: 89.5, Acc: 99.4, 87.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	5/11
+	Liver Acc:98.7, mIoU: 89.7, Acc: 99.4, 87.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	6/11
+	Liver Acc:98.6, mIoU: 89.5, Acc: 99.4, 86.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	7/11
+	Liver Acc:98.6, mIoU: 89.5, Acc: 99.5, 86.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	8/11
+	Liver Acc:98.6, mIoU: 89.5, Acc: 99.5, 86.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 6/20, 	9/11
+	Liver Acc:98.6, mIoU: 89.6, Acc: 99.5, 86.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 7/20, 	0/9
+	Liver Acc:98.7, mIoU: 89.6, Acc: 99.5, 86.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 7/20, 	1/9
+	Liver Acc:98.7, mIoU: 89.6, Acc: 99.5, 86.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 7/20, 	2/9
+	Liver Acc:98.7, mIoU: 89.6, Acc: 99.5, 86.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 7/20, 	3/9
+	Liver Acc:98.7, mIoU: 89.7, Acc: 99.5, 86.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 7/20, 	4/9
+	Liver Acc:98.7, mIoU: 89.8, Acc: 99.5, 87.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 7/20, 	5/9
+	Liver Acc:98.7, mIoU: 90.1, Acc: 99.5, 87.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 7/20, 	6/9
+	Liver Acc:98.7, mIoU: 90.2, Acc: 99.5, 87.8
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 7/20, 	7/9
+	Liver Acc:98.7, mIoU: 90.2, Acc: 99.5, 87.7
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 8/20, 	0/18
+	Liver Acc:98.7, mIoU: 90.2, Acc: 99.5, 87.7
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 8/20, 	1/18
+	Liver Acc:98.7, mIoU: 90.1, Acc: 99.5, 87.4
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 8/20, 	2/18
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 87.2
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	3/18
+	Liver Acc:98.7, mIoU: 89.8, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	4/18
+	Liver Acc:98.7, mIoU: 89.6, Acc: 99.5, 86.5
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	5/18
+	Liver Acc:98.7, mIoU: 89.5, Acc: 99.5, 86.2
+	Tumor Acc:99.6, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	6/18
+	Liver Acc:98.7, mIoU: 89.5, Acc: 99.5, 86.0
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	7/18
+	Liver Acc:98.7, mIoU: 89.4, Acc: 99.5, 85.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	8/18
+	Liver Acc:98.7, mIoU: 89.4, Acc: 99.5, 85.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	9/18
+	Liver Acc:98.7, mIoU: 89.4, Acc: 99.5, 85.9
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	10/18
+	Liver Acc:98.7, mIoU: 89.5, Acc: 99.5, 86.2
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	11/18
+	Liver Acc:98.7, mIoU: 89.7, Acc: 99.5, 86.5
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	12/18
+	Liver Acc:98.7, mIoU: 89.9, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	13/18
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 86.9
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	14/18
+	Liver Acc:98.7, mIoU: 89.9, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	15/18
+	Liver Acc:98.7, mIoU: 89.9, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 8/20, 	16/18
+	Liver Acc:98.7, mIoU: 89.9, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 9/20, 	0/9
+	Liver Acc:98.7, mIoU: 89.9, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 9/20, 	1/9
+	Liver Acc:98.7, mIoU: 89.9, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 9/20, 	2/9
+	Liver Acc:98.7, mIoU: 89.9, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 9/20, 	3/9
+	Liver Acc:98.7, mIoU: 89.9, Acc: 99.5, 86.8
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 9/20, 	4/9
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 86.9
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 9/20, 	5/9
+	Liver Acc:98.7, mIoU: 90.2, Acc: 99.5, 87.3
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 9/20, 	6/9
+	Liver Acc:98.7, mIoU: 90.1, Acc: 99.5, 87.1
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 9/20, 	7/9
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 87.1
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 10/20, 	0/7
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 87.1
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 10/20, 	1/7
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 87.1
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 10/20, 	2/7
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 87.0
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 10/20, 	3/7
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 87.0
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 10/20, 	4/7
+	Liver Acc:98.7, mIoU: 90.0, Acc: 99.5, 87.0
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 11/20, 	0/7
+	Liver Acc:98.8, mIoU: 90.0, Acc: 99.5, 87.0
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 11/20, 	1/7
+	Liver Acc:98.8, mIoU: 90.0, Acc: 99.5, 87.0
+	Tumor Acc:99.7, mIoU: 49.8, Acc: 100.0, 0.0
+Validation: 11/20, 	2/7
+	Liver Acc:98.8, mIoU: 90.0, Acc: 99.5, 87.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 11/20, 	3/7
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.1
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 11/20, 	4/7
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.5, 87.4
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 11/20, 	5/7
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.5, 87.4
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 12/20, 	0/9
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.5, 87.4
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 12/20, 	1/9
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.5, 87.3
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 12/20, 	2/9
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.5, 87.4
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 12/20, 	3/9
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.5, 87.4
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 12/20, 	4/9
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 12/20, 	5/9
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.4
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 12/20, 	6/9
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 12/20, 	7/9
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	0/11
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	1/11
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	2/11
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	3/11
+	Liver Acc:98.8, mIoU: 90.1, Acc: 99.5, 87.5
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	4/11
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.5, 87.6
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	5/11
+	Liver Acc:98.8, mIoU: 90.2, Acc: 99.5, 87.7
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	6/11
+	Liver Acc:98.8, mIoU: 90.3, Acc: 99.5, 87.9
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	7/11
+	Liver Acc:98.8, mIoU: 90.3, Acc: 99.5, 88.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	8/11
+	Liver Acc:98.8, mIoU: 90.3, Acc: 99.5, 88.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 13/20, 	9/11
+	Liver Acc:98.8, mIoU: 90.3, Acc: 99.5, 88.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 14/20, 	0/9
+	Liver Acc:98.8, mIoU: 90.3, Acc: 99.5, 88.0
+	Tumor Acc:99.7, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 14/20, 	1/9
+	Liver Acc:98.9, mIoU: 90.3, Acc: 99.5, 88.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 14/20, 	2/9
+	Liver Acc:98.9, mIoU: 90.3, Acc: 99.5, 88.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 14/20, 	3/9
+	Liver Acc:98.9, mIoU: 90.3, Acc: 99.5, 88.2
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 14/20, 	4/9
+	Liver Acc:98.9, mIoU: 90.3, Acc: 99.5, 88.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 14/20, 	5/9
+	Liver Acc:98.9, mIoU: 90.4, Acc: 99.5, 88.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 14/20, 	6/9
+	Liver Acc:98.9, mIoU: 90.4, Acc: 99.5, 88.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 14/20, 	7/9
+	Liver Acc:98.9, mIoU: 90.4, Acc: 99.5, 88.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 15/20, 	0/9
+	Liver Acc:98.9, mIoU: 90.4, Acc: 99.5, 88.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 15/20, 	1/9
+	Liver Acc:98.9, mIoU: 90.4, Acc: 99.5, 88.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 15/20, 	2/9
+	Liver Acc:98.9, mIoU: 90.4, Acc: 99.5, 88.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 15/20, 	3/9
+	Liver Acc:98.9, mIoU: 90.4, Acc: 99.5, 88.3
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 15/20, 	4/9
+	Liver Acc:98.9, mIoU: 90.4, Acc: 99.5, 88.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 15/20, 	5/9
+	Liver Acc:98.9, mIoU: 90.5, Acc: 99.5, 88.5
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 15/20, 	6/9
+	Liver Acc:98.9, mIoU: 90.6, Acc: 99.5, 88.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 15/20, 	7/9
+	Liver Acc:98.9, mIoU: 90.6, Acc: 99.5, 88.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 16/20, 	0/9
+	Liver Acc:98.9, mIoU: 90.6, Acc: 99.5, 88.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 16/20, 	1/9
+	Liver Acc:98.9, mIoU: 90.6, Acc: 99.5, 88.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 16/20, 	2/9
+	Liver Acc:98.9, mIoU: 90.6, Acc: 99.5, 88.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 16/20, 	3/9
+	Liver Acc:98.9, mIoU: 90.6, Acc: 99.5, 88.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 16/20, 	4/9
+	Liver Acc:98.9, mIoU: 90.7, Acc: 99.5, 88.8
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 16/20, 	5/9
+	Liver Acc:98.9, mIoU: 90.8, Acc: 99.5, 89.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 16/20, 	6/9
+	Liver Acc:98.9, mIoU: 90.8, Acc: 99.5, 89.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 16/20, 	7/9
+	Liver Acc:98.9, mIoU: 90.8, Acc: 99.5, 89.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 17/20, 	0/8
+	Liver Acc:98.9, mIoU: 90.8, Acc: 99.5, 89.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 17/20, 	1/8
+	Liver Acc:98.9, mIoU: 90.8, Acc: 99.6, 88.9
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 17/20, 	2/8
+	Liver Acc:99.0, mIoU: 90.8, Acc: 99.6, 88.9
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 17/20, 	3/8
+	Liver Acc:98.9, mIoU: 90.9, Acc: 99.6, 89.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 17/20, 	4/8
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.6, 89.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 17/20, 	5/8
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.6, 89.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 17/20, 	6/8
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.6, 89.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 18/20, 	0/9
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.6, 89.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 18/20, 	1/9
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.6, 89.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 18/20, 	2/9
+	Liver Acc:99.0, mIoU: 91.0, Acc: 99.6, 89.2
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 18/20, 	3/9
+	Liver Acc:99.0, mIoU: 91.0, Acc: 99.6, 89.2
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 18/20, 	4/9
+	Liver Acc:99.0, mIoU: 91.0, Acc: 99.6, 89.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 18/20, 	5/9
+	Liver Acc:99.0, mIoU: 91.1, Acc: 99.5, 89.4
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 18/20, 	6/9
+	Liver Acc:99.0, mIoU: 91.0, Acc: 99.6, 89.2
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 18/20, 	7/9
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.5, 89.2
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 19/20, 	0/6
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.5, 89.1
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 19/20, 	1/6
+	Liver Acc:99.0, mIoU: 90.9, Acc: 99.6, 89.0
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 19/20, 	2/6
+	Liver Acc:98.9, mIoU: 90.3, Acc: 99.6, 87.9
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 19/20, 	3/6
+	Liver Acc:98.8, mIoU: 89.8, Acc: 99.6, 86.7
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
+Validation: 19/20, 	4/6
+	Liver Acc:98.8, mIoU: 89.8, Acc: 99.6, 86.6
+	Tumor Acc:99.8, mIoU: 49.9, Acc: 100.0, 0.0
